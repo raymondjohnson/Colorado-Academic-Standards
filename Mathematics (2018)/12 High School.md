@@ -1,8 +1,3 @@
----
-title: "High School"
-weight: 19
----
-
 # High School
 
 ## Standard 1. Number and Quantity
@@ -253,12 +248,12 @@ weight: 19
 ##### Students Can:
 
 4. (+) Add and subtract vectors. (CCSS: HS.N-VM.B.4)
-	a. Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes. (CCSS: HS.N-VM.B.4.a)
-	b. Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum. (CCSS: HS.N-VM.B.4.b)
-	c. Understand vector subtraction \(\mathbf{v} - \mathbf{w}\) as \(\mathbf{v} + (-\mathbf{w})\), where \(-\mathbf{w}\) is the additive inverse of \(\mathbf{w}\), with the same magnitude as \(\mathbf{w}\) and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise. (CCSS: HS.N-VM.B.4.c)
+   - 4.a. Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes. (CCSS: HS.N-VM.B.4.a)
+   - 4.b. Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum. (CCSS: HS.N-VM.B.4.b)
+   - 4.c. Understand vector subtraction \(\mathbf{v} - \mathbf{w}\) as \(\mathbf{v} + (-\mathbf{w})\), where \(-\mathbf{w}\) is the additive inverse of \(\mathbf{w}\), with the same magnitude as \(\mathbf{w}\) and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise. (CCSS: HS.N-VM.B.4.c)
 5. (+) Multiply a vector by a scalar. (CCSS: HS.N-VM.B.5)
-	a. Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g. as \(\mbox{c} \left( \mbox{v}_x, \mbox{v}_y \right) = \left( \mbox{cv}_x, \mbox{cv}_y \right)\). (CCSS: HS.N-VM.B.5.a)
-	b. Compute the magnitude of a scalar multiple \(\mbox{c}\mathbf{v}\) using \(\left\| \mbox{c}\mathbf{v} \right\| = |\mbox{c}|\mathbf{v}\). Compute the direction of \(\mbox{c}\mathbf{v}\) knowing that when \(|\mbox{c}|\mathbf{v} \neq 0\), the direction of \(\mbox{c}\mathbf{v}\) is either along \(\mathbf{v}\) (for \(c>0\)) or against \(\mathbf{v}\) (for \(c<0\)). (CCSS: HS.N-VM.B.5.b)
+   - 5.a. Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g. as \(\mbox{c} \left( \mbox{v}_x, \mbox{v}_y \right) = \left( \mbox{cv}_x, \mbox{cv}_y \right)\). (CCSS: HS.N-VM.B.5.a)
+   - 5.b. Compute the magnitude of a scalar multiple \(\mbox{c}\mathbf{v}\) using \(\left\| \mbox{c}\mathbf{v} \right\| = |\mbox{c}|\mathbf{v}\). Compute the direction of \(\mbox{c}\mathbf{v}\) knowing that when \(|\mbox{c}|\mathbf{v} \neq 0\), the direction of \(\mbox{c}\mathbf{v}\) is either along \(\mathbf{v}\) (for \(c>0\)) or against \(\mathbf{v}\) (for \(c<0\)). (CCSS: HS.N-VM.B.5.b)
 
 #### Academic Context and Connections
 
@@ -327,8 +322,8 @@ weight: 19
 ##### Students Can:
 
 1. Interpret expressions that represent a quantity in terms of its context.&#9733; (CCSS: HS.A-SSE.A.1)
-	a. Interpret parts of an expression, such as terms, factors, and coefficients. (CCSS: HS.A-SSE.A.1.a)
-	b. Interpret complicated expressions by viewing one or more of their parts as a single entity. *For example, interpret \(P\left(1+r\right)^n\) as the product of \(P\) and a factor not depending on \(P\).* (CCSS: HS.A-SSE.A.1.b)
+   - 1.a. Interpret parts of an expression, such as terms, factors, and coefficients. (CCSS: HS.A-SSE.A.1.a)
+   - 1.b. Interpret complicated expressions by viewing one or more of their parts as a single entity. *For example, interpret \(P\left(1+r\right)^n\) as the product of \(P\) and a factor not depending on \(P\).* (CCSS: HS.A-SSE.A.1.b)
 2. Use the structure of an expression to identify ways to rewrite it. For example, see \(x^4 - y^4\) as \(\left( x^2 \right)^2 - \left( y^2 \right)^2\), thus recognizing it as a difference of squares that can be factored as \(\left( x^2 - y^2 \right) \left( x^2 + y^2 \right)\). (CCSS: HS.A-SSE.A.2)
 
 #### Academic Context and Connections
@@ -363,11 +358,11 @@ weight: 19
 ##### Students Can:
 
 3. Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression.&#9733; (CCSS: HS.A-SSE.B.3)
-	a. Factor a quadratic expression to reveal the zeros of the function it defines. (CCSS: HS.A-SSE.B.3.a)
-	b. Complete the square in a quadratic expression to reveal the maximum or minimum value of the function it defines. (CCSS: HS.A-SSE.B.3.b)
-	c. Use the properties of exponents to transform expressions for exponential functions. *For example, the expression \(1.15t\) can be rewritten as \(\left( 1.15^\frac{1}{12} \right)^{12t} \approx 1.012^{12t}\) to reveal the approximate equivalent monthly interest rate if the annual rate is 15%.* (CCSS: HS.A-SSE.B.3.c)
+   - 3.a. Factor a quadratic expression to reveal the zeros of the function it defines. (CCSS: HS.A-SSE.B.3.a)
+   - 3.b. Complete the square in a quadratic expression to reveal the maximum or minimum value of the function it defines. (CCSS: HS.A-SSE.B.3.b)
+   - 3.c. Use the properties of exponents to transform expressions for exponential functions. *For example, the expression \(1.15t\) can be rewritten as \(\left( 1.15^\frac{1}{12} \right)^{12t} \approx 1.012^{12t}\) to reveal the approximate equivalent monthly interest rate if the annual rate is 15%.* (CCSS: HS.A-SSE.B.3.c)
 4. Use the formula for the sum of a finite geometric series (when the common ratio is not \(1\)) to solve problems. *For example, calculate mortgage payments.*&#9733; (CCSS: HS.A-SSE.B.4)
-	4. (+) Derive the formula for the sum of a finite geometric series (when the common ratio is not \(1\)). (CCSS: HS.A-SSE.B.4)
+   - 4.a (+) Derive the formula for the sum of a finite geometric series (when the common ratio is not \(1\)). (CCSS: HS.A-SSE.B.4)
 
 #### Academic Context and Connections
 
@@ -603,8 +598,8 @@ weight: 19
 
 3. Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters. (CCSS: HS.A-REI.B.3)
 4. Solve quadratic equations in one variable. (CCSS: HS.A-REI.B.4)
-	a. Use the method of completing the square to transform any quadratic equation in \(x\) into an equation of the form \(\left(x - p \right)^2 = q\) that has the same solutions. Derive the quadratic formula from this form. (CCSS: HS.A-REI.B.4.a)
-	b. Solve quadratic equations (e.g., for \(x^2 = 49\)) by inspection, taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as \(a \pm bi\) for real numbers \(a\) and \(b\). (CCSS: HS.A-REI.B.4.b)
+   - 4.a. Use the method of completing the square to transform any quadratic equation in \(x\) into an equation of the form \(\left(x - p \right)^2 = q\) that has the same solutions. Derive the quadratic formula from this form. (CCSS: HS.A-REI.B.4.a)
+   - 4.b. Solve quadratic equations (e.g., for \(x^2 = 49\)) by inspection, taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as \(a \pm bi\) for real numbers \(a\) and \(b\). (CCSS: HS.A-REI.B.4.b)
 
 #### Academic Context and Connections
 
@@ -783,14 +778,14 @@ weight: 19
 ##### Students Can:
 
 7. Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.&#9733; (CCSS: HS.F-IF.C.7)
-	a. Graph linear and quadratic functions and show intercepts, maxima, and minima. (CCSS: HS.F-IF.C.7.a)
-	b. Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions. (CCSS: HS.F-IF.C.7.b)
-	c. Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior. (CCSS: HS.F-IF.C.7.c)
-	d. (+) Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior. (CCSS: HS.F-IF.C.7.d)
-	e. Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude. (CCSS: HS.F-IF.C.7.e)
+   - 7.a. Graph linear and quadratic functions and show intercepts, maxima, and minima. (CCSS: HS.F-IF.C.7.a)
+   - 7.b. Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions. (CCSS: HS.F-IF.C.7.b)
+   - 7.c. Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior. (CCSS: HS.F-IF.C.7.c)
+   - 7.d. (+) Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior. (CCSS: HS.F-IF.C.7.d)
+   - 7.e. Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude. (CCSS: HS.F-IF.C.7.e)
 8. Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function. (CCSS: HS.F-IF.C.8)
-	a. Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context. (CCSS: HS.F-IF.C.8.a)
-	b. Use the properties of exponents to interpret expressions for exponential functions. *For example, identify percent rate of change in functions such as \(y = \left( 1.02 \right)^t\), \(y = \left( 0.97 \right)^t\), \(y = \left( 1.01 \right)12^t\), \(y = \left( 1.2 \right)^\frac{t}{10}\), and classify them as representing exponential growth or decay.* (CCSS: HS.F-IF.C.8.b)
+   - 8.a. Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context. (CCSS: HS.F-IF.C.8.a)
+   - 8.b. Use the properties of exponents to interpret expressions for exponential functions. *For example, identify percent rate of change in functions such as \(y = \left( 1.02 \right)^t\), \(y = \left( 0.97 \right)^t\), \(y = \left( 1.01 \right)12^t\), \(y = \left( 1.2 \right)^\frac{t}{10}\), and classify them as representing exponential growth or decay.* (CCSS: HS.F-IF.C.8.b)
 9. Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). *For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum.* (CCSS: HS.F-IF.C.9)
 
 #### Academic Context and Connections
@@ -824,9 +819,9 @@ weight: 19
 ##### Students Can:
 
 1. Write a function that describes a relationship between two quantities.&#9733; (CCSS: HS.F-BF.A.1)
-	a. Determine an explicit expression, a recursive process, or steps for calculation from a context. (CCSS: HS.F-BF.A.1.a)
-	b. Combine standard function types using arithmetic operations. *For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model.* (CCSS: HS.F-BF.A.1.b)
-	c. (+) Compose functions. *For example, if \(T(y)\) is the temperature in the atmosphere as a function of height, and \(h(t)\) is the height of a weather balloon as a function of time, then \(T(h(t))\) is the temperature at the location of the weather balloon as a function of time.* (CCSS: HS.F-BF.A.1.c)
+   - 1.a. Determine an explicit expression, a recursive process, or steps for calculation from a context. (CCSS: HS.F-BF.A.1.a)
+   - 1.b. Combine standard function types using arithmetic operations. *For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model.* (CCSS: HS.F-BF.A.1.b)
+   - 1.c. (+) Compose functions. *For example, if \(T(y)\) is the temperature in the atmosphere as a function of height, and \(h(t)\) is the height of a weather balloon as a function of time, then \(T(h(t))\) is the temperature at the location of the weather balloon as a function of time.* (CCSS: HS.F-BF.A.1.c)
 2. Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms.&#9733; (CCSS: HS.F-BF.A.2)
 
 #### Academic Context and Connections
@@ -860,10 +855,10 @@ weight: 19
 
 3. Identify the effect on the graph of replacing \(f(x)\) by \(f(x) + k\), \(k f(x)\), \(f(kx)\), and \(f(x + k)\) for specific values of \(k\) both positive and negative; find the value of \(k\) given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. *Include recognizing even and odd functions from their graphs and algebraic expressions for them.* (CCSS: HS.F-BF.B.3)
 4. Find inverse functions. (CCSS: HS.F-BF.B.4)
-	a. Solve an equation of the form \(f(x) = c\) for a simple function \(f\) that has an inverse and write an expression for the inverse. *For example, \(f(x) = 2x^3\) or \(f(x) = \frac{x+1}{x-1}\) for \(x \neq 1\).* (CCSS: HS.F-BF.B.4.a)
-	b. (+) Verify by composition that one function is the inverse of another. (CCSS: HS.F-BF.B.4.b)
-	c. (+) Read values of an inverse function from a graph or table, given that the function has an inverse. (CCSS: HS.F-BF.B.4.c)
-	d. (+) Produce an invertible function from a non-invertible function by restricting the domain. (CCSS: HS.F-BF.B.4.d)
+   - 4.a. Solve an equation of the form \(f(x) = c\) for a simple function \(f\) that has an inverse and write an expression for the inverse. *For example, \(f(x) = 2x^3\) or \(f(x) = \frac{x+1}{x-1}\) for \(x \neq 1\).* (CCSS: HS.F-BF.B.4.a)
+   - 4.b. (+) Verify by composition that one function is the inverse of another. (CCSS: HS.F-BF.B.4.b)
+   - 4.c. (+) Read values of an inverse function from a graph or table, given that the function has an inverse. (CCSS: HS.F-BF.B.4.c)
+   - 4.d. (+) Produce an invertible function from a non-invertible function by restricting the domain. (CCSS: HS.F-BF.B.4.d)
 5. (+) Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems involving logarithms and exponents. (CCSS: HS.F-BF.B.5)
 
 #### Academic Context and Connections
@@ -899,9 +894,9 @@ weight: 19
 ##### Students Can:
 
 1. Distinguish between situations that can be modeled with linear functions and with exponential functions. (CCSS: HS.F-LE.A.1)
-	a. Prove that linear functions grow by equal differences over equal intervals, and that exponential functions grow by equal factors over equal intervals. (CCSS: HS.F-LE.A.1.a)
-	b. Identify situations in which one quantity changes at a constant rate per unit interval relative to another. (CCSS: HS.F-LE.A.1.b)
-	c. Identify situations in which a quantity grows or decays by a constant percent rate per unit interval relative to another. (CCSS: HS.F-LE.A.1.c)
+   - 1.a. Prove that linear functions grow by equal differences over equal intervals, and that exponential functions grow by equal factors over equal intervals. (CCSS: HS.F-LE.A.1.a)
+   - 1.b. Identify situations in which one quantity changes at a constant rate per unit interval relative to another. (CCSS: HS.F-LE.A.1.b)
+   - 1.c. Identify situations in which a quantity grows or decays by a constant percent rate per unit interval relative to another. (CCSS: HS.F-LE.A.1.c)
 2. Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table). (CCSS: HS.F-LE.A.2)
 3. Use graphs and tables to describe that a quantity increasing exponentially eventually exceeds a quantity increasing linearly, quadratically, or (more generally) as a polynomial function. (CCSS: HS.F-LE.A.3)
 4. For exponential models, express as a logarithm the solution to \(ab^{ct} = d\) where \(a\), \(c\), and \(d\) are numbers and the base \(b\) is \(2\), \(10\), or \(e\); evaluate the logarithm using technology. (CCSS: HS.F-LE.A.4)
@@ -1112,9 +1107,9 @@ weight: 19
 
 5. Summarize categorical data for two categories in two-way frequency tables. Interpret relative frequencies in the context of the data (including joint, marginal, and conditional relative frequencies). Recognize possible associations and trends in the data. (CCSS: HS.S-ID.B.5)
 6. Represent data on two quantitative variables on a scatter plot, and describe how the variables are related. (CCSS: HS.S-ID.B.6)
-	a. Fit a function to the data; use functions fitted to data to solve problems in the context of the data. *Use given functions or choose a function suggested by the context. Emphasize linear, quadratic, and exponential models.* (CCSS: HS.S-ID.B.6.a)
-	b. Informally assess the fit of a function by plotting and analyzing residuals. (CCSS: HS.S-ID.B.6.b)
-	c. Fit a linear function for a scatter plot that suggests a linear association. (CCSS: HS.S-ID.B.6.c)
+   - 6.a. Fit a function to the data; use functions fitted to data to solve problems in the context of the data. *Use given functions or choose a function suggested by the context. Emphasize linear, quadratic, and exponential models.* (CCSS: HS.S-ID.B.6.a)
+   - 6.b. Informally assess the fit of a function by plotting and analyzing residuals. (CCSS: HS.S-ID.B.6.b)
+   - 6.c. Fit a linear function for a scatter plot that suggests a linear association. (CCSS: HS.S-ID.B.6.c)
 9. Distinguish between correlation and causation. (CCSS: HS.S-ID.C.9)
 
 #### Academic Context and Connections
@@ -1364,8 +1359,8 @@ weight: 19
 ##### Students Can:
 
 5. (+) Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values. (CCSS: HS.S-MD.B.5)
-	a. Find the expected payoff for a game of chance. *For example, find the expected winnings from a state lottery ticket or game at a fast-food restaurant.* (CCSS: HS.S-MD.B.5.a)
-	b. Evaluate and compare strategies on the basis of expected values. *For example, compare a high-deductible versus a low-deductible automobile insurance policy using various, but reasonable, chances of having a minor or major accident.* (CCSS: HS.S-MD.B.5.b)
+   - 5.a. Find the expected payoff for a game of chance. *For example, find the expected winnings from a state lottery ticket or game at a fast-food restaurant.* (CCSS: HS.S-MD.B.5.a)
+   - 5.b. Evaluate and compare strategies on the basis of expected values. *For example, compare a high-deductible versus a low-deductible automobile insurance policy using various, but reasonable, chances of having a minor or major accident.* (CCSS: HS.S-MD.B.5.b)
 6. (+) Use probabilities to make fair decisions (e.g., drawing by lots, using a random number generator). (CCSS: HS.S-MD.B.6)
 7. (+) Analyze decisions and strategies using probability concepts (e.g., product testing, medical testing, pulling a hockey goalie at the end of a game). (CCSS: HS.S-MD.B.7)
 
@@ -1534,8 +1529,8 @@ weight: 19
 ##### Students Can:
 
 1. Verify experimentally the properties of dilations given by a center and a scale factor. (CCSS: HS.G-SRT.A.1)
-	a. Show that a dilation takes a line not passing through the center of the dilation to a parallel line, and leaves a line passing through the center unchanged. (CCSS: HS.G-SRT.A.1.a)
-	b. Show that the dilation of a line segment is longer or shorter in the ratio given by the scale factor. (CCSS: HS.G-SRT.A.1.b)
+   - 1.a. Show that a dilation takes a line not passing through the center of the dilation to a parallel line, and leaves a line passing through the center unchanged. (CCSS: HS.G-SRT.A.1.a)
+   - 1.b. Show that the dilation of a line segment is longer or shorter in the ratio given by the scale factor. (CCSS: HS.G-SRT.A.1.b)
 2. Given two figures, use the definition of similarity in terms of similarity transformations to decide if they are similar; explain using similarity transformations the meaning of similarity for triangles as the equality of all corresponding pairs of angles and the proportionality of all corresponding pairs of sides. (CCSS: HS.G-SRT.A.2)
 3. Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar. (CCSS: HS.G-SRT.A.3)
 

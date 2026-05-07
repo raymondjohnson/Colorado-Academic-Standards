@@ -1,8 +1,3 @@
----
-title: "Third Grade"
-weight: 13
----
-
 # Third Grade
 
 ## Standard 1. Number and Quantity
@@ -56,13 +51,13 @@ weight: 13
 
 1. Describe a fraction \(\frac{1}{b}\) as the quantity formed by \(1\) part when a whole is partitioned into \(b\) equal parts; understand a fraction \(\frac{a}{b}\) as the quantity formed by \(a\) parts of size \(\frac{1}{b}\). (CCSS: 3.NF.A.1)
 2. Describe a fraction as a number on the number line; represent fractions on a number line diagram. (CCSS: 3.NF.A.2)
-	a. Represent a fraction \(\frac{1}{b}\) on a number line diagram by defining the interval from \(0\) to \(1\) as the whole and partitioning it into \(b\) equal parts. Recognize that each part has size \(\frac{1}{b}\) and that the endpoint of the part based at \(0\) locates the number \(\frac{1}{b}\) on the number line. (CCSS: 3.NF.A.2.a)
-	b. Represent a fraction \(\frac{a}{b}\) on a number line diagram by marking off \(a\) lengths \(\frac{1}{b}\) from \(0\). Recognize that the resulting interval has size \(\frac{a}{b}\) and that its endpoint locates the number \(\frac{a}{b}\) on the number line. (CCSS: 3.NF.A.2.b)
+   - 2.a. Represent a fraction \(\frac{1}{b}\) on a number line diagram by defining the interval from \(0\) to \(1\) as the whole and partitioning it into \(b\) equal parts. Recognize that each part has size \(\frac{1}{b}\) and that the endpoint of the part based at \(0\) locates the number \(\frac{1}{b}\) on the number line. (CCSS: 3.NF.A.2.a)
+   - 2.b. Represent a fraction \(\frac{a}{b}\) on a number line diagram by marking off \(a\) lengths \(\frac{1}{b}\) from \(0\). Recognize that the resulting interval has size \(\frac{a}{b}\) and that its endpoint locates the number \(\frac{a}{b}\) on the number line. (CCSS: 3.NF.A.2.b)
 3. Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size. (CCSS: 3.NF.A.3)
-	a. Understand two fractions as equivalent (equal) if they are the same size, or the same point on a number line. (CCSS: 3.NF.A.3.a)
-	b. Recognize and generate simple equivalent fractions, e.g., \(\frac{1}{2} = \frac{2}{4}\), \(\frac{4}{6} = \frac{2}{3}\). Explain why the fractions are equivalent, e.g., by using a visual fraction model. (CCSS: 3.NF.A.3.b)
-	c. Express whole numbers as fractions, and recognize fractions that are equivalent to whole numbers. *Examples: Express \(3\) in the form \(3 = \frac{3}{1}\); recognize that \(\frac{6}{1} = 6\); locate \(\frac{4}{4}\) and \(1\) at the same point of a number line diagram.* (CCSS: 3.NF.A.3.c)
-	d. Compare two fractions with the same numerator or the same denominator by reasoning about their size. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with the symbols \(>\), \(=\), or \(<\), and justify the conclusions, e.g., by using a visual fraction model. (CCSS: 3.NF.A.3.d)
+   - 3.a. Understand two fractions as equivalent (equal) if they are the same size, or the same point on a number line. (CCSS: 3.NF.A.3.a)
+   - 3.b. Recognize and generate simple equivalent fractions, e.g., \(\frac{1}{2} = \frac{2}{4}\), \(\frac{4}{6} = \frac{2}{3}\). Explain why the fractions are equivalent, e.g., by using a visual fraction model. (CCSS: 3.NF.A.3.b)
+   - 3.c. Express whole numbers as fractions, and recognize fractions that are equivalent to whole numbers. *Examples: Express \(3\) in the form \(3 = \frac{3}{1}\); recognize that \(\frac{6}{1} = 6\); locate \(\frac{4}{4}\) and \(1\) at the same point of a number line diagram.* (CCSS: 3.NF.A.3.c)
+   - 3.d. Compare two fractions with the same numerator or the same denominator by reasoning about their size. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with the symbols \(>\), \(=\), or \(<\), and justify the conclusions, e.g., by using a visual fraction model. (CCSS: 3.NF.A.3.d)
 
 #### Academic Context and Connections
 
@@ -314,14 +309,14 @@ weight: 13
 ##### Students Can:
 
 5. Recognize area as an attribute of plane figures and understand concepts of area measurement. (CCSS: 3.MD.C.5)
-	a. A square with side length \(1\) unit, called "a unit square," is said to have "one square unit" of area, and can be used to measure area. (CCSS: 3.MD.C.5.a)
-	b. A plane figure which can be covered without gaps or overlaps by \(n\) unit squares is said to have an area of \(n\) square units. (CCSS: 3.MD.C.5.b)
+   - 5.a. A square with side length \(1\) unit, called "a unit square," is said to have "one square unit" of area, and can be used to measure area. (CCSS: 3.MD.C.5.a)
+   - 5.b. A plane figure which can be covered without gaps or overlaps by \(n\) unit squares is said to have an area of \(n\) square units. (CCSS: 3.MD.C.5.b)
 6. Measure areas by counting unit squares (square cm, square m, square in, square ft, and improvised units). (CCSS: 3.MD.C.6)
 7. Use concepts of area and relate area to the operations of multiplication and addition. (CCSS: 3.MD.C.7)
-	a. Find the area of a rectangle with whole-number side lengths by tiling it, and show that the area is the same as would be found by multiplying the side lengths. (CCSS: 3.MD.C.7.a)
-	b. Multiply side lengths to find areas of rectangles with whole-number side lengths in the context of solving real-world and mathematical problems, and represent whole-number products as rectangular areas in mathematical reasoning. (CCSS: 3.MD.C.7.b)
-	c. Use tiling to show in a concrete case that the area of a rectangle with whole-number side lengths \(a\) and \(b + c\) is the sum of \(a \times b\) and \(a \times c\). Use area models to represent the distributive property in mathematical reasoning. (CCSS: 3.MD.C.7.c)
-	d. Recognize area as additive. Find areas of rectilinear figures by decomposing them into non-overlapping rectangles and adding the areas of the non-overlapping parts, applying this technique to solve real-world problems. (CCSS: 3.MD.C.7.d)
+   - 7.a. Find the area of a rectangle with whole-number side lengths by tiling it, and show that the area is the same as would be found by multiplying the side lengths. (CCSS: 3.MD.C.7.a)
+   - 7.b. Multiply side lengths to find areas of rectangles with whole-number side lengths in the context of solving real-world and mathematical problems, and represent whole-number products as rectangular areas in mathematical reasoning. (CCSS: 3.MD.C.7.b)
+   - 7.c. Use tiling to show in a concrete case that the area of a rectangle with whole-number side lengths \(a\) and \(b + c\) is the sum of \(a \times b\) and \(a \times c\). Use area models to represent the distributive property in mathematical reasoning. (CCSS: 3.MD.C.7.c)
+   - 7.d. Recognize area as additive. Find areas of rectilinear figures by decomposing them into non-overlapping rectangles and adding the areas of the non-overlapping parts, applying this technique to solve real-world problems. (CCSS: 3.MD.C.7.d)
 
 #### Academic Context and Connections
 

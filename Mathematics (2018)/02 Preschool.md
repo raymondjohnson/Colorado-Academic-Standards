@@ -1,8 +1,3 @@
----
-title: "Preschool"
-weight: 9
----
-
 # Preschool
 
 ## Standard 1. Number and Quantity

@@ -1,8 +1,3 @@
----
-title: "Front Matter"
-weight: 1
----
-
 # Front Matter
 
 ## Mathematics Standards Review and Revision Committee

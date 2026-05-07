@@ -1,8 +1,3 @@
----
-title: "Seventh Grade"
-weight: 17
----
-
 # Seventh Grade
 
 ## Standard 1. Number and Quantity
@@ -21,10 +16,10 @@ weight: 17
 
 1. Compute unit rates associated with ratios of fractions, including ratios of lengths, areas, and other quantities measured in like or different units. *For example, if a person walks \(\frac{1}{2}\) mile in each \(\frac{1}{4}\) hour, compute the unit rate as the complex fraction \(\frac{\frac{1}{2}}{\frac{1}{4}}\) miles per hour, equivalently \(2\) miles per hour.* (CCSS: 7.RP.A.1)
 2. Identify and represent proportional relationships between quantities. (CCSS: 7.RP.A.2)
-	a. Determine whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin. (CCSS: 7.RP.A.2.a)
-	b. Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships. (CCSS: 7.RP.A.2.b)
-	c. Represent proportional relationships by equations. *For example, if total cost \(t\) is proportional to the number \(n\) of items purchased at a constant price \(p\), the relationship between the total cost and the number of items can be expressed as \(t = pn\).* (CCSS: 7.RP.A.2.c)
-	d. Explain what a point \(\left(x,y\right)\) on the graph of a proportional relationship means in terms of the situation, with special attention to the points \(\left(0, 0\right)\) and \(\left(1, r\right)\) where \(r\) is the unit rate. (CCSS: 7.RP.A.2.d)
+   - 2.a. Determine whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin. (CCSS: 7.RP.A.2.a)
+   - 2.b. Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships. (CCSS: 7.RP.A.2.b)
+   - 2.c. Represent proportional relationships by equations. *For example, if total cost \(t\) is proportional to the number \(n\) of items purchased at a constant price \(p\), the relationship between the total cost and the number of items can be expressed as \(t = pn\).* (CCSS: 7.RP.A.2.c)
+   - 2.d. Explain what a point \(\left(x,y\right)\) on the graph of a proportional relationship means in terms of the situation, with special attention to the points \(\left(0, 0\right)\) and \(\left(1, r\right)\) where \(r\) is the unit rate. (CCSS: 7.RP.A.2.d)
 3. Use proportional relationships to solve multistep ratio and percent problems. *Examples: simple interest, tax, markups and markdowns, gratuities and commissions, fees, percent increase and decrease, percent error.* (CCSS: 7.RP.A.3)
 
 #### Academic Context and Connections
@@ -62,15 +57,15 @@ weight: 17
 ##### Students Can:
 
 1. Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram. (CCSS: 7.NS.A.1)
-	a. Describe situations in which opposite quantities combine to make \(0\). *For example, a hydrogen atom has \(0\) charge because its two constituents are oppositely charged.* (CCSS: 7.NS.A.1.a)
-	b. Demonstrate \(p+q\) as the number located a distance \(\left|q\right|\) from \(p\), in the positive or negative direction depending on whether \(q\) is positive or negative. Show that a number and its opposite have a sum of \(0\) (are additive inverses). Interpret sums of rational numbers by describing real-world contexts. (CCSS: 7.NS.A.1.b)
-	c. Demonstrate subtraction of rational numbers as adding the additive inverse, \(p-q=p+\left(-q\right)\). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts. (CCSS: 7.NS.A.1.c)
-	d. Apply properties of operations as strategies to add and subtract rational numbers. (CCSS: 7.NS.A.1.d)
+   - 1.a. Describe situations in which opposite quantities combine to make \(0\). *For example, a hydrogen atom has \(0\) charge because its two constituents are oppositely charged.* (CCSS: 7.NS.A.1.a)
+   - 1.b. Demonstrate \(p+q\) as the number located a distance \(\left|q\right|\) from \(p\), in the positive or negative direction depending on whether \(q\) is positive or negative. Show that a number and its opposite have a sum of \(0\) (are additive inverses). Interpret sums of rational numbers by describing real-world contexts. (CCSS: 7.NS.A.1.b)
+   - 1.c. Demonstrate subtraction of rational numbers as adding the additive inverse, \(p-q=p+\left(-q\right)\). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts. (CCSS: 7.NS.A.1.c)
+   - 1.d. Apply properties of operations as strategies to add and subtract rational numbers. (CCSS: 7.NS.A.1.d)
 2. Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers. (CCSS: 7.NS.A.2)
-	a. Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as \(\left(-1\right)\left(-1\right) = 1\) and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts. (CCSS: 7.NS.A.2.a)
-	b. Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If \(p\) and \(q\) are integers, then \(-\left(\frac{p}{q}\right) = \frac{-p}{q} = \frac{p}{-q}\). Interpret quotients of rational numbers by describing real-world contexts. (CCSS: 7.NS.A.2.b)
-	c. Apply properties of operations as strategies to multiply and divide rational numbers. (CCSS: 7.NS.A.2.c)
-	d. Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in \(0\)s or eventually repeats. (CCSS: 7.NS.A.2.d)
+   - 2.a. Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as \(\left(-1\right)\left(-1\right) = 1\) and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts. (CCSS: 7.NS.A.2.a)
+   - 2.b. Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If \(p\) and \(q\) are integers, then \(-\left(\frac{p}{q}\right) = \frac{-p}{q} = \frac{p}{-q}\). Interpret quotients of rational numbers by describing real-world contexts. (CCSS: 7.NS.A.2.b)
+   - 2.c. Apply properties of operations as strategies to multiply and divide rational numbers. (CCSS: 7.NS.A.2.c)
+   - 2.d. Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in \(0\)s or eventually repeats. (CCSS: 7.NS.A.2.d)
 3. Solve real-world and mathematical problems involving the four operations with rational numbers. *(Computations with rational numbers extend the rules for manipulating fractions to complex fractions.)* (CCSS: 7.NS.A.3)
 
 #### Academic Context and Connections
@@ -142,8 +137,8 @@ weight: 17
 
 3. Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies. *For example: If a woman making $25 an hour gets a 10\% raise, she will make an additional \(\frac{1}{10}\) of her salary an hour, or $2.50, for a new salary of $27.50. If you want to place a towel bar \(9 \frac{3}{4}\) inches long in the center of a door that is \(27 \frac{1}{2}\) inches wide, you will need to place the bar about \(9\) inches from each edge; this estimate can be used as a check on the exact computation.* (CCSS: 7.EE.B.3)
 4. Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities. (CCSS: 7.EE.B.4)
-	a. Solve word problems leading to equations of the form \(px \pm q = r\) and \(p\left(x \pm q\right) = r\), where \(p\), \(q\), and \(r\) are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach. *For example, the perimeter of a rectangle is \(54\) cm. Its length is \(6\) cm. What is its width?* (CCSS: 7.EE.B.4.a)
-	b. Solve word problems leading to inequalities of the form \(px \pm q > r\), \(px \pm q \geq r\), \(px \pm q < r\), or \(px \pm q \leq r\), where \(p\), \(q\), and \(r\) are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem. *For example: As a salesperson, you are paid $50 per week plus $3 per sale. This week you want your pay to be at least $100. Write an inequality for the number of sales you need to make and describe the solutions.* (CCSS: 7.EE.B.4.b)
+   - 4.a. Solve word problems leading to equations of the form \(px \pm q = r\) and \(p\left(x \pm q\right) = r\), where \(p\), \(q\), and \(r\) are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach. *For example, the perimeter of a rectangle is \(54\) cm. Its length is \(6\) cm. What is its width?* (CCSS: 7.EE.B.4.a)
+   - 4.b. Solve word problems leading to inequalities of the form \(px \pm q > r\), \(px \pm q \geq r\), \(px \pm q < r\), or \(px \pm q \leq r\), where \(p\), \(q\), and \(r\) are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem. *For example: As a salesperson, you are paid $50 per week plus $3 per sale. This week you want your pay to be at least $100. Write an inequality for the number of sales you need to make and describe the solutions.* (CCSS: 7.EE.B.4.b)
 
 #### Academic Context and Connections
 
@@ -254,12 +249,12 @@ weight: 17
 5. Explain that the probability of a chance event is a number between \(0\) and \(1\) that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near \(0\) indicates an unlikely event, a probability around \(\frac{1}{2}\) indicates an event that is neither unlikely nor likely, and a probability near \(1\) indicates a likely event. (CCSS: 7.SP.C.5)
 6. Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability. *For example, when rolling a number cube \(600\) times, predict that a \(3\) or \(6\) would be rolled roughly \(200\) times, but probably not exactly \(200\) times.* (CCSS: 7.SP.C.6)
 7. Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy. (CCSS: 7.SP.C.7)
-	a. Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events. *For example, if a student is selected at random from a class, find the probability that Jane will be selected and the probability that a girl will be selected.* (CCSS: 7.SP.C.7.a)
-	b. Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process. *For example, find the approximate probability that a spinning penny will land heads up or that a tossed paper cup will land open-end down. Do the outcomes for the spinning penny appear to be equally likely based on the observed frequencies?* (CCSS: 7.SP.C.7.b)
+   - 7.a. Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events. *For example, if a student is selected at random from a class, find the probability that Jane will be selected and the probability that a girl will be selected.* (CCSS: 7.SP.C.7.a)
+   - 7.b. Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process. *For example, find the approximate probability that a spinning penny will land heads up or that a tossed paper cup will land open-end down. Do the outcomes for the spinning penny appear to be equally likely based on the observed frequencies?* (CCSS: 7.SP.C.7.b)
 8. Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation. (CCSS: 7.SP.C.8)
-	a. Explain that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs. (CCSS: 7.SP.C.8.a)
-	b. Represent sample spaces for compound events using methods such as organized lists, tables, and tree diagrams. For an event described in everyday language (e.g., "rolling double sixes"), identify the outcomes in the sample space which compose the event. (CCSS: 7.SP.C.8.b)
-	c. Design and use a simulation to generate frequencies for compound events. *For example, use random digits as a simulation tool to approximate the answer to the question: If \(40\%\) of donors have type A blood, what is the probability that it will take at least \(4\) donors to find one with type A blood?* (CCSS: 7.SP.C.8.c)
+   - 8.a. Explain that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs. (CCSS: 7.SP.C.8.a)
+   - 8.b. Represent sample spaces for compound events using methods such as organized lists, tables, and tree diagrams. For an event described in everyday language (e.g., "rolling double sixes"), identify the outcomes in the sample space which compose the event. (CCSS: 7.SP.C.8.b)
+   - 8.c. Design and use a simulation to generate frequencies for compound events. *For example, use random digits as a simulation tool to approximate the answer to the question: If \(40\%\) of donors have type A blood, what is the probability that it will take at least \(4\) donors to find one with type A blood?* (CCSS: 7.SP.C.8.c)
 
 #### Academic Context and Connections
 

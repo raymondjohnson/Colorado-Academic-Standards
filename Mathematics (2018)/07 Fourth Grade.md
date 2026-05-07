@@ -1,8 +1,3 @@
----
-title: "Fourth Grade"
-weight: 14
----
-
 # Fourth Grade
 
 ## Standard 1. Number and Quantity
@@ -126,14 +121,14 @@ weight: 14
 ##### Students Can:
 
 3. Understand a fraction \(\frac{a}{b}\) with \(a > 1\) as a sum of fractions \(\frac{1}{b}\). (CCSS: 4.NF.B.3)
-	a. Understand addition and subtraction of fractions as joining and separating parts referring to the same whole. (CCSS: 4.NF.B.3.a)
-	b. Decompose a fraction into a sum of fractions with like denominators in more than one way, recording each decomposition by an equation. Justify decompositions, e.g., by using a visual fraction model. *Examples: \(\frac{3}{8} = \frac{1}{8} + \frac{1}{8} + \frac{1}{8}\); \(\frac{3}{8} = \frac{1}{8} + \frac{2}{8}\); \(2 \frac{1}{8} = 1 + 1 + \frac{1}{8} = \frac{8}{8} + \frac{8}{8} + \frac{1}{8}\).* (CCSS: 4.NF.B.3.b)
-	c. Add and subtract mixed numbers with like denominators, e.g., by replacing each mixed number with an equivalent fraction, and/or by using properties of operations and the relationship between addition and subtraction. (CCSS: 4.NF.B.3.c)
-	d. Solve word problems involving addition and subtraction of fractions referring to the same whole and having like denominators, e.g., by using visual fraction models and equations to represent the problem. (CCSS: 4.NF.B.3.d)
+   - 3.a. Understand addition and subtraction of fractions as joining and separating parts referring to the same whole. (CCSS: 4.NF.B.3.a)
+   - 3.b. Decompose a fraction into a sum of fractions with like denominators in more than one way, recording each decomposition by an equation. Justify decompositions, e.g., by using a visual fraction model. *Examples: \(\frac{3}{8} = \frac{1}{8} + \frac{1}{8} + \frac{1}{8}\); \(\frac{3}{8} = \frac{1}{8} + \frac{2}{8}\); \(2 \frac{1}{8} = 1 + 1 + \frac{1}{8} = \frac{8}{8} + \frac{8}{8} + \frac{1}{8}\).* (CCSS: 4.NF.B.3.b)
+   - 3.c. Add and subtract mixed numbers with like denominators, e.g., by replacing each mixed number with an equivalent fraction, and/or by using properties of operations and the relationship between addition and subtraction. (CCSS: 4.NF.B.3.c)
+   - 3.d. Solve word problems involving addition and subtraction of fractions referring to the same whole and having like denominators, e.g., by using visual fraction models and equations to represent the problem. (CCSS: 4.NF.B.3.d)
 4. Apply and extend previous understandings of multiplication to multiply a fraction by a whole number. (CCSS: 4.NF.B.4)
-	a. Understand a fraction \(\frac{a}{b}\) as a multiple of \(\frac{1}{b}\). *For example, use a visual fraction model to represent \(\frac{5}{4}\) as the product \(5 \times \frac{1}{4}\), recording the conclusion by the equation \(\frac{5}{4} = 5 \times \frac{1}{4}\).* (CCSS: 4.NF.B.4.a)
-	b. Understand a multiple of \(\frac{a}{b}\) as a multiple of \(\frac{1}{b}\), and use this understanding to multiply a fraction by a whole number. *For example, use a visual fraction model to express \(3 \times \frac{2}{5}\) as \(6 \times \frac{1}{5}\), recognizing this product as \(\frac{6}{5}\). (In general, \(n \times \frac{a}{b} = \frac{n \times a}{b}\).)* (CCSS: 4.NF.B.4.b)
-	c. Solve word problems involving multiplication of a fraction by a whole number, e.g., by using visual fraction models and equations to represent the problem. *For example, if each person at a party will eat \(\frac{3}{8}\) of a pound of roast beef, and there will be \(5\) people at the party, how many pounds of roast beef will be needed? Between what two whole numbers does your answer lie?* (CCSS: 4.NF.B.4.c)
+   - 4.a. Understand a fraction \(\frac{a}{b}\) as a multiple of \(\frac{1}{b}\). *For example, use a visual fraction model to represent \(\frac{5}{4}\) as the product \(5 \times \frac{1}{4}\), recording the conclusion by the equation \(\frac{5}{4} = 5 \times \frac{1}{4}\).* (CCSS: 4.NF.B.4.a)
+   - 4.b. Understand a multiple of \(\frac{a}{b}\) as a multiple of \(\frac{1}{b}\), and use this understanding to multiply a fraction by a whole number. *For example, use a visual fraction model to express \(3 \times \frac{2}{5}\) as \(6 \times \frac{1}{5}\), recognizing this product as \(\frac{6}{5}\). (In general, \(n \times \frac{a}{b} = \frac{n \times a}{b}\).)* (CCSS: 4.NF.B.4.b)
+   - 4.c. Solve word problems involving multiplication of a fraction by a whole number, e.g., by using visual fraction models and equations to represent the problem. *For example, if each person at a party will eat \(\frac{3}{8}\) of a pound of roast beef, and there will be \(5\) people at the party, how many pounds of roast beef will be needed? Between what two whole numbers does your answer lie?* (CCSS: 4.NF.B.4.c)
 
 #### Academic Context and Connections
 
@@ -377,8 +372,8 @@ weight: 14
 ##### Students Can:
 
 5. Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement: (CCSS: 4.MD.C.5)
-	a. An angle is measured with reference to a circle with its center at the common endpoint of the rays, by considering the fraction of the circular arc between the points where the two rays intersect the circle. An angle that turns through \(\frac{1}{360}\) of a circle is called a "one-degree angle," and can be used to measure angles. (CCSS: 4.MD.C.5.a)
-	b. An angle that turns through \(n\) one-degree angles is said to have an angle measure of \(n\) degrees. (CCSS: 4.MD.C.5.b)
+   - 5.a. An angle is measured with reference to a circle with its center at the common endpoint of the rays, by considering the fraction of the circular arc between the points where the two rays intersect the circle. An angle that turns through \(\frac{1}{360}\) of a circle is called a "one-degree angle," and can be used to measure angles. (CCSS: 4.MD.C.5.a)
+   - 5.b. An angle that turns through \(n\) one-degree angles is said to have an angle measure of \(n\) degrees. (CCSS: 4.MD.C.5.b)
 6. Measure angles in whole-number degrees using a protractor. Sketch angles of specified measure. (CCSS: 4.MD.C.6)
 7. Recognize angle measure as additive. When an angle is decomposed into non-overlapping parts, the angle measure of the whole is the sum of the angle measures of the parts. Solve addition and subtraction problems to find unknown angles on a diagram in real-world and mathematical problems, e.g., by using an equation with a symbol for the unknown angle measure. (CCSS: 4.MD.C.7)
 

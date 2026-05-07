@@ -1,8 +1,3 @@
----
-title: "Second Grade"
-weight: 12
----
-
 # Second Grade
 
 ## Standard 1. Number and Quantity
@@ -19,8 +14,8 @@ weight: 12
 ##### Students Can:
 
 1. Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., \(706\) equals \(7\) hundreds, \(0\) tens, and \(6\) ones. Understand the following as special cases: (CCSS: 2.NBT.A.1)
-	a. 100 can be thought of as a bundle of ten tens &mdash; called a "hundred." (CCSS: 2.NBT.A.1.a)
-	b. The numbers \(100\), \(200\), \(300\), \(400\), \(500\), \(600\), \(700\), \(800\), \(900\) refer to one, two, three, four, five, six, seven, eight, or nine hundreds (and \(0\) tens and \(0\) ones). (CCSS: 2.NBT.A.1.b)
+   - 1.a. 100 can be thought of as a bundle of ten tens &mdash; called a "hundred." (CCSS: 2.NBT.A.1.a)
+   - 1.b. The numbers \(100\), \(200\), \(300\), \(400\), \(500\), \(600\), \(700\), \(800\), \(900\) refer to one, two, three, four, five, six, seven, eight, or nine hundreds (and \(0\) tens and \(0\) ones). (CCSS: 2.NBT.A.1.b)
 2. Count within \(1000\); skip-count by \(5\mbox{s}\), \(10\mbox{s}\), and \(100\mbox{s}\). (CCSS: 2.NBT.A.2)
 3. Read and write numbers to \(1000\) using base-ten numerals, number names, and expanded form. (CCSS: 2.NBT.A.3)
 4. Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons. (CCSS: 2.NBT.A.4)

@@ -1,8 +1,3 @@
----
-title: "Fifth Grade"
-weight: 15
----
-
 # Fifth Grade
 
 ## Standard 1. Number and Quantity
@@ -21,8 +16,8 @@ weight: 15
 1. Recognize that in a multi-digit number, a digit in one place represents \(10\) times as much as it represents in the place to its right and \(\frac{1}{10}\) of what it represents in the place to its left. (CCSS: 5.NBT.A.1)
 2. Explain patterns in the number of zeros of the product when multiplying a number by powers of \(10\), and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of \(10\). Use whole-number exponents to denote powers of \(10\). (CCSS: 5.NBT.A.2)
 3. Read, write, and compare decimals to thousandths. (CCSS: 5.NBT.A.3)
-	a. Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., \(347.392 = 3 \times 100 + 4 × 10 + 7 \times 1 + 3 \times \frac{1}{10} + 9 \times \frac{1}{100} + 2 \times \frac{1}{1000}\). (CCSS: 5.NBT.A.3.a)
-	b. Compare two decimals to thousandths based on meanings of the digits in each place, using \(>\), \(=\), and \(<\) symbols to record the results of comparisons. (CCSS: 5.NBT.A.3.b)
+   - 3.a. Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., \(347.392 = 3 \times 100 + 4 × 10 + 7 \times 1 + 3 \times \frac{1}{10} + 9 \times \frac{1}{100} + 2 \times \frac{1}{1000}\). (CCSS: 5.NBT.A.3.a)
+   - 3.b. Compare two decimals to thousandths based on meanings of the digits in each place, using \(>\), \(=\), and \(<\) symbols to record the results of comparisons. (CCSS: 5.NBT.A.3.b)
 4. Use place value understanding to round decimals to any place. (CCSS: 5.NBT.A.4)
 
 #### Academic Context and Connections
@@ -130,16 +125,16 @@ weight: 15
 
 3. Interpret a fraction as division of the numerator by the denominator (\(\frac{a}{b} = a \div b\)). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem. *For example, interpret \(\frac{3}{4}\) as the result of dividing \(3\) by \(4\), noting that \(\frac{3}{4}\) multiplied by \(4\) equals \(3\), and that when \(3\) wholes are shared equally among \(4\) people each person has a share of size \(\frac{3}{4}\). If \(9\) people want to share a \(50\)-pound sack of rice equally by weight, how many pounds of rice should each person get? Between what two whole numbers does your answer lie?* (CCSS: 5.NF.B.3)
 4. Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction. (CCSS: 5.NF.B.4)
-	a. Interpret the product \(\frac{a}{b} \times q\) as a parts of a partition of \(q\) into \(b\) equal parts; equivalently, as the result of a sequence of operations \(a \times q \div b\). *For example, use a visual fraction model to show \(\frac{2}{3} \times 4 = \frac{8}{3}\), and create a story context for this equation. Do the same with \(\frac{2}{3} \times \frac{4}{5} = \frac{8}{15}\). (In general, \(\frac{a}{b} \times \frac{c}{d} = \frac{ac}{bd}\).)* (CCSS: 5.NF.B.4.a)
-	b. Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas. (CCSS: 5.NF.B.4.b)
+   - 4.a. Interpret the product \(\frac{a}{b} \times q\) as a parts of a partition of \(q\) into \(b\) equal parts; equivalently, as the result of a sequence of operations \(a \times q \div b\). *For example, use a visual fraction model to show \(\frac{2}{3} \times 4 = \frac{8}{3}\), and create a story context for this equation. Do the same with \(\frac{2}{3} \times \frac{4}{5} = \frac{8}{15}\). (In general, \(\frac{a}{b} \times \frac{c}{d} = \frac{ac}{bd}\).)* (CCSS: 5.NF.B.4.a)
+   - 4.b. Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas. (CCSS: 5.NF.B.4.b)
 5. Interpret multiplication as scaling (resizing), by: (CCSS: 5.NF.B.5)
-	a. Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication. (CCSS: 5.NF.B.5.a)
-	b. Explaining why multiplying a given number by a fraction greater than \(1\) results in a product greater than the given number (recognizing multiplication by whole numbers greater than \(1\) as a familiar case); explaining why multiplying a given number by a fraction less than \(1\) results in a product smaller than the given number; and relating the principle of fraction equivalence \(\frac{a}{b} = \frac{n \times a}{n \times b}\) to the effect of multiplying \(\frac{a}{b}\) by \(1\). (CCSS: 5.NF.B.5.b)
+   - 5.a. Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication. (CCSS: 5.NF.B.5.a)
+   - 5.b. Explaining why multiplying a given number by a fraction greater than \(1\) results in a product greater than the given number (recognizing multiplication by whole numbers greater than \(1\) as a familiar case); explaining why multiplying a given number by a fraction less than \(1\) results in a product smaller than the given number; and relating the principle of fraction equivalence \(\frac{a}{b} = \frac{n \times a}{n \times b}\) to the effect of multiplying \(\frac{a}{b}\) by \(1\). (CCSS: 5.NF.B.5.b)
 6. Solve real-world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem. (CCSS: 5.NF.B.6)
 7. Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions. (Students able to multiply fractions in general can develop strategies to divide fractions in general, by reasoning about the relationship between multiplication and division. But division of a fraction by a fraction is not a requirement at this grade.) (CCSS: 5.NF.B.7)
-	a. Interpret division of a unit fraction by a non-zero whole number, and compute such quotients. *For example, create a story context for \(\frac{1}{3} \div 4\), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that \(\frac{1}{3} \div 4 = \frac{1}{12}\) because \(\frac{1}{12} \times 4 = \frac{1}{3}\).* (CCSS: 5.NF.B.7.a)
-	b. Interpret division of a whole number by a unit fraction, and compute such quotients. *For example, create a story context for \(4 \div \frac{1}{5}\), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that \(4 \div \frac{1}{5} = 20\) because \(20 \times \frac{1}{5} = 4\).* (CCSS: 5.NF.B.7.b)
-	c. Solve real-world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem. *For example, how much chocolate will each person get if \(3\) people share \(\frac{1}{2}\) lb of chocolate equally? How many \(\frac{1}{3}\)-cup servings are in \(2\) cups of raisins?* (CCSS: 5.NF.B.7.c)
+   - 7.a. Interpret division of a unit fraction by a non-zero whole number, and compute such quotients. *For example, create a story context for \(\frac{1}{3} \div 4\), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that \(\frac{1}{3} \div 4 = \frac{1}{12}\) because \(\frac{1}{12} \times 4 = \frac{1}{3}\).* (CCSS: 5.NF.B.7.a)
+   - 7.b. Interpret division of a whole number by a unit fraction, and compute such quotients. *For example, create a story context for \(4 \div \frac{1}{5}\), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that \(4 \div \frac{1}{5} = 20\) because \(20 \times \frac{1}{5} = 4\).* (CCSS: 5.NF.B.7.b)
+   - 7.c. Solve real-world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem. *For example, how much chocolate will each person get if \(3\) people share \(\frac{1}{2}\) lb of chocolate equally? How many \(\frac{1}{3}\)-cup servings are in \(2\) cups of raisins?* (CCSS: 5.NF.B.7.c)
 
 #### Academic Context and Connections
 
@@ -303,13 +298,13 @@ weight: 15
 ##### Students Can:
 
 3. Recognize volume as an attribute of solid figures and understand concepts of volume measurement. (CCSS: 5.MD.C.3)
-	a. A cube with side length \(1\) unit, called a "unit cube," is said to have "one cubic unit" of volume and can be used to measure volume. (CCSS: 5.MD.C.3.a)
-	b. A solid figure which can be packed without gaps or overlaps using \(n\) unit cubes is said to have a volume of \(n\) cubic units. (CCSS: 5.MD.C.3.b)
+   - 3.a. A cube with side length \(1\) unit, called a "unit cube," is said to have "one cubic unit" of volume and can be used to measure volume. (CCSS: 5.MD.C.3.a)
+   - 3.b. A solid figure which can be packed without gaps or overlaps using \(n\) unit cubes is said to have a volume of \(n\) cubic units. (CCSS: 5.MD.C.3.b)
 4. Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and improvised units. (CCSS: 5.MD.C.4)
 5. Relate volume to the operations of multiplication and addition and solve real-world and mathematical problems involving volume. (CCSS: 5.MD.C.5)
-	a. Model the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication. (CCSS: 5.MD.C.5.a)
-	b. Apply the formulas \(V = l \times w \times h\) and \(V = b \times h\) for rectangular prisms to find volumes of right rectangular prisms with whole-number edge lengths in the context of solving real-world and mathematical problems. (CCSS: 5.MD.C.5.b)
-	c. Use the additive nature of volume to find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real-world problems. (CCSS: 5.MD.C.5.c)
+   - 5.a. Model the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication. (CCSS: 5.MD.C.5.a)
+   - 5.b. Apply the formulas \(V = l \times w \times h\) and \(V = b \times h\) for rectangular prisms to find volumes of right rectangular prisms with whole-number edge lengths in the context of solving real-world and mathematical problems. (CCSS: 5.MD.C.5.b)
+   - 5.c. Use the additive nature of volume to find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real-world problems. (CCSS: 5.MD.C.5.c)
 
 #### Academic Context and Connections
 

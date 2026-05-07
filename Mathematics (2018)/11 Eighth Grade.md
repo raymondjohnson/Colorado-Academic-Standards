@@ -1,8 +1,3 @@
----
-title: "Eighth Grade"
-weight: 18
----
-
 # Eighth Grade
 
 ## Standard 1. Number and Quantity
@@ -134,12 +129,12 @@ weight: 18
 ##### Students Can:
 
 7. Solve linear equations in one variable. (CCSS: 8.EE.C.7)
-	a. Give examples of linear equations in one variable with one solution, infinitely many solutions, or no solutions. Show which of these possibilities is the case by successively transforming the given equation into simpler forms, until an equivalent equation of the form \(x = a\), \(a = a\), or \(a = b\) results (where \(a\) and \(b\) are different numbers). (CCSS: 8.EE.C.7.a)
-	b. Solve linear equations with rational number coefficients, including equations with variables on both sides and whose solutions require expanding expressions using the distributive property and collecting like terms. (CCSS: 8.EE.C.7.b)
+   - 7.a. Give examples of linear equations in one variable with one solution, infinitely many solutions, or no solutions. Show which of these possibilities is the case by successively transforming the given equation into simpler forms, until an equivalent equation of the form \(x = a\), \(a = a\), or \(a = b\) results (where \(a\) and \(b\) are different numbers). (CCSS: 8.EE.C.7.a)
+   - 7.b. Solve linear equations with rational number coefficients, including equations with variables on both sides and whose solutions require expanding expressions using the distributive property and collecting like terms. (CCSS: 8.EE.C.7.b)
 8. Analyze and solve pairs of simultaneous linear equations. (CCSS: 8.EE.C.8)
-	a. Explain that solutions to a system of two linear equations in two variables correspond to points of intersection of their graphs, because points of intersection satisfy both equations simultaneously. (CCSS: 8.EE.C.8.a)
-	b. Solve systems of two linear equations in two variables algebraically, and estimate solutions by graphing the equations. Solve simple cases by inspection. *For example, \(3x + 2y = 5\) and \(3x + 2y = 6\) have no solution because \(3x + 2y\) cannot simultaneously be \(5\) and \(6\).* (CCSS: 8.EE.C.8.b)
-	c. Solve real-world and mathematical problems leading to two linear equations in two variables. *For example, given coordinates for two pairs of points, determine whether the line through the first pair of points intersects the line through the second pair.* (CCSS: 8.EE.C.8.c)
+   - 8.a. Explain that solutions to a system of two linear equations in two variables correspond to points of intersection of their graphs, because points of intersection satisfy both equations simultaneously. (CCSS: 8.EE.C.8.a)
+   - 8.b. Solve systems of two linear equations in two variables algebraically, and estimate solutions by graphing the equations. Solve simple cases by inspection. *For example, \(3x + 2y = 5\) and \(3x + 2y = 6\) have no solution because \(3x + 2y\) cannot simultaneously be \(5\) and \(6\).* (CCSS: 8.EE.C.8.b)
+   - 8.c. Solve real-world and mathematical problems leading to two linear equations in two variables. *For example, given coordinates for two pairs of points, determine whether the line through the first pair of points intersects the line through the second pair.* (CCSS: 8.EE.C.8.c)
 
 #### Academic Context and Connections
 
@@ -298,9 +293,9 @@ weight: 18
 ##### Students Can:
 
 1. Verify experimentally the properties of rotations, reflections, and translations: (CCSS: 8.G.A.1)
-	a. Lines are taken to lines, and line segments to line segments of the same length. (CCSS: 8.G.A.1.a)
-	b. Angles are taken to angles of the same measure. (CCSS: 8.G.A.1.b)
-	c. Parallel lines are taken to parallel lines. (CCSS: 8.G.A.1.c)
+   - 1.a. Lines are taken to lines, and line segments to line segments of the same length. (CCSS: 8.G.A.1.a)
+   - 1.b. Angles are taken to angles of the same measure. (CCSS: 8.G.A.1.b)
+   - 1.c. Parallel lines are taken to parallel lines. (CCSS: 8.G.A.1.c)
 2. Demonstrate that a two-dimensional figure is congruent to another if the second can be obtained from the first by a sequence of rotations, reflections, and translations; given two congruent figures, describe a sequence that exhibits the congruence between them. (CCSS: 8.G.A.2)
 3. Describe the effect of dilations, translations, rotations, and reflections on two-dimensional figures using coordinates. (CCSS: 8.G.A.3)
 4. Demonstrate that a two-dimensional figure is similar to another if the second can be obtained from the first by a sequence of rotations, reflections, translations, and dilations; given two similar two-dimensional figures, describe a sequence that exhibits the similarity between them. (CCSS: 8.G.A.4)

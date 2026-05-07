@@ -1,8 +1,3 @@
----
-title: "Sixth Grade"
-weight: 16
----
-
 # Sixth Grade
 
 ## Standard 1. Number and Quantity
@@ -22,10 +17,10 @@ weight: 16
 1. Apply the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. *For example, "The ratio of wings to beaks in the bird house at the zoo was \(2:1\), because for every \(2\) wings there was \(1\) beak." "For every vote Candidate \(A\) received, Candidate \(C\) received nearly three votes."* (CCSS: 6.RP.A.1)
 2. Apply the concept of a unit rate \(\frac{a}{b}\) associated with a ratio \(a:b\) with \(b \neq 0\), and use rate language in the context of a ratio relationship. *For example, "This recipe has a ratio of \(3\) cups of flour to \(4\) cups of sugar, so there is \(\frac{3}{4}\) cup of flour for each cup of sugar." "We paid $75 for \(15\) hamburgers, which is a rate of $5 per hamburger." (Expectations for unit rates in this grade are limited to non-complex fractions.)* (CCSS: 6.RP.A.2)
 3. Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations. (CCSS: 6.RP.A.3)
-	a. Make tables of equivalent ratios relating quantities with whole-number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios. (CCSS: 6.RP.A.3.a)
-	b. Solve unit rate problems including those involving unit pricing and constant speed. *For example, if it took \(7\) hours to mow \(4\) lawns, then at that rate, how many lawns could be mowed in \(35\) hours? At what rate were lawns being mowed?* (CCSS: 6.RP.A.3.b)
-	c. Find a percent of a quantity as a rate per \(100\) (e.g., \(30\%\) of a quantity means \(\frac{30}{100}\) times the quantity); solve problems involving finding the whole, given a part and the percent. (CCSS: 6.RP.A.3.c)
-	d. Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities. (CCSS: 6.RP.A.3.d)
+   - 3.a. Make tables of equivalent ratios relating quantities with whole-number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios. (CCSS: 6.RP.A.3.a)
+   - 3.b. Solve unit rate problems including those involving unit pricing and constant speed. *For example, if it took \(7\) hours to mow \(4\) lawns, then at that rate, how many lawns could be mowed in \(35\) hours? At what rate were lawns being mowed?* (CCSS: 6.RP.A.3.b)
+   - 3.c. Find a percent of a quantity as a rate per \(100\) (e.g., \(30\%\) of a quantity means \(\frac{30}{100}\) times the quantity); solve problems involving finding the whole, given a part and the percent. (CCSS: 6.RP.A.3.c)
+   - 3.d. Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities. (CCSS: 6.RP.A.3.d)
 
 #### Academic Context and Connections
 
@@ -132,14 +127,14 @@ weight: 16
 
 5. Explain why positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of \(0\) in each situation. (CCSS: 6.NS.C.5)
 6. Describe a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates. (CCSS: 6.NS.C.6)
-	a. Use opposite signs of numbers as indicating locations on opposite sides of \(0\) on the number line; identify that the opposite of the opposite of a number is the number itself, e.g., \(-(-3) = 3\), and that \(0\) is its own opposite. (CCSS: 6.NS.C.6.a)
-	b. Understand signs of numbers in ordered pairs as indicating locations in quadrants of the coordinate plane; explain that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes. (CCSS: 6.NS.C.6.b)
-	c. Find and position integers and other rational numbers on a horizontal or vertical number line diagram; find and position pairs of integers and other rational numbers on a coordinate plane. (CCSS: 6.NS.C.6.c)
+   - 6.a. Use opposite signs of numbers as indicating locations on opposite sides of \(0\) on the number line; identify that the opposite of the opposite of a number is the number itself, e.g., \(-(-3) = 3\), and that \(0\) is its own opposite. (CCSS: 6.NS.C.6.a)
+   - 6.b. Understand signs of numbers in ordered pairs as indicating locations in quadrants of the coordinate plane; explain that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes. (CCSS: 6.NS.C.6.b)
+   - 6.c. Find and position integers and other rational numbers on a horizontal or vertical number line diagram; find and position pairs of integers and other rational numbers on a coordinate plane. (CCSS: 6.NS.C.6.c)
 7. Order and find absolute value of rational numbers. (CCSS: 6.NS.C.7)
-	a. Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram. *For example, interpret \(-3 > -7\) as a statement that \(-3\) is located to the right of \(-7\) on a number line oriented from left to right.* (CCSS: 6.NS.C.7.a)
-	b. Write, interpret, and explain statements of order for rational numbers in real-world contexts. *For example, write \(-3^\circ\mbox{C} > -7^\circ\mbox{C}\) to express the fact that \(-3^\circ\mbox{C}\) is warmer than \(-7^\circ\mbox{C}\).* (CCSS: 6.NS.C.7.b)
-	c. Define the absolute value of a rational number as its distance from \(0\) on the number line; interpret absolute value as magnitude for a positive or negative quantity in a real-world situation. *For example, for an account balance of \(-30\) dollars, write \(\left|-30\right| = 30\) to describe the size of the debt in dollars.* (CCSS: 6.NS.C.7.c)
-	d. Distinguish comparisons of absolute value from statements about order. *For example, recognize that an account balance less than \(-30\) dollars represents a debt greater than \(30\) dollars.* (CCSS: 6.NS.C.7.d)
+   - 7.a. Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram. *For example, interpret \(-3 > -7\) as a statement that \(-3\) is located to the right of \(-7\) on a number line oriented from left to right.* (CCSS: 6.NS.C.7.a)
+   - 7.b. Write, interpret, and explain statements of order for rational numbers in real-world contexts. *For example, write \(-3^\circ\mbox{C} > -7^\circ\mbox{C}\) to express the fact that \(-3^\circ\mbox{C}\) is warmer than \(-7^\circ\mbox{C}\).* (CCSS: 6.NS.C.7.b)
+   - 7.c. Define the absolute value of a rational number as its distance from \(0\) on the number line; interpret absolute value as magnitude for a positive or negative quantity in a real-world situation. *For example, for an account balance of \(-30\) dollars, write \(\left|-30\right| = 30\) to describe the size of the debt in dollars.* (CCSS: 6.NS.C.7.c)
+   - 7.d. Distinguish comparisons of absolute value from statements about order. *For example, recognize that an account balance less than \(-30\) dollars represents a debt greater than \(30\) dollars.* (CCSS: 6.NS.C.7.d)
 8. Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate. (CCSS: 6.NS.C.8)
 
 #### Academic Context and Connections
@@ -181,9 +176,9 @@ weight: 16
 
 1. Write and evaluate numerical expressions involving whole-number exponents. (CCSS: 6.EE.A.1)
 2. Write, read, and evaluate expressions in which letters stand for numbers. (CCSS: 6.EE.A.2)
-	a. Write expressions that record operations with numbers and with letters standing for numbers. *For example, express the calculation "Subtract \(y\) from \(5\)" as \(5 - y\).* (CCSS: 6.EE.A.2.a)
-	b. Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity. *For example, describe the expression \(2 \left( 8 + 7 \right)\) as a product of two factors; view \(\left( 8 + 7 \right)\) as both a single entity and a sum of two terms.* (CCSS: 6.EE.A.2.b)
-	c. Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order when there are no parentheses to specify a particular order (Order of Operations). *For example, use the formulas \(V = s^3\) and \(A = 6s^2\) to find the volume and surface area of a cube with sides of length \(s = \frac{1}{2}\).* (CCSS: 6.EE.A.2.c)
+   - 2.a. Write expressions that record operations with numbers and with letters standing for numbers. *For example, express the calculation "Subtract \(y\) from \(5\)" as \(5 - y\).* (CCSS: 6.EE.A.2.a)
+   - 2.b. Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity. *For example, describe the expression \(2 \left( 8 + 7 \right)\) as a product of two factors; view \(\left( 8 + 7 \right)\) as both a single entity and a sum of two terms.* (CCSS: 6.EE.A.2.b)
+   - 2.c. Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order when there are no parentheses to specify a particular order (Order of Operations). *For example, use the formulas \(V = s^3\) and \(A = 6s^2\) to find the volume and surface area of a cube with sides of length \(s = \frac{1}{2}\).* (CCSS: 6.EE.A.2.c)
 3. Apply the properties of operations to generate equivalent expressions. *For example, apply the distributive property to the expression \(3 \left( 2 + x \right)\) to produce the equivalent expression \(6 + 3x\); apply the distributive property to the expression \(24x + 18y\) to produce the equivalent expression \(6 \left( 4x + 3y \right)\); apply properties of operations to \(y + y + y\) to produce the equivalent expression \(3y\).* (CCSS: 6.EE.A.3)
 4. Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them). *For example, the expressions \(y + y + y\) and \(3y\) are equivalent because they name the same number regardless of which number \(y\) stands for.* (CCSS: 6.EE.A.4)
 
@@ -331,10 +326,10 @@ weight: 16
 
 4. Display numerical data in plots on a number line, including dot plots, histograms, and box plots. (CCSS: 6.SP.B.4)
 5. Summarize numerical data sets in relation to their context, such as by: (CCSS: 6.SP.B.5)
-	a. Reporting the number of observations. (CCSS: 6.SP.B.5.a)
-	b. Describing the nature of the attribute under investigation, including how it was measured and its units of measurement. (CCSS: 6.SP.B.5.b)
-	c. Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered. (CCSS: 6.SP.B.5.c)
-	d. Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered. (CCSS: 6.SP.B.5.d)
+   - 5.a. Reporting the number of observations. (CCSS: 6.SP.B.5.a)
+   - 5.b. Describing the nature of the attribute under investigation, including how it was measured and its units of measurement. (CCSS: 6.SP.B.5.b)
+   - 5.c. Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered. (CCSS: 6.SP.B.5.c)
+   - 5.d. Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered. (CCSS: 6.SP.B.5.d)
 
 #### Academic Context and Connections
 

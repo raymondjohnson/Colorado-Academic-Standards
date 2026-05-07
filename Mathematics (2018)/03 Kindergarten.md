@@ -1,8 +1,3 @@
----
-title: "Kindergarten"
-weight: 10
----
-
 # Kindergarten
 
 ## Standard 1. Number and Quantity
@@ -55,9 +50,9 @@ weight: 10
 ##### Students Can:
 
 4. Apply the relationship between numbers and quantities and connect counting to cardinality. (CCSS: K.CC.B.4)
-	a. When counting objects, say the number names in the standard order, pairing each object with one and only one number name and each number name with one and only one object. (CCSS: K.CC.B.4.a)
-	b. Understand that the last number name said tells the number of objects counted. The number of objects is the same regardless of their arrangement or the order in which they were counted. (CCSS: K.CC.B.4.b)
-	c. Understand that each successive number name refers to a quantity that is one larger. (CCSS: K.CC.B.4.c)
+   - 4.a. When counting objects, say the number names in the standard order, pairing each object with one and only one number name and each number name with one and only one object. (CCSS: K.CC.B.4.a)
+   - 4.b. Understand that the last number name said tells the number of objects counted. The number of objects is the same regardless of their arrangement or the order in which they were counted. (CCSS: K.CC.B.4.b)
+   - 4.c. Understand that each successive number name refers to a quantity that is one larger. (CCSS: K.CC.B.4.c)
 5. Count to answer "how many?" questions about as many as \(20\) things arranged in a line, a rectangular array, or a circle, or as many as \(10\) things in a scattered configuration; given a number from \(1\)–\(20\), count out that many objects. (CCSS: K.CC.5)
 
 #### Academic Context and Connections

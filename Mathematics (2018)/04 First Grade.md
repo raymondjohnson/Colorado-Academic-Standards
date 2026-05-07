@@ -1,8 +1,3 @@
----
-title: "First Grade"
-weight: 11
----
-
 # First Grade
 
 ## Standard 1. Number and Quantity
@@ -51,9 +46,9 @@ weight: 11
 ##### Students Can:
 
 2. Understand that the two digits of a two-digit number represent amounts of tens and ones. Understand the following as special cases: (CCSS: 1.NBT.B.2)
-	a. \(10\) can be thought of as a bundle of ten ones &mdash; called a "ten." (CCSS: 1.NBT.B.2.a)
-	b. The numbers from \(11\) to \(19\) are composed of a ten and one, two, three, four, five, six, seven, eight, or nine ones. (CCSS: 1.NBT.B.2.b)
-	c. The numbers \(10\), \(20\), \(30\), \(40\), \(50\), \(60\), \(70\), \(80\), \(90\) refer to one, two, three, four, five, six, seven, eight, or nine tens (and \(0\) ones). (CCSS: 1.NBT.B.2.c)
+   - 2.a. \(10\) can be thought of as a bundle of ten ones &mdash; called a "ten." (CCSS: 1.NBT.B.2.a)
+   - 2.b. The numbers from \(11\) to \(19\) are composed of a ten and one, two, three, four, five, six, seven, eight, or nine ones. (CCSS: 1.NBT.B.2.b)
+   - 2.c. The numbers \(10\), \(20\), \(30\), \(40\), \(50\), \(60\), \(70\), \(80\), \(90\) refer to one, two, three, four, five, six, seven, eight, or nine tens (and \(0\) ones). (CCSS: 1.NBT.B.2.c)
 3. Compare two two-digit numbers based on meanings of the tens and ones digits, recording the results of comparisons with the symbols \(>\), \(=\), and \(<\). (CCSS: 1.NBT.B.3)
 
 #### Academic Context and Connections
