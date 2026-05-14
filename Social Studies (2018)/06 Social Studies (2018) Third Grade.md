@@ -1,0 +1,370 @@
+# Third Grade | Social Studies
+
+## Standard 1. History
+
+### Grade Level Expectation SS.3.1.1: Compare primary and secondary sources when explaining the past.
+
+#### Prepared Graduates
+
+1. Understand the nature of historical knowledge as a process of inquiry that examines and analyzes how history is viewed, constructed, and interpreted.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Compare primary sources with works of fiction about the same topic.
+2. Use a variety of primary sources such as artifacts, pictures, and documents, to help determine factual information about historical events.
+3. Compare information from multiple sources recounting the same event.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Articulate the most effective kinds of historical sources to access information needed for understanding historic events.  (Professional Skills: Information Literacy)
+2. Ask questions to develop further understanding of reliability of various kinds of historical sources. (Professional Skills: Self-Advocacy)
+
+##### Inquiry Questions:
+
+1. How do historical fact, opinion and fiction uniquely influence an individual's understanding of history?
+2. How do historical thinkers determine the accuracy of history?
+3. What types of questions do historians ask about the past?
+4. Why do historians use multiple sources in studying history?
+
+##### Nature and Skills of History:
+
+1. Historical thinkers use primary sources to distinguish fact from fiction.
+2. Historical thinkers distinguish fact from fiction when used to make informed decisions. For example: consumers must critically analyze advertisements for facts, and nonfiction writers must verify historical accuracy.
+3. Historical thinkers compare information provided by different historical sources about the past.
+4. Historical thinkers infer the intended audience and purpose of a historical source from information within the source itself.
+5. Historical thinkers use information about a historical source, including the author, date, place of origin, intended audience, and purpose to judge the extent to which the source is useful.
+6. Historical thinkers make inferences about the intended audience and purpose of a primary source from information within the source itself.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Determine the kinds of sources that will be helpful in answering compelling and supporting questions, taking into consideration the different opinions people have about how to answer the questions.
+2. Gather relevant information from multiple sources while using the origin, structure, and context to guide the selection.
+3. Use distinctions between fact and opinion to determine the credibility of multiple sources.
+4. Distinguish their own point of view from that of the author.
+5. Compare and contrast the most important points and key details presented in two texts on the same topic.
+6. Write opinion pieces on topics or texts, supporting a point of view with reasons.
+7. Use evidence to develop claims in response to compelling questions.
+8. Communicate information through the use of technologies.
+
+### Grade Level Expectation SS.3.1.2: People in the past influence the development and interaction of different communities or regions.
+
+#### Prepared Graduates
+
+2. Analyze historical time periods and patterns of continuity and change, through multiple perspectives, within and among cultures and societies.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Compare past and present situations and events.
+2. Give examples of people, events, and developments that brought important changes to a community or region.
+3. Describe the history, interaction, and contribution of the various peoples and cultures that have lived in or migrated to a community or region and how that migration has influenced change and development.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Recognize how members of a community rely on each other and interact to influence the development of their communities.  (Civic/Interpersonal Skills: Collaboration/Teamwork)
+
+##### Inquiry Questions:
+
+1. How have different groups of people both lived together and interacted with each other in the past?
+2. What types of questions do people ask to learn about the past?
+3. How has the region changed and yet remained the same over time?
+
+##### Nature and Skills of History:
+
+1. Historical thinkers ask questions to guide their research into the past.
+2. Historical thinkers analyze the interaction, patterns, and contributions of various cultures and groups in the past.
+3. Historical thinkers use context and information from the past to make connections and inform decisions in the present. For example: the development and traditions of various groups in a region affect the economic development, tourist industry, and cultural makeup of a community.
+4. Historical thinkers construct explanations using reasoning, correct sequence, examples, and details with relevant information and data.
+5. Historical thinkers explain probable causes and effects of events and developments.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Compare and contrast the most important points and key details presented in two texts on the same topic.
+2. Introduce a topic or text, state an opinion, and create an organizational structure that lists reasons.
+3. Provide reasons that support the opinion.
+4. Provide a concluding statement or section.
+5. Introduce a topic and group related information together; include illustrations when useful to aiding comprehension.
+6. Develop the topic with facts, definitions, and details.
+7. Conduct short research projects that build knowledge about a topic.
+8. Determine the kinds of sources that will be helpful in answering compelling and supporting questions, taking into consideration the different opinions people have about how to answer the questions.
+9. Communicate information through the use of technologies.
+
+## Standard 2. Geography
+
+### Grade Level Expectation SS.3.2.1: Use geographic tools to develop spatial thinking.
+
+#### Prepared Graduates
+
+3. Apply geographic representations and perspectives to analyze human movement, spatial patterns, systems, and the connections and relationships among them.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Read and interpret information from geographic tools and formulate geographic questions.
+2. Locate oceans and continents, major countries, bodies of water, mountains, urban areas, the state of Colorado, and neighboring states on maps.
+3. Describe the natural and man-made features of a specific area on a map.
+4. Identify geography-based problems and examine the ways that people have tried to solve them.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Articulate the most effective geographic tools to access information needed for developing spatial thinking. (Professional Skills: Information Literacy).
+
+##### Inquiry Questions:
+
+1. What questions do geographers ask?
+2. How does the geography of where we live influence how we live?
+3. How do physical features provide opportunities and challenges to regions?
+4. How have the cultural experiences of groups in different regions influenced practices regarding the local environment?
+
+##### Nature and Skills of Geography:
+
+1. Spatial thinkers use and interpret information from geographic tools to investigate geographic questions.
+2. Spatial thinkers use geographic tools to answer questions about places and locations such as where to locate a business or park, and how to landscape a yard.
+3. Spatial thinkers develop the skills to organize and make connections such as reading a map and understanding where you are, where you want to go, and how to get to the destination.
+4. Geographic thinkers use maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions and their environmental characteristics.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Use information gained from illustrations such as maps and photographs, as well as the words in a text to demonstrate understanding of the text. For example: where, when, why, and how key events occur.
+2. Determine the kinds of sources that will be helpful in answering compelling and supporting questions, taking into consideration the different opinions people have about how to answer the questions.
+3. Find information through the use of technologies.
+
+### Grade Level Expectation SS.3.2.2: The concept of region is developed through an examination of similarities and differences in places and communities.
+
+#### Prepared Graduates
+
+4. Examine the characteristics of places and regions, and the changing nature among geographic and human interactions.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Observe and describe the physical, cultural, and human-made characteristics of a local region. For example: the Eastern Plains, San Luis Valley, Pikes Peak, Northwest, Front Range, South Central, Southwest, and Western Slope.
+2. Identify the factors that make a region unique. For example: cultural diversity, industry and agriculture, and landforms.
+3. Give examples of places that are similar and different from a local region.
+4. Characterize regions using different types of features such as physical, political, cultural, urban and rural attributes.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Investigate a variety of places and communities and draw conclusions about regions.  (Entrepreneurial Skills: Inquiry/Analysis)
+
+##### Inquiry Questions:
+
+1. Are regions in the world more similar or different?
+2. Why do people describe regions using human or physical characteristics?
+3. What are geographic characteristics of a region?
+4. How do cultures lead to similarities and differences between regions?
+
+##### Nature and Skills of Geography:
+
+1. Geographic thinkers analyze connections among places.
+2. Geographic thinkers compare and contrast characteristics of regions when making decisions and choices such as where to send children to school, what part of town to live in, what type of climate suits personal needs, and what region of a country to visit.
+3. Geographic thinkers can explain how natural and human-made catastrophic events in one place affect people living in other places.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Use information gained from illustrations such as maps and photographs, as well as the words in a text to demonstrate understanding of the text. For example: where, when, why, and how key events occur.
+2. Compare and contrast the most important points and key details presented in two texts on the same topic.
+3. Identify disciplinary concepts and ideas associated with a compelling question that are open to different interpretations.
+4. Find information through the use of technologies
+
+## Standard 3. Economics
+
+### Grade Level Expectation SS.3.3.1: Producers and consumers exchange goods and services in different ways.
+
+#### Prepared Graduates
+
+5. Understand the allocation of scarce resources in societies through analysis of individual choice,  market interaction, and public policy.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Describe the difference between producers and consumers and explain how they need each other.
+2. Describe and give examples of forms of exchange. For example: monetary exchange and barter.
+3. Describe how the exchange of goods and services between businesses and consumers affects all parties.
+4. Recognize that different currencies exist and explain the functions of money. For example: medium of exchange, store of value, and measure of value.
+5. Cite evidence to show how trade benefits individuals, businesses, and communities and increases interdependency.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Recognize how members of a community rely on each other through exchanging goods and services, considering personal exchange behaviors. (Civic/Interpersonal Skills: Collaboration/Teamwork)
+2. Identify and explain the perspectives of all parties participating in an exchange. (Civic/Interpersonal Skills: Global/Cultural Awareness)
+
+##### Inquiry Questions:
+
+1. Why do people exchange goods and services?
+2. What would happen if there was no such item as money?
+3. What would happen if consumers did not want what a producer made?
+4. What would the world look like if there was no transportation that could move goods more than 50 miles?
+
+##### Nature and Skills of Economics:
+
+1. Economic thinkers analyze trade and the use of money.
+2. Economic thinkers describe and study the importance of exchange in a community.
+3. Economic thinkers understand that goods and services are exchanged in multiple ways and are a part of everyday life such as purchasing or trading items.
+4. Economic thinkers realize that production, consumption, and the exchange of goods and services are interconnected in the world. For example: vegetables from California are sold at a Colorado markets and an ice storm in Florida affects orange juice supplies for the world.
+5. Economic thinkers can explain why people voluntarily exchange goods and services when both parties expect to gain as a result of the trade.
+6. Economic thinkers understand why people specialize and trade, and how that leads to increased economic interdependence in the world economy.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and cause/effect.
+2. Report on a topic or text, tell a story, or recount an experience with appropriate facts and relevant, descriptive details, speaking clearly at an understandable pace.
+3. Begin to identify differing perspectives.
+4. Explain the role of money in making exchange easier.
+5. Identify examples of the variety of resources that are used to produce goods and services. For example: human capital, physical capital, and natural resources.
+
+### Grade Level Expectation SS.3.3.2: Create a plan to meet a financial goal (PFL).
+
+#### Prepared Graduates
+
+6. Apply economic reasoning skills to make informed personal financial decisions (PFL).
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Give examples of short-term spending and savings goals.
+2. Identify jobs that children can do to earn money to reach personal financial goals.
+3. Differentiate the role of income and expenses when creating a budget.
+4. Create a plan with specific steps to reach a short-term financial goal.
+5. Model strategies to achieve a personal financial goal using arithmetic operations.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Define the problem (something they want to buy) using a variety of strategies of how to reach their financial goal. (Entrepreneurial Skills: Critical Thinking/Problem Solving)
+2. Demonstrate flexibility, imagination, and inventiveness in taking on tasks and activities that will help them reach their financial goal. (Entrepreneurial Skills: Informed Risk Taking)
+3. Set goals and develop strategies to remain focused on learning and reaching their financial goals. (Personal Skills: Perseverance/Resilience)
+4. Recognize how members of a community rely on each other, considering personal contributions as applicable, when creating and completing a plan to reach a financial goal. (Civic/Interpersonal Skills: Collaboration/Teamwork)
+5. Demonstrate an understanding of cause and effect related to personal decisions they make regarding reaching a financial goal. (Entrepreneurial Skills: Inquiry/Analysis)
+6. Articulate task requirements and identify deadlines when developing a plan to meet a financial goal. (Professional Skills: Task/Time Management)
+
+##### Inquiry Questions:
+
+1. What would happen if an individual spent all earnings on entertainment?
+2. Why do individuals give away money?
+3. Why is personal financial goal setting important?
+4. How does an individual know when a good short-term goal is well-written?
+
+##### Nature and Skills of Economics:
+
+1. Financially capable individuals create goals and work toward meeting them.
+2. Financially capable individuals understand the cost and the accountability associated with borrowing.
+3. Financially capable individuals understand that personal financial goal setting is a lifelong activity and short-term goal setting is essential to that process.   For example: saving for a fish aquarium or skateboard.
+4. Financially capable individuals understand that an analysis of various options and creating short- and long-term goals for borrowing is a lifelong skill.  For example: adults borrow money to buy a car or go on a vacation.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Compare the benefits and costs of individual choices.
+2. Identify positive and negative incentives that influence the decisions people make.
+3. Analyze different texts (including experiments, simulations, video, or multimedia texts) to compare and contrast competing theories, points of view, and arguments in the discipline.
+
+## Standard 4. Civics
+
+### Grade Level Expectation SS.3.4.1: Respect the views and rights of others.
+
+#### Prepared Graduates
+
+7. Express an understanding of how civic participation affects policy by applying the rights and responsibilities of a citizen.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Identify and apply the elements of civil discourse. For example: listening with respect for understanding and speaking in a respectful manner.
+2. Identify important personal rights in a democratic society and how they relate to others’ rights.
+3. Give examples of the relationship between rights and responsibilities.
+4. Restate the view or opinion of others with their reasoning when it is different from one’s own.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Appropriately express one’s own emotions, thoughts, and values and identify how they influence behavior. (Personal Skills: Self-Awareness)
+2. Regulate reactions to differing perspectives. (Personal Skills: Adaptability/Flexibility)
+3. Identify and explain a different perspective when exploring events or ideas. (Civic/Interpersonal Skills: Global/Cultural Awareness)
+4. State a position and reflect on possible objections to assumptions and implications of the position. (Civic/Interpersonal Skills: Character)
+
+##### Inquiry Questions:
+
+1. What are the essential elements of compromise that enable conflict to be transformed into agreement?
+2. Why is personal advocacy important in a community with diverse views?
+3. What would a community be like if individuals from various groups did not respect each other's rights and views?
+
+##### Nature and Skills of Civics:
+
+1. Civic-minded individuals take the opportunity to make positive changes in their community.
+2. Civic-minded individuals recognize the value of respecting the rights and views of others.
+3. Civic-minded individuals understand that a respect for the views of others helps to learn and understand various perspectives, thoughts, and cultures. For example: environmentalists, industry, and government work together to solve issues around energy and other resources.
+4. Civic-minded individuals understand that virtues, such as honesty, mutual respect, cooperation, and attentiveness to multiple perspectives, should be used when they interact with each other on public matters.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Distinguish their own point of view from that of the author of a text.
+2. Demonstrate positive social and ethical behaviors when using technology and discuss consequences of inappropriate use.
+3. Use technology resources for problem solving, communication, and illustration of thoughts and ideas.
+4. Provide opportunities to use technology to research multiple views on issues to better understand the evolution of rights. For example: lawyers research court findings and individuals engage in civic discourse regarding issues of the day through the internet.
+5. Gather relevant information from multiple sources while using the origin, structure, and context to guide the selection.
+6. Present a summary of arguments and explanations to others outside the classroom using print and oral technologies.
+
+### Grade Level Expectation SS.3.4.2: The origins, structures, and functions of local government.
+
+#### Prepared Graduates
+
+8. Analyze the origins, structures, and functions of governments to evaluate the impact on citizens and the global society.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Identify the origins, structures, and functions of local government.
+2. Identify and explain the services local governments provide and how those services are funded.
+3. Identify and explain a variety of roles leaders, citizens, and others play in local government.
+4. Describe how local government provides opportunities for people to exercise their rights and initiate change.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Connect knowledge from personal experiences in schools and communities to civic engagement. (Civic/Interpersonal Skills: Civic Engagement)
+
+##### Inquiry Questions:
+
+1. How are local governments and citizens interdependent?
+2. How do individuals get involved in their local government?
+3. How do local governments and citizens help each other?
+4. Why do people create governments?
+5. How do people, places, and events help us understand the ideals of democratic government?
+
+##### Nature and Skills of Civics:
+
+1. Civic-minded individuals are involved in their local government.
+2. Civic-minded individuals know how personal advocacy and involvement can lead to change in communities.
+3. Civic-minded individuals have a knowledge of the origins, structures, and functions of local government which enables participation in the democratic process. For example: groups and governments work together to create a safe environment in the community.
+4. Civic-minded individuals understand the important institutions of their society and the principles that these institutions are intended to reflect.
+5. Civic-minded individuals use a range of deliberative and democratic procedures to make decisions about and act on civic problems in their classrooms and schools.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Write informative/explanatory texts to examine a topic and convey ideas and information clearly.
+2. Gather relevant information from multiple sources while using the origin, structure, and context to guide the selection.
+3. Identify main idea and sequence of events in a social studies context.
+4. Present information orally and in writing.
+

@@ -1,0 +1,381 @@
+# Fourth Grade | Social Studies
+
+## Standard 1. History
+
+### Grade Level Expectation SS.4.1.1: Analyze primary and secondary sources from multiple points of view to develop an understanding of the history of Colorado.
+
+#### Prepared Graduates
+
+1. Understand the nature of historical knowledge as a process of inquiry that examines and analyzes how history is viewed, constructed, and interpreted.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Draw inferences about Colorado history from primary sources such as journals, diaries, maps, etc.
+2. Identify cause-and-effect relationships using primary sources to understand the history of Colorado's development.
+3. Explain, through multiple perspectives, the cause-and-effect relationships in the human interactions among people and cultures that have lived in or migrated to Colorado. For example: American Indians, Spanish explorers, trappers/traders, and settlers after westward expansion.
+4. Identify and describe how major political and cultural groups have affected the development of the region.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Identify and explain the perspectives of the various groups important in Colorado history when exploring the development of the state. (Civic/Interpersonal Skills: Global/Cultural Awareness)
+2. Recognize and describe cause-and-effect relationships in the history of Colorado. (Entrepreneurial Skills: Inquiry/Analysis)
+
+##### Inquiry Questions:
+
+1. How have past events influenced present-day Colorado and the Rocky Mountain region?
+2. Why is it important to know the sequence of events and people in Colorado history?
+3. How can primary sources help us learn about the past or create more questions about our state's history?
+4. What social and economic decisions caused people to locate in various regions of Colorado?
+
+##### Nature and Skills of History:
+
+1. Historical thinkers seek accounts of history from multiple perspectives and from multiple sources.
+2. Historical thinkers analyze patterns and themes throughout time.
+3. Historical thinkers use primary sources as references for research.
+4. Historical thinkers recognize important events in Colorado and can put them in chronological order to understand cause and effect such as migration west and clashes with Native Americans; discovery of gold and the Gold Rush; the growth of cities and towns and the development of law; the development of the state Constitution; and prohibition of slavery.
+5. Historical thinkers can explain why individuals and groups during the same historical period differed in their perspectives.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Compare and contrast a firsthand and secondhand account of the same event or topic; describe the differences in focus and the information provided.
+2. Write informative/explanatory texts to examine a topic and convey ideas and information clearly.
+3. Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.
+4. Use precise language and domain-specific vocabulary to inform about or explain the topic.
+5. Draw evidence from literary or informational texts to support analysis, reflection, and research.
+6. Determine the kinds of sources that will be helpful in answering compelling and supporting questions, taking into consideration the different opinions people have about how to answer the questions.
+7. Begin to discuss historical perspectives.
+8. Communicate information through the use of technologies.
+9. Articulate the most effective options to access information needed for a specific purpose.
+10. Find information through the use of technologies.
+
+### Grade Level Expectation SS.4.1.2: The historical eras, individuals, groups, ideas, and themes in Colorado history and their relationship to key events in the United States within the same historical period.
+
+#### Prepared Graduates
+
+2. Analyze historical time periods and patterns of continuity and change, through multiple perspectives, within and among cultures and societies.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Construct a timeline of the major events in Colorado history.
+2. Explain the relationship between major events in Colorado history and events in United States history during the same era.
+3. Describe both past and present interactions among the people and cultures in Colorado. For example: American Indians, Spanish explorers, trappers/traders, and settlers after westward expansion.
+4. Describe the impact of various technological developments. For example: changes in mining technologies, transportation, early 20th century industrial developments, and mid- to late-20th century nuclear, and computer technologies.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Recognize and describe cause-and-effect relationships within Colorado history and draw conclusions about how various events and people affected the development of the state. (Entrepreneurial Skills: Inquiry/Analysis)
+
+##### Inquiry Questions:
+
+1. In what ways have geographic, economic, cultural, and technological changes influenced Colorado today?
+2. Why did people of various cultures migrate to and settle in Colorado?
+3. To what extent have unity and diversity shaped Colorado?
+4. How have various individuals, groups, and ideas affected the development of Colorado?
+
+##### Nature and Skills of History:
+
+1. Historical thinkers analyze patterns and themes across time periods.
+2. Historical thinkers use context and information from the past to make connections and inform current decisions. For example: Colorado has had a history of boom and bust cycles that have influenced the decisions of city and state planners.
+3. Historical thinkers realize that technological developments continue to evolve and affect the present. For example: environmental issues have had an impact on Colorado from the Gold Rush to modern pollution.
+4. Historical thinkers compare life in specific historical time periods to life today.
+5. Historical thinkers generate questions about individuals and groups who have shaped significant historical changes and continuities.
+6. Historical thinkers construct explanations using reasoning, correct sequence, examples, and details with relevant information and data.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Introduce a topic or text clearly, state an opinion, and create an organizational structure in which related ideas are grouped to support the writer’s purpose.
+2. Write informative/explanatory texts to examine a topic and convey ideas and information clearly.
+3. Use precise language and domain-specific vocabulary to inform about or explain the topic.
+4. Conduct short research projects that build knowledge through investigation of different aspects of a topic.
+5. Draw evidence from literary or informational texts to support analysis, reflection, and research.
+6. Determine the kinds of sources that will be helpful in answering compelling and supporting questions, taking into consideration the different opinions people have about how to answer the questions.
+7. Articulate the most effective options to access information needed for a specific purpose.
+8. Find information through the use of technologies.
+
+## Standard 2. Geography
+
+### Grade Level Expectation SS.4.2.1: Use geographic tools to research and answer questions about Colorado geography.
+
+#### Prepared Graduates
+
+3. Apply geographic representations and perspectives to analyze human movement, spatial patterns, systems, and the connections and relationships among them.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Answer questions about Colorado regions using maps and other geographic tools.
+2. Use geographic grids to locate places on and answer questions about maps and images of Colorado.
+3. Create and investigate geographic questions about Colorado in relation to other places.
+4. Illustrate, using geographic tools, how places in Colorado have changed and developed over time due to human activity.
+5. Describe similarities and differences between the physical geography of Colorado and its neighboring states.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Articulate the most effective tools to access information about the geography of Colorado. (Professional Skills: Information Literacy)
+2. Ask questions to develop further understanding about the geography and development of Colorado.  (Professional Skills: Self-Advocacy)
+
+##### Inquiry Questions:
+
+1. Which geographic tools are best to locate information about a place?
+2. Why did settlements and large cities develop where they did in Colorado?
+3. How are the regions of Colorado defined by geography?
+4. How does the physical location of Colorado affect its relationship with other regions of the United States and the world?
+
+##### Nature and Skills of Geography:
+
+1. Spatial thinkers gather appropriate tools to formulate and answer questions related to space and place.
+2. Spatial thinkers use tools to compare and contrast geographic locations.
+3. Spatial thinkers use geographic tools to answer questions about the state and region to make informed choices. For example: a family reads a weather map and researches road conditions to inform their decision to go to the mountains in the winter.
+4. Spatial thinkers use geographic tools to collect and analyze data regarding an area where people live.
+5. Geographic thinkers identify evidence that draws information from multiple sources in response to compelling questions.
+6. Geographic thinkers use evidence to develop claims in response to compelling questions.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.
+2. Introduce a topic or text clearly, state an opinion, and create an organizational structure in which related ideas are grouped to support the writer’s purpose.
+3. Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.
+4. Provide a concluding statement or section related to the information or explanation presented.
+5. Identify disciplinary concepts and ideas associated with a compelling question that are open to different interpretations.
+6. Access relevant information needed for a specific purpose.
+7. Find and communicate information through the use of technologies.
+
+### Grade Level Expectation SS.4.2.2: Connections are developed within and across human and physical systems.
+
+#### Prepared Graduates
+
+4. Examine the characteristics of places and regions, and the changing nature among geographic and human interactions.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Describe how the physical environment provides opportunities for and places constraints on human activities.
+2. Explain how physical environments influenced and limited immigration into the state.
+3. Analyze how people use geographic factors in creating settlements and have adapted to and modified the local physical environment.
+4. Describe how places in Colorado are connected by movement of goods, services, and technology.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Define the problems faced by people in Colorado because of the physical environment they encountered. (Entrepreneurial Skills: Critical Thinking/Problem Solving).
+
+##### Inquiry Questions:
+
+1. What physical characteristics led various cultural groups to select the places they did for settlement in Colorado?
+2. How did Colorado settlers alter their environment to facilitate communication and transportation?
+3. How does the physical environment affect human activity?
+4. How does human activity affect the environment?
+
+##### Nature and Skills of Geography:
+
+1. Spatial thinkers use maps, satellite images, photographs, and other representations to explain relationships between the locations of places and regions and their environmental characteristics.
+2. Geographic thinkers evaluate how physical features affect the development of a sense of place.
+3. Geographic thinkers consider geographic factors when making settlement decisions. For example: Colorado Springs has a dry climate that is favorable for computer companies, and ski resorts developed in the Rocky Mountains.
+4. Geographic thinkers can describe how environmental and cultural characteristics influence population distribution in specific places or regions in Colorado.
+5. Geographic thinkers explain how cultural and environmental characteristics affect the distribution and movement of people, goods, and ideas.
+6. Geographic thinkers explain how human settlements and movements relate to the locations and use of various natural resources.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Compare and contrast a firsthand and secondhand account of the same event or topic; describe the differences in focus and the information provided.
+2. Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.
+3. Write informative/explanatory texts to examine a topic and convey ideas and information clearly.
+4. Introduce a topic clearly and group-related information in paragraphs and sections; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension.
+5. Identify disciplinary concepts and ideas associated with a compelling question that are open to different interpretations.
+6. Explain how supporting questions help answer compelling questions in an inquiry.
+7. Articulate the most effective options to access information needed for a specific purpose.
+8. Find information through the use of technologies.
+9. Communicate information through the use of technologies.
+
+## Standard 3. Economics
+
+### Grade Level Expectation SS.4.3.1: People respond to positive and negative incentives.
+
+#### Prepared Graduates
+
+5. Understand the allocation of scarce resources in societies through analysis of individual choice,  market interaction, and public policy.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Define positive and negative economic incentives and describe how people typically respond when given positive or negative incentives.
+2. In a given situation, create a plan of appropriate incentives to achieve a desired result. For example: offering a prize to the person who picks up the most trash on the playground.
+3. Give examples of the kinds of goods and services produced in Colorado in different historical periods and their connection to economic incentives.
+4. Explain how productive resources (natural, human, and capital) have influenced the types of goods produced and services provided in Colorado.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Set goals and develop strategies which take into account positive and negative incentives in order to remain focused on learning goals. (Personal Skills: Perseverance/Resilience)
+
+##### Inquiry Questions:
+
+1. Why are different goods and services important at different times in Colorado's history?
+2. How have science and technology changed the economy of Colorado?
+3. How have natural, human, and capital resources had both positive and negative impacts on the development of Colorado?
+4. How can you explain why people or communities make the decisions that they do?
+
+##### Nature and Skills of Economics:
+
+1. Economic thinkers study positive incentives and how they influence behavior predictably over time. For example: responsible individuals save for the future and move for better job opportunities.
+2. Economic thinkers study how negative incentives influence behavior predictably over time. For example: people move or refuse to relocate due to poor climate or resource shortages.
+3. Economic thinkers investigate alternative ways to use the resources in terms of their advantages and disadvantages.
+4. Economic thinkers use both positive and negative incentives to affect behavior. For example: the tourism industry uses incentives to attract tourists and government agencies use tickets to discourage speeding and fines for not following regulations.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Draw evidence from literary or informational texts to support analysis, reflection, and research.
+2. Identify disciplinary concepts and ideas associated with a compelling question that are open to different interpretations.
+3. Identify main idea, sequence of events, and cause and effect in a social studies context.
+4. Present information orally and in writing.
+
+### Grade Level Expectation SS.4.3.2: Determine the opportunity cost when making a choice (PFL).
+
+#### Prepared Graduates
+
+6. Apply economic reasoning skills to make informed personal financial decisions (PFL).
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Define choice and opportunity cost.
+2. Determine the relationship between long-term goals and opportunity cost.
+3. Analyze scenarios of choices including opportunity cost. For example: how to spend allowance money or purchase school supplies.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Make connections between information gathered and personal experiences to apply and/or test solutions when making a purchase. (Entrepreneurial Skills: Critical Thinking/Problem Solving)
+2. Regulate one’s emotions, thoughts, and behaviors in different situations when making a purchase. (Personal Skills: Personal Responsibility)
+3. Ask questions to develop further personal understanding of how to make informed purchases. (Professional Skills: Self-Advocacy)
+
+##### Inquiry Questions:
+
+1. What different ways does an individual have to get information when deciding between purchase options?
+2. How do you know when a good decision has been made about a purchase?
+3. How do you know when a bad decision has been made about a purchase?
+
+##### Nature and Skills of Economics:
+
+1. Economic thinkers analyze opportunity costs associated with making decisions.
+2. Economic thinkers analyze data to forecast possible outcomes.
+3. Economic thinkers understand that the relationship between choice and opportunity cost leads to good decision-making. For example: a business may have an opportunity to purchase inexpensive land, but the cost may be in the travel time.
+4. Economic thinkers compare the benefits and costs of individual choices.
+5. Economic thinkers identify positive and negative incentives that influence the decisions people make.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.
+2. Use precise language and domain-specific vocabulary to inform about or explain the topic.
+
+## Standard 4. Civics
+
+### Grade Level Expectation SS.4.4.1: Identify, investigate, and analyze multiple perspectives on civic issues.
+
+#### Prepared Graduates
+
+7. Express an understanding of how civic participation affects policy by applying the rights and responsibilities of a citizen.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Give examples of issues faced by the state of Colorado and develop possible solutions.
+2. Provide supportive arguments for both sides of a current public policy debate.
+3. Discuss how various individuals and groups influence the way an issue affecting the state is viewed and resolved.
+4. Identify and use appropriate sources to investigate and analyze multiple perspectives of issues.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Regulate reactions to differing perspectives. (Personal Skills: Adaptability/Flexibility)
+2. Identify and explain multiple perspectives when exploring issues faced by the state of Colorado. (Civic/Interpersonal Skills: Global/Cultural Awareness)
+3. Participate in social or community activities.
+
+##### Inquiry Questions:
+
+1. How can government answer questions about issues in a state in various ways?
+2. How do diverse opinions enrich a community?
+3. How does an individual's experience and background influence perception of an issue?
+4. Why is it important to research issues and engage in civil debates?
+
+##### Nature and Skills of Civics:
+
+1. Civic-minded individuals understand that virtues, such as honesty, mutual respect, cooperation, and attentiveness to multiple perspectives, should be used when they interact with each other on public matters.
+2. Civic-minded individuals recognize opportunities to study the effectiveness of various ways to influence state public policy.
+3. Civic-minded individuals understand the relationships between state government and citizens.
+4. Civic-minded individuals study the art of debate, critical reasoning, and active listening to foster informed choices. For example: school boards review the pros and cons of an issue such as dress code and then make a policy decision.
+5. Civic-minded individuals identify the beliefs, experiences, perspectives, and values that underlie their own and others’ points of view about civic issues.
+6. Civic-minded individuals critique arguments and provide explanations.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Draw evidence from literary or informational texts to support analysis, reflection, and research.
+2. Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.
+3. Identify disciplinary concepts and ideas associated with a compelling question that are open to different interpretations.
+4. Determine the kinds of sources that will be helpful in answering compelling and supporting questions, taking into consideration the different opinions people have about how to answer the questions.
+5. Gather relevant information from multiple sources while using the origin, structure, and context to guide the selection.
+6. Present information orally and in writing.
+7. Use technology to efficiently and effectively access information.
+
+### Grade Level Expectation SS.4.4.2: The origins, structures, and functions of the Colorado government.
+
+#### Prepared Graduates
+
+8. Analyze the origins, structures, and functions of governments to evaluate the impact on citizens and the global society.
+
+#### Evidence Outcomes
+
+##### Students Can:
+
+1. Explain the historical foundation and events that led to the Colorado Constitution and the formation of the three branches of Colorado government.
+2. Identify and explain a variety of roles leaders, citizens, and others play in state government.
+3. Identify and explain the services state government provides and how those services are funded.
+4. Describe how the decisions of the state government affect local government and interact with federal law.
+5. Describe how a citizen might engage in state government to demonstrate their rights or initiate change.
+
+#### Academic Contexts and Connections
+
+##### Colorado Essential Skills:
+
+1. Recognize how members of a community rely on each other to make decisions and enact change. (Civic/Interpersonal Skills: Collaboration/Teamwork)
+
+##### Inquiry Questions:
+
+1. What would state government look like if one of the branches had more power than the others?
+2. What would Colorado be like without a state government?
+3. To what extent were various individuals and organizations in the state important in the development of Colorado's government?
+
+##### Nature and Skills of Civics:
+
+1. Civic-minded individuals understand the importance of the processes and rules by which groups of people make decisions, govern themselves, and address public problems.
+2. Civic-minded individuals know the origins, structure, and functions of Colorado's government and how it provides for participation, influence and benefits. For example, individuals can vote on ballot issues that affect taxes.
+3. Civic-minded individuals investigate resources and ask for government support and services. For example: someone wanting to open a restaurant can visit the Department of Health website to get information.
+4. Civic-minded individuals can explain different strategies and approaches that students and others could take in working alone and together to address local, regional, and global problems, and predict possible results of their actions.
+
+##### Disciplinary, Information, and Media Literacy:
+
+1. Write informative/explanatory texts to examine a topic and convey ideas and information clearly.
+2. Report on a topic or text, tell a story, or recount an experience in an organized manner, using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.
+3. Present information orally and in writing.
+4. Use technology to efficiently and effectively access information.
+5. Demonstrate an understanding of chronology.
+
