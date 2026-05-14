@@ -1,20 +1,20 @@
-# Fourth Grade
+# Fourth Grade | Science
 
 ## Standard 1. Physical Science
 
 ### Grade Level Expectation SC.4.1.1: The faster an object moves the more energy it has.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use evidence to construct an explanation relating the speed of an object to the energy of that object. (4-PS3-1) *(Clarification Statement: Examples of evidence relating speed and energy could include change of shape on impact or other results of collisions.) (Boundary Statement: Does not include quantitative measures of changes in speed of an object or on any precise or quantitative definition of energy.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -31,17 +31,17 @@
 
 ### Grade Level Expectation SC.4.1.2: Energy can be moved from place to place.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Make observations to provide evidence that energy can be transferred from place to place by sound, light, heat and electric currents. (4-PS3-2) *(Boundary Statement: Does not include quantitative measurement of energy.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -59,17 +59,17 @@
 
 ### Grade Level Expectation SC.4.1.3: When objects collide contact forces transfer so as to change objects' motion.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Ask questions and predict outcomes about the changes in energy that occur when objects collide. (4-PS3-3) *(Clarification Statement: Emphasis is on the change in the energy due to the change in speed, not on the forces, as objects interact.) (Boundary Statement: Does not include quantitative measures of energy.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -86,17 +86,17 @@
 
 ### Grade Level Expectation SC.4.1.4: Energy can be produced, used or released by converting stored energy.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Apply scientific ideas to design, test and refine a device that converts energy from one form to another. (4-PS3-4) *(Clarification Statement: Examples of evidence relating speed and energy could include change of shape on impact or other results of collisions.) (Boundary Statement: Does not include quantitative measures of changes in speed of an object or on any precise or quantitative definition of energy.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -115,17 +115,17 @@
 
 ### Grade Level Expectation SC.4.1.5: Waves are regular patterns of motion.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how waves are used to transfer energy and information.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop a model of waves to describe patterns in terms of amplitude and wavelength and that waves can cause objects to move. (4-PS4-1) *(Clarification Statement: Examples of models could include diagrams, analogies and physical models using wire to illustrate wavelength and amplitude of waves.) (Boundary Statement: Does not include interference effects, electromagnetic waves, non-periodic waves or quantitative models of amplitude and wavelength.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -142,17 +142,17 @@
 
 ### Grade Level Expectation SC.4.1.6: An object can be seen when light reflected from its surface enters the eyes.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how waves are used to transfer energy and information.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop a model to describe that light reflecting from objects and entering the eye allows objects to be seen. (4-PS4-2) *(Boundary Statement: Does not include knowledge of specific colors reflected and seen, the cellular mechanisms of vision or how the retina works.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -169,17 +169,17 @@
 
 ### Grade Level Expectation SC.4.1.7: Patterns can encode, send, receive and decode information.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how waves are used to transfer energy and information.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Generate and compare multiple solutions that use patterns to transfer information. (4-PS4-3) *(Clarification Statement: Examples of solutions could include drums sending coded information through sound waves, using a grid of 1s and 0s representing black and white to send information about a picture and using Morse code to send text.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -199,18 +199,18 @@
 
 ### Grade Level Expectation SC.4.2.1: Organisms have both internal and external structures that serve various functions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior and reproduction. (4-LS1-1) *(Clarification Statement: Examples of structures could include thorns, stems, roots, colored petals, heart, stomach, lungs, brain and skin.) (Boundary Statement: Stress at this level is on understanding the macroscale systems and their functions, not the microscopic scale.)*
 2. Use a model to describe that animals receive different types of information through their senses, process the information in their brain, and respond to the information in different ways. (4-LS1-2) *(Clarification Statement: Emphasis is on systems information transfer.) (Boundary Statement: Does not include the mechanisms by which the brain stores and recalls information or the mechanism of how sensory receptors function.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -231,17 +231,17 @@
 
 ### Grade Level Expectation SC.4.3.1: Earth has changed over time.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Identify evidence from patterns in rock formations and fossils in rock layers to support an explanation for changes in a landscape over time. (4-ESS1-1) *(Clarification Statement: Examples of evidence from patterns could include rock layers with shell fossils above rock layers with plant fossils and no shells, indicating a change from water to land over time; and a canyon with different rock layers in the walls and a river in the bottom, indicating that over time a river cut through the rock.) (Boundary Statement: Does not include specific knowledge of the mechanism of rock formation or memorization of specific rock formations and layers, and should only include relative time.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -259,17 +259,17 @@
 
 ### Grade Level Expectation SC.4.3.2: Four major earth systems interact.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Make observations and/or measurements to provide evidence of the effects of weathering or the rate of erosion by water, ice, wind, or vegetation. (4-ESS2-1) *(Clarification Statement: Examples of variables to test could include angle of slope in the downhill movement of water, amount of vegetation, speed of wind, relative rate of deposition, cycles of freezing and thawing of water, cycles of heating and cooling and volume of water flow.) (Boundary Statement: Limited to a single form of weathering or erosion.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -287,17 +287,17 @@
 
 ### Grade Level Expectation SC.4.3.3: Earth's physical features occur in patterns.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Analyze and interpret data from maps to describe patterns of Earth’s features. (4-ESS2-2) *(Clarification Statement: Maps can include topographic maps of Earth’s land and ocean floor, as well as maps of the locations of mountains, continental boundaries, volcanoes and earthquakes.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -314,17 +314,17 @@
 
 ### Grade Level Expectation SC.4.3.4:  Energy and fuels that humans use are derived from natural sources and their use affects the environment in multiple ways.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
-1. Obtain and combine information to describe that energy and fuels are derived from natural resources and their uses affect the environment. (4-ESS3-1) *(Clarification Statement: Examples of renewable energy resources could include wind energy, water behind dams, and sunlight; non-renewable energy resources are fossil fuels and fissile materials. Examples of environmental effects could include loss of habitat due to dams and wind farms, loss of habitat due to surface mining, air pollution from burning of fossil fuels, and harm to wildlife.)*
+1. Obtain and combine information to describe that energy and fuels are derived from natural resources and their uses affect the environment. (4-ESS3-1) *(Clarification Statement: Examples of renewable energy resources could include wind energy, water behind dams, and sunlight; non-renewable energy resources are fossil fuels and fissile materials. Examples of environmental effects could include loss of habitat due to dams, loss of habitat due to surface mining, and air pollution from burning of fossil fuels.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -344,18 +344,18 @@
 
 ### Grade Level Expectation SC.4.3.5:  A variety of hazards result from natural process; humans cannot eliminate natural hazards but can reduce their impacts' effect.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans. (4-ESS3-2) *(Clarification Statement: Examples of solutions could include designing an earthquake resistant building and improving monitoring of volcanic activity.)
 (Boundary: Limited to earthquakes, floods, tsunamis, and volcanic eruptions.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 

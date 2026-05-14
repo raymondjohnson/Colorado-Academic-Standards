@@ -1,14 +1,14 @@
-# First Grade
+# First Grade | Science
 
 ## Standard 1. Physical Science
 
 ### Grade Level Expectation SC.1.1.1: Sound can make matter vibrate and vibrating matter can make sound.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how waves are used to transfer energy and information.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 3. Plan and conduct an investigation to determine the effect of placing objects made with different materials in the path of a beam of light. (1-PS4-3) *(Clarification Statement: Examples of materials could include those that are transparent [such as clear plastic], translucent [such as wax paper], opaque [such as cardboard] and reflective [such as a mirror].)*
 4. Use tools and materials to design and build a device that used light or sound to solve the problem of communicating over a distance. (1-PS4-4) *(Clarification Statement: This performance expectation integrates transitional science content with engineering through a practice or disciplinary core idea.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -40,18 +40,18 @@
 
 ### Grade Level Expectation SC.1.2.1: All organisms have external parts that they use to perform daily functions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use materials to design a solution to a human problem by mimicking how plants and/or animals use their external parts to help them survive, grow and meet their needs. (1-LS1-1) *(Clarification Statement: Examples of human problems that can be solved could include designing clothing or equipment to protect bicyclists by mimicking turtle shells, acorn shells and animal scales; stabilizing structures by mimicking animal tails and roots on plants; keeping out intruders by mimicking thorns on branches and animal quills; and detecting intruders by mimicking eyes and ears.)*
 2. Read texts and use media to determine patterns in behavior of parents and offspring that help offspring survive. (1-LS1-2) *(Clarification Statement: Examples of patterns of behaviors could include the signals that offspring make [such as crying, cheeping and other vocalizations] and the responses of the parents [such as feeding, comforting and protecting the offspring].)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -73,17 +73,17 @@
 
 ### Grade Level Expectation SC.1.2.2: Young organisms are very much, but not exactly, like their parents, and also resemble other organisms of the same kind.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how genetic and environmental factors influence variation of organisms across generations.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Make observations to construct an evidence-based account that young plants and animals are like, but not exactly like, their parents. (1-LS3-1) *(Clarification Statement: Examples of patterns could include features that plants or animals share. Examples of observations could include leaves from the same kind of plant that are the same shape but can differ in size; and, a particular breed of dog looks like its parents but is not exactly the same. This performance expectation integrates traditional science content with engineering through a practice or disciplinary core idea.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -103,18 +103,18 @@
 
 ### Grade Level Expectation SC.1.3.1: Patterns of movement of the sun, moon and stars as seen from Earth can be observed, described and predicted.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use observations of the sun, moon, and stars to describe patterns that can be predicted. (1-ESS1-1) *(Clarification Statement: Examples of patterns could include that the sun and moon appear to rise in one part of the sky, move across the sky and set; and stars other than our sun are visible at night but not during the day.)*
 2. Make observations at different times of year to relate the amount of daylight to the time of year. (1-ESS1-2) *(Clarification Statement: Emphasis is on relative comparisons of the amount of daylight in the winter to the amount in the spring or fall.) (Boundary Statement: Limited to relative amounts of daylight, not quantifying the hours or time of daylight.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 

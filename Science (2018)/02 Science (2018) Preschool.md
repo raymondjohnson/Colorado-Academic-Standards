@@ -1,14 +1,14 @@
-# Preschool
+# Preschool | Science
 
 ## Standard 1. Physical Science
 
 ### Preschool Learning and Development Expectation SC.P.1.1: Recognize that physical properties of objects and/or materials help us understand the world.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -17,7 +17,7 @@
 3. Collect, describe, predict and record information using words, drawings, maps, graphs and charts.
 4. Observe, describe, and discuss living things and natural processes.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -33,13 +33,13 @@
 3. Participate in experiments, ask how and why questions.
 4. Draw connections between classroom experiments/investigation and real world experiences (e.g., “The water turned to ice like the lake next to my house because it was cold”).
 
-### Preschool Learning and Development Expectation SC.P.1.2: Recognize there are cause-and-effect relationships related to matter and energy.
+### Preschool Learning and Development Expectation SC.P.1.2: Recognize there are cause - and - effect relationships related to matter and energy.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -48,7 +48,7 @@
 3. Observe, describe and discuss properties of materials and transformation of substances.
 4. Seek answers to questions and test predictions using simple experiments.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -69,11 +69,11 @@
 
 ### Preschool Learning and Development Expectation SC.P.2.1: Recognize that living things have unique characteristics and basic needs that can be observed and studied.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -84,7 +84,7 @@
 5. Collect, describe, and record information about living things through discussion, drawings, graphs, technology and charts.
 6. Identify differences between living and nonliving things.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -104,11 +104,11 @@
 
 ### Preschool Learning and Development Expectation SC.P.2.2: Recognize that living things develop in predictable patterns.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -117,7 +117,7 @@
 3. Observe and document changes in living things over time using different modalities such as drawing, dramatization, describing or using technology.
 4. Recognize that plants and animals grow and change.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -137,11 +137,11 @@
 
 ### Preschool Learning and Development Expectation SC.P.3.1: The acquisition of concepts and facts related to the Earth materials and their uses.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -151,7 +151,7 @@
 4. Participate in simple investigations to form hypothesis, gather observations, draw conclusions.
 5. Record observations using words, drawings, maps, graphs and charts.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -172,11 +172,11 @@
 
 ### Preschool Learning and Development Expectation SC.P.3.2: The acquisition of concepts and facts related to the natural and physical world and the understanding of naturally occurring relationships.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -185,7 +185,7 @@
 3. Recognizes familiar elements of the natural world and demonstrates an understanding that these may change over time (e.g., sun and moon, weather).
 4. Observe and describe patterns observed over the course of a number of days and nights (e.g., differences in the activities or appearance of plants and animals).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 

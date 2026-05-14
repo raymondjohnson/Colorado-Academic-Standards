@@ -1,21 +1,21 @@
-# Fifth Grade
+# Fifth Grade | Science
 
 ## Standard 1. Physical Science
 
 ### Grade Level Expectation SC.5.1.1: Matter exists as particles that are too small to be seen; measurements of a variety of observable properties can be used to identify particular materials.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop a model to describe that matter is made of particles too small to be seen. (5-PS1-1) *(Clarification Statement: Examples of evidence supporting a model could include adding air to expand a basketball, compressing air in a syringe, dissolving sugar in water and evaporating salt water. Does not include the atomic-scale mechanism of evaporation and condensation or defining the unseen particles.)*
 2. Make observations and measurements to identify materials based on their properties. (5-PS1-3) *(Clarification Statement: Examples of materials to be identified could include baking soda and other powders, metals, minerals and liquids. Examples of properties could include color, hardness, reflectivity, electrical conductivity, thermal conductivity, response to magnetic forces and solubility; density is not intended as an identifiable property. Does not include density or distinguishing mass and weight.) (Boundary Statement: At this grade level, mass and weight are not distinguished, and no attempt is made to define the unseen particles or explain the atomic-scale mechanism of evaporation and condensation.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -35,18 +35,18 @@
 
 ### Grade Level Expectation SC.5.1.2: Chemical Reactions that occur when substances are mixed can be identified by the emergence of substances with different properties; the total mass remains the same.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Measure and graph quantities to provide evidence that regardless of the type of change that occurs when heating, cooling or mixing substances, the total weight of matter is conserved. (5-PS1-2) *(Clarification Statement: Examples of reactions or changes could include phase changes, dissolving and mixing that form new substances. Does not include distinguishing mass and weight.) (Boundary Statement: Mass and weight are not distinguished at this grade level.)*
 2. Conduct an investigation to determine whether the mixing of two or more substances results in new substances. (5-PS1-4)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -67,17 +67,17 @@
 
 ### Grade Level Expectation SC.5.1.3: The gravitational force of Earth acting on an object near Earth's surface pulls that object toward the planet’s center.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Support an argument that the gravitational force exerted by Earth on objects is directed down. (5-PS2-1) *(Clarification Statement: “Down” is a local description of the direction that points toward the center of the spherical Earth.) (Boundary Statement: Does not include mathematical representation of gravitational force).*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -94,17 +94,17 @@
 
 ### Grade Level Expectation SC.5.1.4: The energy released from food was once energy from the sun.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use models to describe that energy in animals’ food (used for body repair, growth and motion and to maintain body warmth) was once energy from the sun. (5-PS3-1) *(Clarification Statement: Examples of models could include diagrams and flowcharts.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -123,17 +123,17 @@
 
 ### Grade Level Expectation SC.5.2.1: Plants acquire their material from growth chiefly from air and water.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Support an argument that plants get the materials they need for growth chiefly from air and water. (5-LS1-1) *(Clarification Statement: Emphasis is on the idea that plant matter comes mostly from air and water, not from the soil.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -150,17 +150,17 @@
 
 ### Grade Level Expectation SC.5.2.2: Matter cycles between air and soil and among plants, animals and microbes as these organisms live and die.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment. (5-LS2-1) *(Clarification Statement: Emphasis is on the idea that matter that is not food [air, water, decomposed materials in soil] is changed by plants into matter that is food. Examples of systems could include organisms, ecosystems, and the Earth.) (Boundary Statement: Does not include molecular explanations.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -181,17 +181,17 @@
 
 ### Grade Level Expectation SC.5.3.1: Stars range greatly in size and distance from Earth, and this can explain their relative brightness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Support an argument that differences in the apparent brightness of the sun compared to other stars is due to their relative distances from the Earth. (5-ESS1-1) *(Clarification Statement: Limited to relative distances, not sizes, of stars. Does not include other factors that affect apparent brightness [such as stellar masses, age and stage].)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -208,17 +208,17 @@
 
 ### Grade Level Expectation SC.5.3.2: Earth’s orbit and rotation and the orbit of the moon around earth cause observable patterns.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Represent data in graphical displays to reveal patterns of daily changes in length and direction of shadows, day and night, and the seasonal appearance of some stars in the night sky. (5-ESS1-2) *(Clarification Statement: Examples of patterns could include the position and motion of Earth with respect to the sun and selected stars that are visible only in particular months.) (Boundary Statement: Does not include causes of seasons.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -235,17 +235,17 @@
 
 ### Grade Level Expectation SC.5.3.3: Earth’s major systems interact in multiple ways to affect Earth’s surface materials and processes.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
-1. Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere and/or atmosphere interact. (5-ESS2-1) *(Clarification Statement: Examples could include the influence of the ocean on ecosystems, landform shape, and climate; the influence of the atmosphere on landforms and ecosystems through weather and climate, including climate change; and the influence of mountain ranges on winds and clouds in the atmosphere. The geosphere, hydrosphere, atmosphere, and biosphere are each a system.) (Boundary Statement: Limited to the interactions of two systems at a time.)*
+1. Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere and/or atmosphere interact. (5-ESS2-1) *(Clarification Statement: Examples could include the influence of the ocean on ecosystems, landform shape, and climate; the influence of the atmosphere on landforms and ecosystems through weather and climate; and the influence of mountain ranges on winds and clouds in the atmosphere. The geosphere, hydrosphere, atmosphere, and biosphere are each a system.) (Boundary Statement: Limited to the interactions of two systems at a time.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -262,17 +262,17 @@
 
 ### Grade Level Expectation SC.5.3.4: Most of Earth’s water is in the ocean and much of Earth’s freshwater in glaciers or underground.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Describe and graph the amounts and percentages of saltwater and freshwater in various reservoirs to provide evidence about the distribution of water on Earth. (5-ESS2-2) *(Boundary Statement: Limited to oceans, lakes, rivers, glaciers, ground water, and polar ice caps, and does not include the atmosphere.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -289,17 +289,17 @@
 
 ### Grade Level Expectation SC.5.3.5: Societal activities have had major effects on land, ocean, atmosphere and even outer space
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
-1. Obtain and combine information about ways individual communities use science ideas to protect the Earth’s ecosystems and environment. (5-ESS3-1)
+1. Obtain and combine information about ways individual communities use science ideas to protect the Earth’s resources and environment. (5-ESS3-1)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -308,7 +308,7 @@
 ##### Elaboration on the GLE:
 
 1. Students can answer the question: How do humans change the planet?
-2. ESS3:C Human Impacts on Earth Systems: Human activities in agriculture, industry, and everyday life have had major effects on the land, vegetation, streams, ocean, air and even outer space. But individuals and communities are doing things to help protect Earth’s ecosystems and environments.
+2. ESS3:C Human Impacts on Earth Systems: Human activities in agriculture, industry, and everyday life have had major effects on the land, vegetation, streams, ocean, air and even outer space. But individuals and communities are doing things to help protect Earth’s resources and environments.
 
 ##### Cross Cutting Concepts:
 

@@ -1,14 +1,14 @@
-# High School
+# High School | Science
 
 ## Standard 1. Physical Science
 
 ### Grade Level Expectation SC.HS.1.1: The sub-atomic structural model and interactions between electric charges at the atomic scale can be used to explain the structure and interactions of matter.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -18,7 +18,7 @@
 *(Clarification Statement: Emphasis is on understanding the difference intermolecular versus intramolecular forces and the strengths of forces between particles but not naming specific intermolecular forces, such as dipole-dipole. Examples of particles could include ions, atoms, molecules, and networked materials, such as graphite. Examples of bulk properties of substances could include the melting point and boiling point, vapor pressure, and surface tension.) (Boundary Statement: Does not include Raoult’s law calculations of vapor pressure or the names, shapes, or bond angles associated with VSEPR theory.)*
 3. Develop a model to illustrate that the release or absorption of energy from a chemical reaction system depends upon the changes in total bond energy. (HS-PS1-4) *(Clarification Statement: Emphasis is on the idea that a chemical reaction is a system that affects the energy change. Examples of models could include molecular-level drawings and diagrams of reactions, graphs showing the relative energies of reactants and products, and representations showing energy is conserved.) (Boundary Statement: Does not include calculating the total bond energy changes during a chemical reaction from the bond energies of reactants and products.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -36,11 +36,11 @@
 
 ### Grade Level Expectation SC.HS.1.2: Chemical processes, their rates, their outcomes, and whether or not energy is stored or released can be understood in terms of collisions of molecules, rearrangement of atoms, and changes in energy as determined by properties of elements involved.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -50,7 +50,7 @@
 4. Refine the design of a chemical system by specifying a change in conditions that would produce increased amounts of products at equilibrium. (HS-PS1-6) *(Clarification Statement: Emphasis is on the application of Le Chatlier’s Principle and on refining designs of chemical reaction systems, including descriptions of the connection between changes made at the macroscopic level and what happens at the molecular level. Examples of designs could include different ways to increase product formation including adding reactants or removing products.) (Boundary Statement: Limited to specifying the change in only one variable at a time. Does not include calculating equilibrium constants and concentrations.)*
 5. Use mathematical representations to support the claim that atoms, and therefore mass, are conserved during a chemical reaction. (HS-PS1-7) *(Clarification Statement: Emphasis is on using mathematical ideas to communicate the proportional relationships between masses of atoms in the reactants and the products, and the translation of these relationships to the macroscopic scale using the mole as the conversion from the atomic to the macroscopic scale. Emphasis is on assessing students’ use of mathematical thinking and not on memorization and rote application of problem-solving techniques.) (Boundary Statement: Does not include complex chemical reactions or calculations involving limiting and excess reactants.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -72,17 +72,17 @@
 
 ### Grade Level Expectation SC.HS.1.3: The strong nuclear interaction provides the primary force that holds nuclei together. Nuclear processes including fusion, fission, and radioactive decays of unstable nuclei involve changes in nuclear binding energies.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop models to illustrate the changes in the composition of the nucleus of the atom and the energy released during the processes of fission, fusion, and radioactive decay. (HS-PS1-8) *(Clarification Statement: Emphasis is on simple qualitative models, such as pictures or diagrams and on the scale of energy released in nuclear processes relative to other kinds of transformations. Quantitative models for radioactive decay should not require mathematical manipulations of an exponential equation.) (Boundary Statement: Does not include quantitative calculation of energy released. Limited to alpha, beta, and gamma radioactive decays.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -99,11 +99,11 @@
 
 ### Grade Level Expectation SC.HS.1.4: Newton’s second law and the conservation of momentum can be used to predict changes in the motion of macroscopic objects.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding interactions between objects and within systems of objects.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -111,7 +111,7 @@
 2. Use mathematical representations to support the claim that the total momentum of a system of objects is conserved when there is no net force on the system. (HS-PS2-2) *(Clarification Statement: Emphasis is on the quantitative conservation of momentum in interactions and the qualitative meaning of this principle.) (Boundary Statement: Limited to systems of two macroscopic bodies moving in one dimension.)*
 3. Apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes the force on a macroscopic object during a collision. (HS-PS2-3) *(Clarification Statement: Examples of evaluation and refinement could include determining the success of the device at protecting an object from damage and modifying the design to improve it. Examples of a device could include a football helmet or a parachute.) (Boundary Statement: Limited to qualitative evaluations and/or algebraic manipulations.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -132,11 +132,11 @@
 
 ### Grade Level Expectation SC.HS.1.5: Forces at a distance are explained by fields that can transfer energy and can be described in terms of the arrangement and properties of the interacting objects and the distance between them.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding interactions between objects and within systems of objects.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -144,7 +144,7 @@
 2. Plan and conduct an investigation to provide evidence that an electric current can produce a magnetic field and that a changing magnetic field can produce an electric current. (HS-PS2-5) *(Boundary Statement: Limited to designing and conducting investigations with provided materials and tools.)*
 3. Communicate scientific and technical information about why the molecular-level structure is important in the functioning of designed materials. (HS-PS2-6) *(Clarification Statement: Emphasis is on the attractive and repulsive forces that determine the functioning of the material. Examples could include why electrically conductive materials are often made of metal, flexible but durable materials are made up of long chained molecules, and pharmaceuticals are designed to interact with specific receptors.) (Boundary Statement: Limited to provided molecular structures of specific designed materials.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -166,11 +166,11 @@
 
 ### Grade Level Expectation SC.HS.1.6: Energy is a quantitative property of a system that depends on the motion and interactions of matter and radiation within that system.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -178,7 +178,7 @@
 2. Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a combination of energy associated with the motion of particles (objects) and energy associated with the relative positions of particles (objects). (HS-PS3-2) *(Clarification Statement: Examples of phenomena at the macroscopic scale could include the conversion of kinetic energy to thermal energy, the energy stored due to position of an object above the Earth, and the energy stored between two electrically charged plates. Examples of models could include diagrams, drawings, descriptions, and computer simulations.)*
 3. Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy. (HS-PS3-3) *(Clarification Statement: Emphasis is on both qualitative and quantitative evaluations of devices and on the ability of energy to be transferred but not on the efficiency of energy transfer. Examples of devices could include Rube Goldberg devices, wind turbines, solar cells, solar ovens, and generators. Examples of constraints could include use of renewable energy forms and efficiency.) (Boundary Statement: Quantitative evaluations are limited to total output for a given input, and are limited to devices constructed with materials provided to students.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -200,18 +200,18 @@
 
 ### Grade Level Expectation SC.HS.1.7: Energy cannot be created or destroyed, but it can be transported from one place to another and transferred between systems.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Create a computational model to calculate the change in the energy of one component in a system when the change in energy of the other component(s) and energy flows in and out of the system are known. (HS-PS3-1) *(Clarification Statement: Emphasis is on explaining the meaning of mathematical expressions used in the model.) (Boundary Statement: Limited to basic algebraic expressions or computations; to systems of two or three components; and to thermal energy, kinetic energy, and/or the energies in gravitational, magnetic, or electric fields.)*
 2. Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system (second law of thermodynamics). (HS-PS3-4) *(Clarification Statement: Emphasis is on analyzing data from student investigations and using mathematical thinking to describe the energy changes both quantitatively and conceptually. Examples of investigations could include mixing liquids at different initial temperatures or adding objects at different temperatures to water.) (Boundary Statement: Limited to investigations based on materials and tools provided to students.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -230,17 +230,17 @@
 
 ### Grade Level Expectation SC.HS.1.8: Force fields (gravitational, electric, and magnetic) contain energy and can transmit energy across space from one object to another.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction. (HS-PS3-5) *(Clarification Statement: Examples of models could include drawings, diagrams, and texts, such as drawings of what happens when two charges of opposite polarity are near each other.) (Boundary Statement: Limited to systems containing two objects.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -257,18 +257,18 @@
 
 ### Grade Level Expectation SC.HS.1.9: Although energy cannot be destroyed, it can be converted to less useful forms as it is captured, stored and transferred.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy. (HS-PS3-3) *(Clarification Statement: Emphasis is on both qualitative and quantitative evaluations of devices, including the identification of different energy types [starting points] and how they are transferred. Examples of devices could include Rube Goldberg devices, wind turbines, solar cells, solar ovens, and generators. Examples of constraints could include use of renewable energy forms and efficiency.) (Boundary Statement: Quantitative evaluation is limited to total output for a given input. Limited to devices constructed with materials provided to students.)*
 2. Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system (second law of thermodynamics). (HS-PS3-4) *(Clarification Statement: Emphasis is on analyzing data from student investigations and using mathematical thinking to describe the energy changes both quantitatively and conceptually. Examples of investigations could include mixing liquids at different initial temperatures or adding objects at different temperatures to water.) (Boundary Statement: Limited to investigations based on materials and tools provided to students.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -287,18 +287,18 @@
 
 ### Grade Level Expectation SC.HS.1.10: Waves have characteristic properties and behaviors.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how waves are used to transfer energy and information.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use mathematical representations to support a claim regarding relationships among the frequency, wavelength, and speed of waves traveling in various media. (HS-PS4-1) *(Clarification Statement: Examples of data could include electromagnetic radiation traveling in a vacuum and glass, sound waves traveling through air and water, and seismic waves traveling through the Earth.) (Boundary Statement: Limited to algebraic relationships and describing those relationships qualitatively.)*
 2. Evaluate questions about the advantages of using a digital transmission and storage of information. (HS-PS4-2) *(Clarification Statement: Examples of advantages [compared to waves] could include that digital information is stable because it can be stored reliably in computer memory, transferred easily, and copied and shared rapidly. Disadvantages could include issues of easy deletion, security, and theft.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -319,11 +319,11 @@
 
 ### Grade Level Expectation SC.HS.1.11: Both an electromagnetic wave model and a photon model explain features of electromagnetic radiation broadly and describe common applications of electromagnetic radiation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how waves are used to transfer energy and information.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -331,7 +331,7 @@
 2. Evaluate the validity and reliability of claims in published materials of the effects that different frequencies of electromagnetic radiation have when absorbed by matter. (HS-PS4-4) *(Clarification Statement: Emphasis is on the idea that different frequencies of light have different energies, and the damage to living tissue from electromagnetic radiation depends on the energy of the radiation. Some examples may include: sunscreen SPF, lasers stimulating particular material to resonate at a particular frequency, and a discussion of how color is perceived as it relates to frequency. Examples of published materials could include trade books, magazines, web resources, videos, and other passages that may reflect bias.)*
 3. Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy. (HS-PS4-5) *(Clarification Statement: Examples could include solar cells capturing light and converting it to electricity; medical imaging; and communications technology.) (Boundary Statement: Limited to qualitative information and does not include band theory.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -353,17 +353,17 @@
 
 ### Grade Level Expectation SC.HS.1.12: Multiple technologies that are part of everyday experiences are based on  waves and their interactions with matter.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how waves are used to transfer energy and information.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy. (HS-PS4-5) *(Clarification Statement: Examples could include solar cells capturing light and converting it to electricity; medical imaging; and communications technology.) (Boundary Statement: Limited to qualitative information. Does not include band theory.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -384,11 +384,11 @@
 
 ### Grade Level Expectation SC.HS.2.1: DNA codes for the complex hierarchical organization of systems that enable life's functions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -396,7 +396,7 @@
 2. Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms. (HS-LS1-2) *(Clarification Statement: Emphasis is on functions at the organism system level such as nutrient uptake, water delivery, and organism movement in response to neural stimuli. An example of an interacting system could be an artery depending on the proper function of elastic tissue and smooth muscle to regulate and deliver the proper amount of blood within the circulatory system.) (Boundary Statement: Does not include interactions and functions at the molecular or chemical reaction level.)*
 3. Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis. (HS-LS1-3) *(Clarification Statement: Examples of investigations could include heart rate response to exercise, stomate response to moisture and temperature, and root development in response to water levels.) (Boundary Statement: Does not include the cellular processes involved in the feedback mechanism.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -417,17 +417,17 @@
 
 ### Grade Level Expectation SC.HS.2.2: Growth and division of cells in complex organisms occurs by mitosis, which differentiates specific cell types.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use a model to illustrate the role of cellular division (mitosis) and differentiation in producing and maintaining complex organisms. (HS-LS1-4) *(Boundary Statement: Does not include specific gene control mechanisms or rote memorization of the steps of mitosis.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -446,11 +446,11 @@
 
 ### Grade Level Expectation SC.HS.2.3: Organisms use matter and energy to live and grow.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -458,7 +458,7 @@
 2. Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules. (HS-LS1-6) *(Clarification Statement: Emphasis is on using evidence from models and simulations to support explanations.) (Boundary Statement: Does not include the details of the specific chemical reactions or identification of macromolecules.)*
 3. Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy. (HS-LS1-7) *(Clarification Statement: Emphasis is on the conceptual understanding of the inputs and outputs of the process of cellular respiration.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -476,18 +476,18 @@
 
 ### Grade Level Expectation SC.HS.2.4: Organisms interact with the living and nonliving components of the environment to obtain matter and energy.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use mathematical and/or computational representations to support explanations of factors that affect carrying capacity of ecosystems at different scales. (HS-LS2-1) *(Clarification Statement: Emphasis is on quantitative analysis and comparison of the relationships among interdependent factors including boundaries, resources, climate, and competition. Examples of mathematical comparisons could include graphs, charts, histograms, and population changes gathered from simulations or historical data sets.)*
 2. Use mathematical representations to support and revise explanations based on evidence about factors affecting biodiversity and populations in ecosystems of different scales. (HS-LS2-2) *(Clarification Statement: Examples of mathematical representations include finding the average, determining trends, and using graphical comparisons of multiple sets of data.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -506,11 +506,11 @@
 
 ### Grade Level Expectation SC.HS.2.5: Matter and energy necessary for life are conserved as they move through ecosystems.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -518,7 +518,7 @@
 2. Use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem. (HS-LS2-4) *(Clarification Statement: Emphasis is on using a mathematical model of stored energy in biomass to describe the transfer of energy from one trophic level to another and that matter and energy are conserved as matter cycles and energy flows through ecosystems. Emphasis is on atoms and molecules such as carbon, oxygen, hydrogen and nitrogen being conserved as they move through an ecosystem.)*
 3. Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere. (HS-LS2-5) *(Clarification Statement: Examples of models could include simulations and mathematical models.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -541,18 +541,18 @@
 
 ### Grade Level Expectation SC.HS.2.6: A complex set of interactions determine how ecosystems respond to disturbances.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Evaluate claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem. (HS-LS2-6) *(Clarification Statement: Examples of changes in ecosystem conditions could include modest biological or physical changes, such as moderate hunting or a seasonal flood; and extreme changes, such as volcanic eruption or sea level rise.)*
 2. Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity. (HS-LS2-7) *(Clarification Statement: Examples of human activities can include urbanization, building dams, and dissemination of invasive species.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -572,17 +572,17 @@
 
 ### Grade Level Expectation SC.HS.2.7: Organisms interact in groups to benefit the species.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Evaluate evidence for the role of group behavior on individual and species’ chances to survive and reproduce. (HS-LS2-8) *(Clarification Statement: Emphasis is on: (1) distinguishing between group and individual behavior, (2) identifying evidence supporting the outcomes of group behavior, and (3) developing logical and reasonable arguments based on evidence. Examples of group behaviors could include flocking, schooling, herding, and cooperative behaviors such as hunting, migrating, and swarming.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -600,17 +600,17 @@
 
 ### Grade Level Expectation SC.HS.2.8: The characteristics of one generation are dependent upon the genetic information inherited from previous generations.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how genetic and environmental factors influence variation of organisms across generations.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring. (HS-LS3-1) *(Clarification Statement: Does not include the phases of meiosis or the biochemical mechanism of specific steps in the process.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -628,18 +628,18 @@
 
 ### Grade Level Expectation SC.HS.2.9: Variation between individuals results from genetic and environmental factors.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how natural selection drives biological evolution accounting for the unity and diversity of organisms.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Apply concepts of statistics and probability to explain the variation and distribution of expressed traits in a population. (HS-LS3-3) *(Clarification Statement: Emphasis is on the use of mathematics to describe the probability of traits as it relates to genetic and environmental factors in the expression of traits.)*
 2. Make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by environmental factors. (HS-LS3-2) *(Clarification Statement: Emphasis is on using data to support arguments for the way variation occurs.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -658,17 +658,17 @@
 
 ### Grade Level Expectation SC.HS.2.10: Evidence of common ancestry and diversity between species can be determined by examining variations including genetic, anatomical and physiological differences.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how natural selection drives biological evolution accounting for the unity and diversity of organisms.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Communicate scientific information that common ancestry and biological evolution are supported by multiple lines of empirical evidence. (HS-LS4-1) *(Clarification Statement: Emphasis is on a conceptual understanding of the role each line of evidence has relating to common ancestry and biological evolution. Examples of evidence could include similarities in DNA sequences, anatomical structures, and order of appearance of structures in embryological development.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -688,18 +688,18 @@
 
 ### Grade Level Expectation SC.HS.2.11: Genetic variation among organisms affects survival and reproduction.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how natural selection drives biological evolution accounting for the unity and diversity of organisms.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment. (HS-LS4-2) *(Clarification Statement: Emphasis is on using evidence to explain the influence each of the four factors has on number of organisms, behaviors, morphology, or physiology in terms of ability to compete for limited resources and subsequent survival of individuals and adaptation of species. Examples of evidence could include mathematical models such as simple distribution graphs and proportional reasoning.) (Boundary Statement: Does not include other mechanisms of evolution, such as genetic drift, gene flow through migration, and co-evolution.)*
 2. Apply concepts of statistics and probability to support explanations that organisms with an advantageous heritable trait tend to increase in proportion to organisms lacking this trait. (HS-LS4-3) *(Clarification Statement: Emphasis is on analyzing shifts in numerical distribution of traits and using these shifts as evidence to support explanations.) (Boundary Statement: Limited to basic statistical and graphical analysis. Assessment does not include allele frequency calculations.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -718,18 +718,18 @@
 
 ### Grade Level Expectation SC.HS.2.12: The environment influences survival and reproduction of organisms over multiple generations.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how natural selection drives biological evolution accounting for the unity and diversity of organisms.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an explanation based on evidence for how natural selection leads to adaptation of populations. (HS-LS4-4) *(Clarification Statement: Emphasis is on using data to provide evidence for how specific biotic and abiotic differences in ecosystems (such as ranges of seasonal temperature, long-term climate change, acidity, light, geographic barriers, or evolution of other organisms) contribute to a change in gene frequency over time, leading to adaptation of populations.)*
 2. Evaluate the evidence supporting claims that changes in environmental conditions may result in (1) increases in the number of individuals of some species, (2) the emergence of new species over time, and (3) the extinction of other species. (HS-LS4-5) *(Clarification Statement: Emphasis is on determining cause and effect relationships for how changes to the environment such as deforestation, fishing, application of fertilizers, drought, flood, and the rate of change of the environment affect distribution or disappearance of traits in species.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -748,17 +748,17 @@
 
 ### Grade Level Expectation SC.HS.2.13: Humans have complex interactions with ecosystems and have the ability to influence biodiversity on the planet.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how natural selection drives biological evolution accounting for the unity and diversity of organisms.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Create or revise a simulation to test a solution to mitigate adverse impacts of human activity on biodiversity. (HS-LS4-6) *(Clarification Statement: Emphasis is on testing solutions for a proposed problem related to threatened or endangered species, or to genetic variation of organisms for multiple species.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -777,11 +777,11 @@
 
 ### Grade Level Expectation SC.HS.3.1: All stars, including the sun, undergo stellar evolution, and the study of stars’ light spectra and brightness is used to identify compositional elements of stars, their movements, and their distances from Earth.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -789,7 +789,7 @@
 2. Construct an explanation of the Big Bang theory based on astronomical evidence of light spectra, motion of distant galaxies, and composition of matter in the universe. (HS-ESS1-2) *(Clarification Statement: Emphasis is on the astronomical evidence of the red shift of light from galaxies as an indication that the universe is currently expanding, the cosmic microwave background as the remnant radiation from the Big Bang, and the observed composition of ordinary matter of the universe, primarily found in stars and interstellar gases [from the spectra of electromagnetic radiation from stars], which matches that predicted by the Big Bang theory [3/4 hydrogen and 1/4 helium].)*
 3. Communicate scientific ideas about the way stars, over their life cycle, produce elements. (HS-ESS1-3) *(Clarification Statement: Emphasis is on the way nucleosynthesis, and therefore the different elements created, varies as a function of the mass of a star and the stage of its lifetime.) (Boundary Statement: Details of the many different nucleosynthesis pathways for stars of differing masses are not assessed.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -811,17 +811,17 @@
 
 ### Grade Level Expectation SC.HS.3.2: Explanations of and predictions about the motions of orbiting objects are described by the laws of physics.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use mathematical or computational representations to predict the motion of orbiting objects in the solar system. (HS-ESS1-4) *(Clarification Statement: Emphasis is on Newtonian gravitational laws governing orbital motions, which apply to human-made satellites as well as planets and moons.) (Boundary Statement: Mathematical representations for the gravitational attraction of bodies and Kepler’s Laws of orbital motions should not deal with more than two bodies, nor involve calculus.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -838,18 +838,18 @@
 
 ### Grade Level Expectation SC.HS.3.3: The rock record resulting from tectonic and other geoscience processes as well as objects from the solar system can provide evidence of Earth’s early history and the relative ages of major geologic formations.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Evaluate evidence of the past and current movements of continental and oceanic crust and the theory of plate tectonics to explain the ages of crustal rocks. (HS-ESS1-5) *(Clarification Statement: Emphasis is on the ability of plate tectonics to explain the ages of crustal rocks. Examples include evidence of the ages oceanic crust increasing with distance from mid-ocean ridges, a result of plate spreading, and the ages of North American continental crust decreasing with distance away from a central ancient core of the continental plate, a result of past plate interactions.)*
 2. Apply scientific reasoning and evidence from ancient Earth materials, meteorites, and other planetary surfaces to construct an account of Earth's formation and early history. (HS-ESS1-6) *(Clarification Statement: Emphasis is on using available evidence within the solar system to reconstruct the early history of Earth, which formed along with the rest of the solar system 4.6 billion years ago. Examples of evidence include the absolute ages of ancient materials [obtained by radiometric dating of meteorites, moon rocks, and Earth’s oldest minerals], the sizes and compositions of solar system objects, and the impact cratering record of planetary surfaces.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -869,11 +869,11 @@
 
 ### Grade Level Expectation SC.HS.3.4: Earth’s systems, being dynamic and interacting, cause feedback effects that can increase or decrease the original changes, and these effects occur on different time scales, from sudden (e.g., volcanic ash clouds) to intermediate (ice ages) to very long-term tectonic cycles.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -882,7 +882,7 @@
 3. Develop a model based on evidence of Earth’s interior to describe the cycling of matter by thermal convection. (HS-ESS2-3) *(Clarification Statement: Emphasis is on both a one-dimensional model of Earth, with radial layers determined by density, and a three-dimensional model, which is controlled by mantle convection and the resulting plate tectonics. Examples of evidence include maps of Earth’s three-dimensional structure obtained from seismic waves, records of the rate of change of Earth’s magnetic field [as constraints on convection in the outer core], and identification of the composition of Earth’s layers from high-pressure laboratory experiments.)*
 4. Use a model to describe how variations in the flow of energy into and out of Earth’s systems result in changes in climate. (HS-ESS2-4) *(Clarification Statement: Examples of the causes of climate change differ by timescale, over 1-10 years: large volcanic eruption, ocean circulation; 10-100s of years: changes in human activity, ocean circulation, solar output; 10-100s of thousands of years: changes to Earth's orbit and the orientation of its axis; and 10-100s of millions of years: long-term changes in atmospheric composition.) (Boundary Statement: Results of changes in climate is limited to changes in surface temperatures, precipitation patterns, glacial ice volumes, sea levels, and biosphere distribution.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -903,18 +903,18 @@
 
 ### Grade Level Expectation SC.HS.3.5: Plate tectonics can be viewed as the surface expression of mantle convection, which is driven by heat from radioactive decay within Earth’s crust and mantle.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop a model to illustrate how Earth’s internal and surface processes operate at different spatial and temporal scales to form continental and ocean-floor features. (HS-ESS2-1) *(Clarification Statement: Emphasis is on how the appearance of land features [such as mountains, valleys, and plateaus] and sea-floor features [such as trenches, ridges, and seamounts] are a result of both constructive forces [such as volcanism, tectonic uplift, and orogeny] and destructive mechanisms [such as weathering, mass wasting, and coastal erosion].) (Boundary Statement: Does not include memorization of the details of the formation of specific geographic features of Earth’s surface.)*
 2. Develop a model based on evidence of Earth’s interior to describe the cycling of matter by thermal convection. (HS-ESS2-3) *(Clarification Statement: Emphasis is on both a one-dimensional model of Earth, with radial layers determined by density, and a three-dimensional model, which is controlled by mantle convection and the resulting plate tectonics. Examples of evidence include maps of Earth’s three-dimensional structure obtained from seismic waves, records of the rate of change of Earth’s magnetic field (as constraints on convection in the outer core), and identification of the composition of Earth’s layers from high-pressure laboratory experiments.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -934,17 +934,17 @@
 
 ### Grade Level Expectation SC.HS.3.6: The planet’s dynamics are greatly influenced by water’s unique chemical and physical properties.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Plan and conduct an investigation of the properties of water and its effects on Earth materials and surface processes. (HS-ESS2-5) *(Clarification Statement: Emphasis is on mechanical and chemical investigations with water and a variety of solid materials to provide the evidence for connections between the hydrologic cycle and system interactions commonly known as the rock cycle. Examples of mechanical investigations include stream transportation and deposition using a stream table, erosion using variations in soil moisture content, or frost wedging by the expansion of water as it freezes. Examples of chemical investigations include chemical weathering and recrystallization [by testing the solubility of different materials] or melt generation (by examining how water lowers the melting temperature of most solids.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -961,11 +961,11 @@
 
 ### Grade Level Expectation SC.HS.3.7: The role of radiation from the sun and its interactions with the atmosphere, ocean, and land are the foundation for the global climate system. Global climate models are used to predict future changes, including changes influenced by human behavior and natural factors.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -974,7 +974,7 @@
 3. Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere. (HS-ESS2-6) *(Clarification Statement: Emphasis is on modeling biogeochemical cycles that include the cycling of carbon through the ocean, atmosphere, soil, and biosphere [including humans], providing the foundation for living organisms.)*
 4. Construct an argument based on evidence about the simultaneous co-evolution of Earth’s systems and life on Earth. (HS-ESS2-7) *(Clarification Statement: Emphasis is on the dynamic causes, effects, and feedbacks between the biosphere and Earth’s other systems, whereby geoscience factors control the evolution of life, which in turn continuously alters Earth’s surface. Examples include how photosynthetic life altered the atmosphere through the production of oxygen, which in turn increased weathering rates and allowed for the evolution of animal life; how microbial life on land increased the formation of soil, which in turn allowed for the evolution of land plants; or how the evolution of corals created reefs that altered patterns of erosion and deposition along coastlines and provided habitats for the evolution of new life forms.) (Boundary Statement: Does not include a comprehensive understanding of the mechanisms of how the biosphere interacts with all of Earth’s other systems.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -996,17 +996,17 @@
 
 ### Grade Level Expectation SC.HS.3.8: The biosphere and Earth’s other systems have many interconnections that cause a continual co-evolution of Earth’s surface and life on it.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an argument based on evidence about the simultaneous co-evolution of Earth’s systems and life on Earth. (HS-ESS2-7) *(Clarification Statement: Emphasis is on the dynamic causes, effects, and feedbacks between the biosphere and Earth’s other systems, whereby geoscience factors control the evolution of life, which in turn continuously alters Earth’s surface. Examples include how photosynthetic life altered the atmosphere through the production of oxygen, which in turn increased weathering rates and allowed for the evolution of animal life; how microbial life on land increased the formation of soil, which in turn allowed for the evolution of land plants; or how the evolution of corals created reefs that altered patterns of erosion and deposition along coastlines and provided habitats for the evolution of new life forms.) (Boundary Statement: Does not include a comprehensive understanding of the mechanisms of how the biosphere interacts with all of Earth’s other systems.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -1023,18 +1023,18 @@
 
 ### Grade Level Expectation SC.HS.3.9: Resource availability has guided the development of human society and use of natural resources has associated costs, risks, and benefits.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity. (HS-ESS3-1) *(Clarification Statement: Examples of key natural resources include access to fresh water [such as rivers, lakes, and groundwater], regions of fertile soils such as river deltas, and high concentrations of minerals and fossil fuels. Examples of natural hazards can be from interior processes [such as volcanic eruptions and earthquakes], surface processes [such as tsunamis, mass wasting, and soil erosion], and severe weather [such as hurricanes, floods, and droughts]. Examples of the results of changes in climate that can affect populations or drive mass migrations include changes to sea level, regional patterns of temperature and precipitation, and the types of crops and livestock that can be raised.)*
 2. Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios. (HS-ESS3-2) *(Clarification Statement: Emphasis is on the conservation, recycling, and reuse of resources [such as minerals and metals] where possible, and on minimizing impacts where it is not. Examples include developing best practices for agricultural soil use, mining [for coal, tar sands, and oil shales] and pumping [for petroleum and natural gas]. Science knowledge indicates what can happen in natural systems — not what should happen.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -1053,17 +1053,17 @@
 
 ### Grade Level Expectation SC.HS.3.10: Natural hazards and other geological events have shaped the course of human history at local, regional, and global scales.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity. (HS-ESS3-1) *(Clarification Statement: Examples of key natural resources include access to fresh water [such as rivers, lakes, and groundwater], regions of fertile soils such as river deltas, and high concentrations of minerals and fossil fuels. Examples of natural hazards can be from interior processes [such as volcanic eruptions and earthquakes], surface processes [such as tsunamis, mass wasting, and soil erosion], and severe weather [such as hurricanes, floods, and droughts]. Examples of the results of changes in climate that can affect populations or drive mass migrations include changes to sea level, regional patterns of temperature and precipitation, and the types of crops and livestock that can be raised.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -1080,18 +1080,18 @@
 
 ### Grade Level Expectation SC.HS.3.11: Sustainability of human societies and the biodiversity that supports them requires responsible management of natural resources, including the development of technologies.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Create a computational simulation to illustrate the relationships among the management of natural resources, the sustainability of human populations, and biodiversity. (HS-ESS3-3) *(Clarification Statement: Examples of factors that affect the management of natural resources include costs of resource extraction and waste management, per-capita consumption, and the development of new technologies. Examples of factors that affect human sustainability include agricultural efficiency, levels of conservation, and urban planning.) (Boundary Statement: Computational simulation is limited to using provided multi-parameter programs or constructing simplified spreadsheet calculations.)*
-2. Evaluate or refine a technological solution that reduces energy production and defend the solution or purpose an alternative with evidence that considers the impact on natural systems, the economic and societal cost, global human rights issues, waste management, and long-term effects. (HS-ESS3-4) *(Clarification Statement: Examples of data on the impacts of human activities could include measurements of greenhouse gas emissions from fossil fuel combustion, industrial processes, manufacturing and mining of materials used in renewable energy, and other pollution sources; changes to atmospheric composition; impacts on biodiversity; and changes in land use patterns that affect carbon sinks. Examples of technological solutions could range from local efforts [such as adopting renewable energy or sustainable public transit] to large scale engineering approaches [such as reducing industrial emissions or utilizing geothermal energy or carbon capture and storage].)*
+2. Evaluate or refine a technological solution that reduces impacts of human activities on natural systems. (HS-ESS3-4) *(Clarification Statement: Examples of data on the impacts of human activities could include the quantities and types of pollutants released, changes to biomass and species diversity, or areal changes in land surface use [such as for urban development, agriculture, and livestock, or surface mining]. Examples for limiting future impacts could range from local efforts [such as reducing, reusing, and recycling resources] to large-scale geoengineering design solutions [such as altering global temperatures by making large changes to the atmosphere or ocean].)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -1110,18 +1110,18 @@
 
 ### Grade Level Expectation SC.HS.3.12: Global climate models used to predict future climate change continue to improve our understanding of the impact of human activities on the global climate system.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Analyze geoscience data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate change and associated future impacts to Earth's systems. (HS-ESS3-5) *(Clarification Statement: Examples of evidence, for both data and climate model outputs, are for climate changes [such as precipitation and temperature] and their associated impacts [such as on sea level, glacial ice volumes, or atmosphere and ocean composition].) (Boundary Statement: Limited to one example of a climate change and its associated impacts.)*
-2. Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due anthropogenic climate change. (HS-ESS3-6) *(Clarification Statement: Examples of Earth systems to be considered are the hydrosphere, atmosphere, cryosphere, geosphere, and/or biosphere. An example of the far-reaching impacts from a human activity is how an increase in atmospheric carbon dioxide from the burning of fossil fuels results in an increase in photosynthetic biomass on land and an increase in ocean acidification, with resulting impacts on sea organism health and marine populations.) (Boundary Statement: Does not include running computational representations but is limited to using the published results of scientific computational models.)*
+2. Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity. (HS-ESS3-6) *(Clarification Statement: Examples of Earth systems to be considered are the hydrosphere, atmosphere, cryosphere, geosphere, and/or biosphere. An example of the far-reaching impacts from a human activity is how an increase in atmospheric carbon dioxide results in an increase in photosynthetic biomass on land and an increase in ocean acidification, with resulting impacts on sea organism health and marine populations.) (Boundary Statement: Does not include running computational representations but is limited to using the published results of scientific computational models.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 

@@ -1,14 +1,14 @@
-# Second Grade
+# Second Grade | Science
 
 ## Standard 1. Physical Science
 
 ### Grade Level Expectation SC.2.1.1: Matter exists as different substances that have observable different properties.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding structure, properties and interactions of matter.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 3. Make observations to construct an evidence-based account of how an object made of a small set of pieces can be disassembled and made into a new object. (2-PS1-3) *(Clarification Statement: Examples of pieces could include blocks, building bricks or other assorted small objects.)*
 4. Construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot. (2-PS1-4) *(Clarification Statement: Examples of reversible changes could include materials such as water and butter at different temperatures. Examples of irreversible changes could include cooking an egg, freezing a plant leaf and heating paper.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -44,18 +44,18 @@
 
 ### Grade Level Expectation SC.2.2.1: Plants depend on water and light to grow and on animals for pollination or to move their seeds around.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Plan and conduct an investigation to determine if plants need sunlight and water to grow. (2-LS2-1) *(Boundary Statement: Limited to using one variable at a time.)*
 2. Develop a simple model that mimics the function of an animal in dispersing seeds or pollinating plants. (2-LS2-2)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -75,17 +75,17 @@
 
 ### Grade Level Expectation SC.2.2.2: A range of different organisms lives in different places.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how natural selection drives biological evolution accounting for the unity and diversity of organisms.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Make observations of plants and animals to compare the diversity of life in different habitats. (2-LS4-1) *(Clarification Statement: Emphasis is on the diversity of living things in each of a variety of different habitats.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -101,17 +101,17 @@
 
 ### Grade Level Expectation SC.2.3.1: Some events on Earth occur quickly; others can occur very slowly.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding the universe and Earth's place in it.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use information from several sources to provide evidence that Earth events can occur quickly or slowly. (2-ESS1-1) *(Clarification Statement: Examples of events and timescales could include volcanic explosions and earthquakes, which happen quickly, and erosion of rocks, which occurs slowly.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -128,11 +128,11 @@
 
 ### Grade Level Expectation SC.2.3.2: Wind and water can change the shape of the land; models can show the shape and these changes to the land.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -140,7 +140,7 @@
 2. Develop a model to represent the shapes and kinds of land and bodies of water in an area. (2-ESS2-2) *(Boundary Statement: Does not include quantitative scaling in models.)*
 3. Obtain information to identify where water is found on Earth and that it can be solid or liquid. (ESS2-3)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 

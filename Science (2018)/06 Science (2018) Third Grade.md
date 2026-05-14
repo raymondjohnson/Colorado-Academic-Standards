@@ -1,21 +1,21 @@
-# Third Grade
+# Third Grade | Science
 
 ## Standard 1. Physical Science
 
 ### Grade Level Expectation SC.3.1.1:  Patterns of motion can be used to predict future motion.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding interactions between objects and within systems of objects.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object. (3-PS2-1) *(Clarification Statement: Examples could include an unbalanced force on one side of a ball can make it start moving and balanced forces pushing on a box from both sides will not produce any motion at all.) (Boundary Statements: Limited to one variable at a time: number, size or direction of forces and to gravity being addressed as a force that pulls objects down. Does not include quantitative force size, only qualitative and relative.)*
 2. Make observations and/or measurements of an object’s motion to provide evidence that a pattern can be used to predict future motion. (3-PS2-2) *(Clarification Statement: Examples of motion with a predictable pattern could include a child swinging in a swing, a ball rolling back and forth in a bowl and two children on a see-saw.) (Boundary Statement: Does not include technical terms such as period and frequency.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -37,11 +37,11 @@
 
 ### Grade Level Expectation SC.3.1.2: Objects in contact exert forces on each other; electric and magnetic forces between a pair of objects do not require contact.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -49,7 +49,7 @@
 2. Define a simple design problem that can be solved by applying scientific ideas about magnets. (3-PS2-4)
 *(Clarification Statement: Examples of problems could include constructing a latch to keep a door shut and creating a device to keep two moving objects from touching each other.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -71,17 +71,17 @@
 
 ### Grade Level Expectation SC.3.2.1: Organisms have unique and diverse life cycles.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop models to describe that organisms have unique and diverse life cycles but all have in common birth, growth, reproduction and death. (3-LS1-1) *(Clarification Statement: Changes organisms go through during their life form a pattern.) (Boundary Statement: Limited to those of flowering plants and does not include details of human reproduction.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -98,17 +98,17 @@
 
 ### Grade Level Expectation SC.3.2.2: Being part of a group helps animals obtain food, defend themselves and cope with changes.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how living systems interact with the biotic and abiotic environment.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an argument that some animals form groups that help members survive. (3-LS2-1)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -125,18 +125,18 @@
 
 ### Grade Level Expectation SC.3.2.3: Different organisms vary in how they look and function because they have different inherited information; the environment also affects the traits that an organism develops.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how genetic and environmental factors influence variation of organisms across generations.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Analyze and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms. (3-LS3-1) *(Clarification Statement: Patterns are the similarities and differences in traits shared between offspring and their parents, or among siblings. Emphasis is on organisms other than humans.) (Boundary Statement: Does not include genetic mechanisms of inheritance and prediction of traits. Assessment is limited to non-human examples.)*
 2. Use evidence to support the explanation that traits can be influenced by the environment. (3-LS3-2) *(Clarification Statement: Examples of the environment affecting a trait could that include normally tall plants grown with insufficient water are stunted; and a pet dog that is given too much food and little exercise may become overweight.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -157,18 +157,18 @@
 
 ### Grade Level Expectation SC.3.2.4: Some living organisms resemble organisms that once lived on Earth .
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how genetic and environmental factors influence variation of organisms across generations.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Analyze and interpret data from fossils to provide evidence of the organisms and the environments in which they lived long ago. (3-LS4-1) *(Clarification Statement: Examples of data could include type, size, and distributions of fossil organisms. Examples of fossils and environments could include marine fossils found on dry land, tropical plant fossils found in Arctic areas and fossils of extinct organisms.) (Boundary Statement: Does not include identification of specific fossils or present plants and animals and is limited to major fossil types and relative ages.)*
 2. Use evidence to construct an explanation for how the variations in characteristics among individuals of the same species may provide advantages in surviving, finding mates and reproducing. (3-LS4-2) *(Clarification Statement: Examples of cause - and - effect relationships could be that plants that have larger thorns than other plants may be less likely to be eaten by predators; and animals that have better camouflage coloration than other animals may be more likely to survive and therefore more likely to leave offspring.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -190,18 +190,18 @@
 
 ### Grade Level Expectation SC.3.2.5: Sometimes differences in characteristics between individuals of the same species provide advantages in survival and reproduction.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how natural selection drives biological evolution accounting for the unity and diversity of organisms.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Construct an argument with evidence that in a particular habitat some organisms can survive well, some survive less well and some cannot survive at all. (3-LS4-3) *(Clarification Statement: Examples of evidence could include needs and characteristics of the organisms and habitats involved. The organisms and their habitat make up a system in which the parts depend on each other.)*
 2. Make a claim about the merit of a solution to a problem caused when the environment changes and the types of plants and animals that live there may change. (3-LS4-4) *(Clarification Statement: Examples of environmental changes could include changes in land characteristics, water distribution, temperature, food and other organisms.) (Boundary Statement: Limited to a single environmental change. Assessment does not include the greenhouse effect or climate change.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -226,18 +226,18 @@
 
 ### Grade Level Expectation SC.3.3.1: Climate describes patterns of typical weather conditions over different scales and variations; historical weather patterns can be analyzed.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Represent data in tables and graphical displays to describe typical weather conditions expected during a particular season. (3-ESS2-1) *(Clarification Statement: Examples of data could include Colorado's average temperature, precipitation, and wind direction. Obtain and combine information to describe climates in different regions of the world.) (Boundary Statement: Graphical displays are limited to pictographs and bar graphs. Does not include climate change.)*
 2. Obtain and combine information to describe climates in different regions of the world. (3-ESS2-2)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -255,17 +255,17 @@
 
 ### Grade Level Expectation SC.3.3.2: A variety of weather hazards result from natural process; humans cannot eliminate weather-related hazards but can reduce their impacts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Make a claim about the merit of a design solution that reduces the impacts of a weather-related hazard. (3-ESS3-1) *(Clarification Statement: Examples of design solutions to weather-related hazards could include barriers to prevent flooding, wind resistant roofs and lightning rods.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 

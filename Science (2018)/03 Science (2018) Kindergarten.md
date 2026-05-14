@@ -1,21 +1,21 @@
-# Kindergarten
+# Kindergarten | Science
 
 ## Standard 1. Physical Science
 
 ### Grade Level Expectation SC.K.1.1: Pushes and pulls can have different strengths and directions, and can change the speed or direction of an object's motion or start or stop it.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding interactions between objects and within systems of objects.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Plan and conduct an investigation to compare the effects of different strengths or different directions of pushes and pulls on the motion of an object. (K-PS2-1) *(Clarification Statement: Examples of pushes or pulls could include a string attached to an object being pulled, a person pushing an object, a person stopping a rolling ball and two objects colliding and pushing on each other.) (Boundary: Limited to different relative strengths or different directions, but not both at the same time. Does not include non-contact pushes or pulls such as those produced by magnets.)*
 2. Analyze data to determine if a design solution works as intended to change the speed or direction of an object with a push or a pull. (K-PS2-2) *(Clarification Statement: Examples of problems requiring a solution could include having a marble or other object move a certain distance, follow a particular path and knock down other objects. Examples of solutions could include tools such as a ramp to increase the speed of the object and a structure that would cause an object such as a marble or ball to turn.) (Boundary: Does not include friction as a mechanism for change in speed.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -36,18 +36,18 @@
 
 ### Grade Level Expectation SC.K.1.2: Sunlight affects the Earth’s surface.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how energy is transferred and conserved.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Make observations to determine the effect of sunlight on Earth’s surface. (K-PS3-1) *(Clarification Statement: Examples of Earth’s surface could include sand, soil, rocks and water) (Boundary: Temperature is limited to relative measures such as warmer/cooler.)*
 2. Use tools and materials to design and build a structure that will reduce the warming effect of sunlight on an area. (K-PS3- 2) *(Clarification Statement: Examples of structures could include umbrellas, canopies and tents that minimize the warming effect of the sun.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -68,17 +68,17 @@
 
 ### Grade Level Expectation SC.K.2.1: To live and grow, animals obtain food they need from plants or other animals, and plants need water and light.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how individual organisms are configured and how these structures function to support life, growth, behavior and reproduction.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use observations to describe patterns of what plants and animals (including humans) need to survive. (K-LS1-1) *(Clarification Statement: Examples of patterns could include that animals need to take in food but plants do not; the different kinds of food needed by different types of animals; the requirement of plants to have light; and that all living things need water.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -98,18 +98,18 @@
 
 ### Grade Level Expectation SC.K.3.1: Patterns are observed when measuring the local weather, including how humans and other organisms impact their environment.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Students can use the full range of science and engineering practices to make sense of natural phenomena and solve problems that require understanding how and why Earth is constantly changing.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use and share observations of local weather conditions to describe patterns over time. (K-ESS2-1) *(Clarification Statement: Examples of qualitative observations could include descriptions of the weather [such as sunny, cloudy, rainy, and warm]; examples of quantitative observations could include numbers of sunny, windy, and rainy days in a month. Examples of patterns could include that it is usually cooler in the morning than in the afternoon and the number of sunny days versus cloudy days in different months.) (Boundary: Quantitative observations limited to whole numbers and relative measures such as warmer/cooler.)*
 2. Construct an argument supported by evidence for how plants and animals (including humans) can change the environment to meet their needs. (K-ESS2-2) *(Clarification Statement: Examples of plants and animals changing their environment could include a squirrel digs in the ground to hide its food and tree roots can break concrete.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
@@ -131,11 +131,11 @@
 
 ### Grade Level Expectation SC.K.3.2: Plants and animals meet their needs in their habitats and impact one another; people can prepare for severe weather.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Students can use the full range of science  and engineering practices to make sense of natural phenomena and solve problems that require understanding how human activities and the Earth's surface processes interact.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -143,7 +143,7 @@
 2. Ask questions to obtain information about the purpose of weather forecasting to prepare for, and respond to, severe weather. (K-ESS3-2) *(Clarification Statement: Emphasis is on local forms of severe weather.)*
 3. Communicate solutions that will reduce the impact of humans on the land, water, air and/or other living things in the local environment. (K-ESS3-3) *(Clarification Statement: Examples of human impact on the land could include cutting trees to produce paper and using resources to produce bottles. Examples of solutions could include reusing paper and recycling cans and bottles.)*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Science and Engineering Practices:
 
