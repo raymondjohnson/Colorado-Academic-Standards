@@ -1,14 +1,14 @@
-# Kindergarten
+# Kindergarten | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.K.1.1: Demonstrate body and spatial awareness through movement.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -20,7 +20,7 @@
 6. Participate in chase-and-flee activities that include various spatial relationships.
 7. Jump over a stationary rope several times in succession using forward-and-back and side-to-side movement patterns.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -44,11 +44,11 @@
 
 ### Grade Level Expectation PE.K.1.2: Locate and move the major parts of the body.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -56,7 +56,7 @@
 2. Identify body planes such as front, back, and side.
 3. Create shapes at high, medium, and low levels by using hands, arms, torso, feet, and legs in a variety of combinations.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -81,11 +81,11 @@
 
 ### Grade Level Expectation PE.K.2.1: Understand that physical activity increases the heart rate, making the heart stronger.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -93,7 +93,7 @@
 2. Sustain physical activity for short periods of time.
 3. Identify activities that will increase the heart rate.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -113,11 +113,11 @@
 
 ### Grade Level Expectation PE.K.3.1: Demonstrate respect for self, others, and equipment.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -127,7 +127,7 @@
 4. Help to manage equipment.
 5. Play without interfering with others.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -150,11 +150,11 @@
 
 ### Grade Level Expectation PE.K.3.2: Demonstrate the ability to follow directions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -163,7 +163,7 @@
 3. Speak at appropriate times.
 4. Follow established class protocols.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -183,11 +183,11 @@
 
 ### Grade Level Expectation PE.K.4.1: Apply safe practices, rules, and procedures.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -195,7 +195,7 @@
 2. Participate in activity without colliding into other students, objects, and surroundings.
 3. Identify proper footwear for physical education.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

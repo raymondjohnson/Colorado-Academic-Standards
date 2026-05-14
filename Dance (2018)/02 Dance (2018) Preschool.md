@@ -1,14 +1,14 @@
-# Preschool
+# Preschool | Dance
 
 ## Standard 1. Movement
 
 ### Preschool Learning and Development Expectation DA.P.1.1: Demonstrate simple phrases of movement safely in time and space.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -17,7 +17,7 @@
 3. Explore movement to encourage (kinesthetic) body awareness.
 4. Explore simple phrases of movement to experience rhythm, clapping and moving to music in relationship to others.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -40,11 +40,11 @@
 
 ### Preschool Learning and Development Expectation DA.P.2.1: Explore simple ideas and stories through movement.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Apply elements of dance in movement improvisation.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -53,7 +53,7 @@
 3. Explore movement while moving with objects (scarves, feathers, balls).
 4. Transfer same movements to different body parts and use repetition.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -76,11 +76,11 @@
 
 ### Preschool Learning and Development Expectation DA.P.3.1: Begin to recognize dances in relation to cultures represented by the people in their daily surroundings.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed in terms of the culture or era in which it is experienced.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -88,7 +88,7 @@
 2. Explore occasions for dance across different cultures.
 3. Explore shapes, levels and patterns in a dance, and describe the actions.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -107,11 +107,11 @@
 
 ### Preschool Learning and Development Expectation DA.P.4.1: Observe and identify different dance genres.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, reflect upon, and understand new works, reconstructions and masterworks using the Language of Movement.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -119,7 +119,7 @@
 2. Demonstrate movement to express emotion.
 3. Express what is seen and felt in a movement with different tempos, rhythms and genres.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -136,11 +136,11 @@
 
 ### Preschool Learning and Development Expectation DA.P.4.2: Attentively observe a dance performance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, reflect upon, and understand new works, reconstructions and masterworks using the Language of Movement.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -148,7 +148,7 @@
 2. Describe the dance in your own words.
 3. Show your favorite dance move to the performers or each other.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 

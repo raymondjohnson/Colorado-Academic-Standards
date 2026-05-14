@@ -1,14 +1,14 @@
-# Seventh Grade
+# Seventh Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.7.2.1: Analyze factors that influence healthy eating behaviors.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 3. Analyze the influence that adults and role models have on one's food choices.
 4. Analyze internal influences on one's food choices.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -39,11 +39,11 @@
 
 ### Grade Level Expectation CH.7.2.2: Compare and contrast healthy and unhealthy family and peer relationships.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -51,7 +51,7 @@
 2. Explain the purpose of friendship and describe how friends can support one another in making healthy decisions.
 3. Demonstrate effective strategies for dealing with difficult relationships with family members, peers, and boyfriends or girlfriends.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -74,11 +74,11 @@
 
 ### Grade Level Expectation CH.7.2.3: Analyze the internal and external factors that influence sexual decision-making and activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -88,7 +88,7 @@
 4. Analyze the discrepancies between perceived and actual sexual activity and how the information influences your sexual decision-making.
 5. Develop strategies that advocate for healthy sexual boundaries and decision- making.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -109,11 +109,11 @@
 
 ### Grade Level Expectation CH.7.2.4: Define sexually transmitted diseases (STDs), including human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -122,7 +122,7 @@
 3. Define common STDs.
 4. Explain how certain behaviors put a person in higher risk of contracting STD’s.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -143,11 +143,11 @@
 
 ### Grade Level Expectation CH.7.3.1: Demonstrate effective communication skills to express thoughts and feelings appropriately.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -158,7 +158,7 @@
 5. Advocate for self and others to increase the safety of school community.
 6. Identify a variety of verbal and nonverbal communication styles and how to respond effectively.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -183,11 +183,11 @@
 
 ### Grade Level Expectation CH.7.3.2: Develop healthy self-management skills to prevent and manage stress.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -198,7 +198,7 @@
 5. Develop healthy strategies to deal with stressors.
 6. Practice strategies such as physical activity, relaxation techniques, journaling, and talking with someone to prevent, manage, and/or reduce stress.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -222,11 +222,11 @@
 
 ### Grade Level Expectation CH.7.4.1: Analyze the consequences of using marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -236,7 +236,7 @@
 4. Explain how drugs alter the body and the brain (marijuana, illegal drugs, prescription drugs, alcohol, and tobacco).
 5. Analyze the effects of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco on a person’s ability to make decisions.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -259,11 +259,11 @@
 
 ### Grade Level Expectation CH.7.4.2: Demonstrate self-management skills to reduce physical and emotional violence and actively participate in violence prevention.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -276,7 +276,7 @@
 7. Describe the dangers of and actions to be taken if weapons are seen or suspected in schools.
 8. Demonstrate appropriate communication skills to solve conflicts nonviolently.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -300,11 +300,11 @@
 
 ### Grade Level Expectation CH.7.4.3: Demonstrate safety procedures for a variety of situations.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -313,7 +313,7 @@
 3. Describe actions to take during severe weather or trauma-related emergencies.
 4. Analyze the role of peers, family, and media in causing or preventing injuries.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

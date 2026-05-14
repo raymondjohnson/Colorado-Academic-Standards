@@ -1,14 +1,14 @@
-# Fifth Grade
+# Fifth Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.5.2.1: Demonstrate the ability to make good decisions about healthy eating behaviors.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 3. Use current federal nutrition standards and guidelines to plan healthy meals and snacks.
 4. Demonstrate how to politely advocate for foods that are more nutritious.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -41,11 +41,11 @@
 
 ### Grade Level Expectation CH.5.2.2: Explain the structure, function and major parts of the human reproductive system.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -53,7 +53,7 @@
 2. Describe the purpose of the menstrual cycle and its relationship to fertilization.
 3. Explain that after fertilization, cells divide to create an embryo and then a fetus that grows and develops inside the uterus during pregnancy.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -72,11 +72,11 @@
 
 ### Grade Level Expectation CH.5.2.3: Describe the physical, social, and emotional changes that occur at puberty.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -85,7 +85,7 @@
 3. Determine factors that influence the purchase of health care products and the use of personal hygiene practices.
 4. Discuss how changes during puberty affect thoughts, emotions, growth patterns, and behaviors.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -107,18 +107,18 @@
 
 ### Grade Level Expectation CH.5.2.4: Demonstrate interpersonal communication skills needed to discuss personal health problems to establish and maintain personal health and wellness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Access valid and reliable sources of information including parents or trusted adults to answer questions about personal health.
 2. Demonstrate effective communication strategies to talk to someone such as a parent, trusted adult, or health care provider.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -139,11 +139,11 @@
 
 ### Grade Level Expectation CH.5.2.5: Comprehend concepts and identify strategies to prevent the transmission of disease.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -154,7 +154,7 @@
 5. Explain how HIV is and is not contracted.
 6. Explain that it is safe to be a friend of someone who has a disease or conditions that cannot be easily transmitted.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -177,11 +177,11 @@
 
 ### Grade Level Expectation CH.5.3.1: Analyze internal and external factors that influence mental and emotional health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -191,7 +191,7 @@
 4. Identify ways to counteract negative influences that impact mental and emotional health.
 5. Identify when it is appropriate to seek help/support during times of strong emotions/feelings.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -214,11 +214,11 @@
 
 ### Grade Level Expectation CH.5.4.1: Demonstrate the ability to make good decisions about drug use marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -227,7 +227,7 @@
 3. Demonstrate a decision making process to make good decisions about the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 4. Describe the proper use of over-the-counter and prescription drugs.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -254,11 +254,11 @@
 
 ### Grade Level Expectation CH.5.4.2: Demonstrate pro-social behaviors that reduce the likelihood of physical fighting, violence, and bullying.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -268,7 +268,7 @@
 4. Describe how to use social media to promote positive relationships.
 5. Identify resources, including safe people, parents, or adults, who can help prevent or intervene in unsafe situations in the school and community.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -296,11 +296,11 @@
 
 ### Grade Level Expectation CH.5.4.3: Demonstrate basic first aid and safety procedures.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -309,7 +309,7 @@
 3. Describe first aid procedures for a variety of situations, including insect stings, bites, poisoning, and choking.
 4. Develop and apply a decision-making process for avoiding situations that could lead to injury.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

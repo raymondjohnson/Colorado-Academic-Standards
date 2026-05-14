@@ -1,14 +1,14 @@
-# High School
+# High School | Computer Science
 
 ## Standard 1.  Computational Thinking
 
 ### Grade Level Expectation CS.HS.1.1: Computational thinking is used to create algorithmic solutions to real-world problems.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Develop, utilize and evaluate algorithms to model and solve problems.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -20,7 +20,7 @@
 6. Recognize problems that cannot be solved computationally.
 7. Identify and describe algorithms that exist within their personal lives.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -41,11 +41,11 @@
 
 ### Grade Level Expectation CS.HS.1.2: Algorithms can be represented and used in different ways (e.g., languages, diagrams, pseudocode).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Develop, utilize and evaluate algorithms to model and solve problems.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -55,7 +55,7 @@
 4. Adapt algorithms used in one problem to solve a related or different problem.
 5. Use multiple methods to represent an algorithm (e.g., diagram, programming language, unplugged).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -75,11 +75,11 @@
 
 ### Grade Level Expectation CS.HS.1.3: Algorithm development and use is an ongoing process that involves adapting, critiquing and troubleshooting programs and/or processes.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Develop, utilize and evaluate algorithms to model and solve problems.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -87,7 +87,7 @@
 2. Use an iterative approach to developing an algorithm.
 3. Test and troubleshoot so that algorithms produce reasonable results.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -108,18 +108,18 @@
 
 ### Grade Level Expectation CS.HS.1.4:  Large, complex problems can be broken down into smaller, more manageable components.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2.  Systematically analyze a problem using decomposition and abstraction to formulate a solution.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Demonstrate how the process of decomposition is iterative and used to solve problems.
 2. Formulate possible solutions based on the decomposition of a problem.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -137,11 +137,11 @@
 
 ### Grade Level Expectation CS.HS.1.5:  Abstraction is used to reduce complexity of larger problems by focusing on main ideas.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2.  Systematically analyze a problem using decomposition and abstraction to formulate a solution.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -149,7 +149,7 @@
 2. Identify and prioritize the most relevant parts of a problem while filtering out extraneous details.
 3. Demonstrate different ways to represent key problem components.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -170,11 +170,11 @@
 
 ### Grade Level Expectation CS.HS.1.6:  Data can be represented in different ways for storage and exchange.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3.  Represent and analyze data in order to generate new knowledge and capability.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -183,7 +183,7 @@
 3. Evaluate the trade-offs for how data elements are organized and where data are stored (e.g., PNG/GIF, structured/unstructured).
 4. Compare and contrast various data structures/techniques for storing and processing data (e.g., arrays, lists, tables).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -204,11 +204,11 @@
 
 ### Grade Level Expectation CS.HS.1.7:  Many problems appropriate for solving with a computer are organized around patterns.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3.  Represent and analyze data in order to generate new knowledge and capability.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -216,7 +216,7 @@
 2. Provide multiple versions of data visualization in order to deepen problem analysis.
 3. Interpret and analyze data to make informed decisions.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -236,11 +236,11 @@
 
 ### Grade Level Expectation CS.HS.1.8:  Data from a computer program can be visually presented to better understand and articulate solutions to a problem.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3.  Represent and analyze data in order to generate new knowledge and capability.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -248,7 +248,7 @@
 2. Design visualizations using the appropriate tool(s) with the end user in mind.
 3. Provide multiple versions of data visualization in order to deepen problem analysis.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -271,11 +271,11 @@
 
 ### Grade Level Expectation CS.HS.2.1:  Communication between computers (and over the internet) can be configured in many different ways and consist of several hardware and software components.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Use systems thinking to describe networks and common software and hardware components.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -283,7 +283,7 @@
 2. Illustrate and describe the basic components and various network types and topologies (e.g., personal, local, metropolitan and wide).
 3. Explain the difference between decimal, hexadecimal, octal and binary number formats and how they are used in computing environments.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -301,11 +301,11 @@
 
 ### Grade Level Expectation CS.HS.2.2:  Computer hardware, the lowest level of a computer system, consists of many different parts, each providing a specialized function.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Use systems thinking to describe networks and common software and hardware components.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -314,7 +314,7 @@
 3. Explain how to maintain safety when working on PCs (e.g., electromagnetic precautions).
 4. Describe how computing devices are engineered for fault tolerance and reliability, and identify potential sources of weakness (e.g., redundant power supplies, RAID, SAN/NAS connections).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -333,11 +333,11 @@
 
 ### Grade Level Expectation CS.HS.2.3:  Computer software is written for specific purposes.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Use systems thinking to describe networks and common software and hardware components.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -345,7 +345,7 @@
 2. Explain what an operating system is, and why it is important for a computer or computing device (e.g., Linux, Windows, iOS).
 3. Describe how software interacts with hardware to complete tasks.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -364,18 +364,18 @@
 
 ### Grade Level Expectation CS.HS.2.4:  Systems thinking is a way of holistically examining the various components and use cases that go into a given design.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Use systems thinking to describe networks and common software and hardware components.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Explain the integration of hardware, software and network communications components to create a networked system.
 2. Summarize security approaches using a systems approach perspective.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -396,11 +396,11 @@
 
 ### Grade Level Expectation CS.HS.2.5:  Client considerations drive system design.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5.  Develop systems solutions from a set of specifications to complete a design process.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -409,7 +409,7 @@
 3. Illustrate options for considerations and develop conceptual model.
 4. Perform system analysis based on client considerations.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -431,11 +431,11 @@
 
 ### Grade Level Expectation CS.HS.2.6:  Robust computing systems require multiple methods of recovery.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6.  Recognize and analyze security concepts.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -445,7 +445,7 @@
 4. List the various backup methodologies (e.g., full, differential) and why one would pick one over the other, or use all.
 5. Explain the ways an organization would continue to operate in light of a systems failure.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -466,11 +466,11 @@
 
 ### Grade Level Expectation CS.HS.2.7:  Robust computing systems require data protection.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6.  Recognize and analyze security concepts.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -479,7 +479,7 @@
 3. Describe and compare methods to test/validate how well systems and data are protected.
 4. Investigate different career pathways relating to systems security.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -502,11 +502,11 @@
 
 ### Grade Level Expectation CS.HS.3.1:  The creation of a computer program requires a design process.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7.  Design and create programs, individually and collaboratively, for a variety of disciplines.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -515,7 +515,7 @@
 3. Determine and use graphical or text-based languages.
 4. Understand and apply core programming concepts.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -537,11 +537,11 @@
 
 ### Grade Level Expectation CS.HS.3.2: The process of programming involves solving computational problems.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7.  Design and create programs, individually and collaboratively, for a variety of disciplines.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -550,7 +550,7 @@
 3. Use various troubleshooting and debugging techniques to improve code.
 4. Create appropriate variables to store and retrieve data.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -571,11 +571,11 @@
 
 ### Grade Level Expectation CS.HS.3.3: Collaborative tools, methods and strategies can be used to design, develop and update computational artifacts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7.  Design and create programs, individually and collaboratively, for a variety of disciplines.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -584,7 +584,7 @@
 3. Identify strategies such as peer reviews to test and refine artifacts in development.
 4. Determine when to use standard software tools like APIs, libraries, version control repositories, etc.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -606,11 +606,11 @@
 
 ### Grade Level Expectation CS.HS.3.4: Client-based design requirements and feedback are essential to a quality computational product or service.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7.  Design and create programs, individually and collaboratively, for a variety of disciplines.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -621,7 +621,7 @@
 5. Create and share product support documentation for potential users.
 6. Articulate lessons learned as a result of the design and creation process.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -644,11 +644,11 @@
 
 ### Grade Level Expectation CS.HS.3.5: Computing solutions can have impacts (personal, ethical, social, economic and cultural) based on their use.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8.  Create computational artifacts that consider security from tampering, malicious or otherwise.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -659,7 +659,7 @@
 5. Discuss and explain how diversity of design and issues of accessibility impact a wide-range of users.
 6. Demonstrate ways to improve the accessibility of computational technologies and artifacts.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -679,11 +679,11 @@
 
 ### Grade Level Expectation CS.HS.3.6: Security and software licensing can present constraints and restrictions in computational design and development.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8.  Create computational artifacts that consider security from tampering, malicious or otherwise.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -692,7 +692,7 @@
 3. Explore and integrate security measures such as encryption, authentication and verification strategies to secure developed computer programs.
 4. Research and abide by intellectual property laws and patents.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

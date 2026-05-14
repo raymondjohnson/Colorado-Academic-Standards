@@ -1,14 +1,14 @@
-# Fifth Grade
+# Fifth Grade | Drama and Theatre Arts
 
 ## Standard 1. Create
 
 ### Grade Level Expectation DT.5.1.1: Generate and conceptualize artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Theatre artists rely on intuition, curiosity, and critical inquiry.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Propose design ideas that support the story and given circumstances in a creative drama or theatre work.
 3. Generate a cohesive expression of a creative drama or theatre work that demonstrates character, visual, and design elements, and story.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -31,18 +31,18 @@
 
 ### Grade Level Expectation DT.5.1.2: Organize and develop artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Theatre artists work to discover different ways of communicating meaning.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Collaborate with peers to make choices concerning a story's imagined situation that enhance and deepen characters and plot.
 2. Participate in defined responsibilities of theatre practitioners in order to present a creative drama or theatre work informally to an audience.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -56,18 +56,18 @@
 
 ### Grade Level Expectation DT.5.1.3: Connect artistic ideas to personal experience and varied perspectives.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Theatre artists seek awareness of interrelationships between self and others to influence and inform their work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Analyze commonalities and differences between stories set in different cultures in preparation for a creative drama or theatre work.
 2. Compare the drama or theatre conventions of a given time period with those of the present.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -81,11 +81,11 @@
 
 ### Grade Level Expectation DT.5.1.4: Refine towards completion of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Theatre artists refine their work and practice their craft through rehearsal.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -93,7 +93,7 @@
 2. Make physical and vocal choices to continually develop characters in an improvised or scripted creative drama or theatre work.
 3. Create innovative solutions to design and technical problems that arise in rehearsal for a creative drama or theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -110,18 +110,18 @@
 
 ### Grade Level Expectation DT.5.2.1: Select, analyze, and interpret artistic work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Theatre artists make strong choices to effectively convey meaning.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Describe the underlying thoughts and emotions that create dialogue and action in a creative drama or theatre work.
 2. Make physical and vocal choices to interpret a character's motivation in a creative drama or theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -137,18 +137,18 @@
 
 ### Grade Level Expectation DT.5.2.2: Develop and refine artistic techniques, choices, and work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Theatre artists develop personal processes and skills for a performance or design.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. As an ensemble, collaborate, choose, and implement acting exercises that can enhance a creative drama or theatre work.
 2. As an ensemble, collaborate, choose, and implement technical elements that can enhance a creative drama or theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -163,17 +163,17 @@
 
 ### Grade Level Expectation DT.5.2.3: Connect artistic work with audience, community, and ensemble.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Theatre artists understand and can communicate their creative process as they analyze the way the world may be understood.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Explain how creative drama or theatre work connects oneself to a community or culture.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -189,17 +189,17 @@
 
 ### Grade Level Expectation DT.5.2.4: Convey meaning through the presentation of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Theatre artists share and present stories, ideas, and envisioned worlds to explore the human experience.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Perform small ensemble creative drama or theatre work for an audience of peers using technical elements to enhance the meaning.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -218,17 +218,17 @@
 
 ### Grade Level Expectation DT.5.3.1: Perceive and analyze artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Theatre artists reflect to understand the impact of drama processes and theatre experiences.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Explain personal reactions to artistic choices made in a creative drama or theatre work through participation and observation.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -242,11 +242,11 @@
 
 ### Grade Level Expectation DT.5.3.2: Interpret intent and meaning in artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Theatre artists' interpretations of drama/theatre work are influenced by personal experiences and aesthetics.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -254,7 +254,7 @@
 2. Explain responses to characters based on personal cultural perspectives when participating in or observing a creative drama or theatre work.
 3. Investigate the effects of emotions on posture, gesture, breathing, and vocal intonation in a creative drama or theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -272,17 +272,17 @@
 
 ### Grade Level Expectation DT.5.3.3: Connect artistic experiences to our world; past, present, and future.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Theatre artists critically inquire into the ways others have thought about and created drama processes and productions to inform their own work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Investigate historical, global, and social issues expressed in a creative drama or theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -299,11 +299,11 @@
 
 ### Grade Level Expectation DT.5.3.4: Apply criteria to evaluate artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 12. Theatre artists apply criteria to investigate, explore, and assess drama and theatre work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -311,7 +311,7 @@
 2. Assess how technical elements represent the theme of a creative drama or theatre work.
 3. Recognize and connect how a character’s circumstances impact an audience’s perspective in a creative drama or theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

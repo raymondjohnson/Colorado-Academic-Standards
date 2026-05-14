@@ -1,14 +1,14 @@
-# Second Grade
+# Second Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.2.1.1: Demonstrate the elements of movement in combination with a variety of locomotor skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -18,7 +18,7 @@
 4. Identify major characteristics of the skills of walking, running, jumping, hopping, and leaping.
 5. Correctly identify the locomotor, non-locomotor, or manipulative skill in a variety of activities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -41,11 +41,11 @@
 
 ### Grade Level Expectation PE.2.1.2: Demonstrate control and balance in traveling and weight-bearing activities using a variety of body parts and implements.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -56,7 +56,7 @@
 5. Balance objects on various body parts while in various positions.
 6. Demonstrate static and dynamic balance on lines or low beams and benches.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -78,18 +78,18 @@
 
 ### Grade Level Expectation PE.2.1.3: Use feedback to improve performance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use instructor feedback to identify strengths and weaknesses.
 2. Identify modifications to improve performance of a skill or physical movement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -109,11 +109,11 @@
 
 ### Grade Level Expectation PE.2.2.1: Identify healthy habits for personal wellness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -124,7 +124,7 @@
 5. Identify feelings resulting from challenges, successes, and failures in physical activity.
 6. Describe the role of water as an essential nutrient for the brain and body.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -151,11 +151,11 @@
 
 ### Grade Level Expectation PE.2.3.1: Demonstrate positive and helpful behavior and words toward other students.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -163,7 +163,7 @@
 2. Participate in a variety of group settings without distracting behavior.
 3. Encourage others by using verbal and nonverbal communication.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -185,18 +185,18 @@
 
 ### Grade Level Expectation PE.2.4.1: Apply rules, procedures, and safe practices in the classroom.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Maintain safety within personal space while using implements.
 2. Follow safety rules in the gymnasium and on the playground.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

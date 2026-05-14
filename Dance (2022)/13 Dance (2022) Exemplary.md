@@ -1,14 +1,14 @@
-# Exemplary
+# Exemplary | Dance
 
 ## Standard 1. Movement
 
 ### Grade Level Expectation DA.EX.1.1: Demonstrate dance technique, vocabulary, and skill in various styles with proficiency and artistic expression.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Demonstrate dance technique, vocabulary, and skill appropriate to stylistic expectations.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Demonstrate phrasing with and without musical accompaniment using multiple and complex rhythms or sounds.
 3. Confidently perform alone and with others to establish intentional relationships with dancers and the environment.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -35,11 +35,11 @@
 
 ### Grade Level Expectation DA.EX.1.2: Apply and evaluate kinesthetic awareness to create healthful practices in dance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices, fitness, and mind/body wellness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -49,7 +49,7 @@
 4. Develop personal conditioning practices, using different body conditioning techniques, that improve range of motion, muscular flexibility, strength, and endurance to enhance performance.
 5. Apply body-mind principles to technical dance skills in complex movement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -64,11 +64,11 @@
 
 ### Grade Level Expectation DA.EX.1.3: Create and implement production strategies that correlate with performance intention.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Participate in the dance performance process in a variety of roles.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -77,7 +77,7 @@
 3. Demonstrate leadership qualities (for example commitment, dependability, responsibility, and cooperation) when preparing for performances.
 4. Model performance etiquette and performance practices during class, rehearsal, and performance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -94,11 +94,11 @@
 
 ### Grade Level Expectation DA.EX.2.1: Apply and analyze movement to explore personal preferences and possibilities through improvisation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Explore and demonstrate various concepts through improvisational movement to communicate purposeful intent.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -107,7 +107,7 @@
 3. Evaluate and refine personal preferences and possibilities for movement.
 4. Adapt ideas to fit the needs of their group and community.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -124,11 +124,11 @@
 
 ### Grade Level Expectation DA.EX.2.2: Demonstrate fluency in creative processes both independently and with a group.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Use a creative process to construct a dance composition.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -136,7 +136,7 @@
 2. Develop creative process strategies that consider complex relationships of movement components and/or diverse choreographic sources for a dance composition.
 3. Analyze, evaluate, and synthesize the impact of choices made during the revision process to deepen the intention of the choreography.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -155,11 +155,11 @@
 
 ### Grade Level Expectation DA.EX.3.1: Compose, perform, and critique dance works that are era or culturally specific.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Research, articulate, and embody dance from various eras and cultures.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -168,7 +168,7 @@
 3. Identify commonalities and differences in dance technique and vocabulary across cultures.
 4. Create a dance using historically and culturally specific movements.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -182,18 +182,18 @@
 
 ### Grade Level Expectation DA.EX.3.2: Draw connections between cultures and eras through dance research.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed through the lens of the era or culture in which it originated.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Compare and synthesize contrasting viewpoints and identify the tensions between them.
 2. Analyze dance as a reflection of culture and society.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -209,11 +209,11 @@
 
 ### Grade Level Expectation DA.EX.4.1: Critique, analyze, reflect upon, and understand dance using applicable technique and vocabulary.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, and reflect upon dance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -221,7 +221,7 @@
 2. Articulate personal connections to a dance.
 3. Critique the structure, technique, and choreographic intent of a dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -237,11 +237,11 @@
 
 ### Grade Level Expectation DA.EX.4.2: Analyze and demonstrate the connections between other art forms, school subjects, professions, and community roles with dance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Analyze and demonstrate the various roles and contributions of dance within a community.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -249,7 +249,7 @@
 2. Discover and analyze career opportunities integrating dance with the surrounding communities.
 3. Demonstrate and articulate how communities and dance impact each other
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

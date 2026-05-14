@@ -1,14 +1,14 @@
-# Preschool
+# Preschool | Reading, Writing and Communicating
 
 ## Standard 1. Oral Expression and Listening
 
 ### Preschool Learning and Development Expectation RW.P.1.1: Children comprehend and understand the English language (Receptive Language).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Collaborate effectively as group members or leaders who listen actively and respectfully; pose thoughtful questions, acknowledge the ideas of others; and contribute ideas to further the group’s attainment of an objective.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -16,7 +16,7 @@
 2. Comprehend increasingly complex and varied vocabulary.
 3. Follow two- to three-step directions.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -35,11 +35,11 @@
 
 ### Preschool Learning and Development Expectation RW.P.1.2: Children use language to convey thoughts and feelings (Expressive Language).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Collaborate effectively as group members or leaders who listen actively and respectfully; pose thoughtful questions, acknowledge the ideas of others; and contribute ideas to further the group’s attainment of an objective.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -50,7 +50,7 @@
 5. Practice asking questions and making statements.
 6. Speak in sentences of five or six words.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -71,12 +71,12 @@
 
 ### Preschool Learning and Development Expectation RW.P.2.1: Children understand and obtain meaning from stories and information from books and other texts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Read a wide range of literary texts to build knowledge and to better understand the human experience.
 4. Read a wide range of informational texts to build knowledge and to better understand the human experience.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -89,7 +89,7 @@
 7. Make predictions based on illustrations.
 8. Begin to identify key features of reality versus fantasy in stories, pictures, and events.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -108,11 +108,11 @@
 
 ### Preschool Learning and Development Expectation RW.P.2.2: Phonological awareness is the building block for understanding language.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Understand how language functions in different contexts, command a variety of word-learning strategies to assist comprehension, and make effective choices for meaning or style when writing and speaking.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -121,7 +121,7 @@
 3. Identify and discriminate between sounds and phonemes in language, such as attention to beginning and ending sounds of words and recognition that different words begin or end with the same sound.
 4. Recognize patterns of sounds in songs, storytelling, and poetry through interactions and meaningful experiences.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -136,11 +136,11 @@
 
 ### Preschool Learning and Development Expectation RW.P.2.3:  Print concepts and conventions anchor concepts of early decoding.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Understand how language functions in different contexts, command a variety of word-learning strategies to assist comprehension, and make effective choices for meaning or style when writing and speaking.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -150,7 +150,7 @@
 4. Recognize words as a unit of print and understand that letters are grouped to form words.
 5. Recognize the association between spoken or signed and written words.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -169,11 +169,11 @@
 
 ### Preschool Learning and Development Expectation RW.P.2.4:  The names and sounds associated with letters makes up alphabetic knowledge.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Understand how language functions in different contexts, command a variety of word-learning strategies to assist comprehension, and make effective choices for meaning or style when writing and speaking.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -182,7 +182,7 @@
 3. Attend to the beginning letters and sounds in familiar words.
 4. Identify letters and associate correct sounds with letters, including a minimum of ten letters, preferably including letters in the child’s name.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -202,13 +202,13 @@
 
 ### Preschool Learning and Development Expectation RW.P.3.1: Familiarity with writing implements, conventions, and emerging skills to communicate through written representations, symbols, and letters.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Craft arguments using techniques specific to the genre.
 7. Craft informational/explanatory texts using techniques specific to the genre.
 8. Craft narratives using techniques specific to the genre.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -217,7 +217,7 @@
 3. Use scribbles, shapes, pictures, and letters to represent objects, stories, experiences, or ideas.
 4. Copy, trace, or independently write letters or words.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -237,18 +237,18 @@
 
 ### Preschool Learning and Development Expectation RW.P.4.1: Begin research by asking a question to identify and define a problem and its possible solutions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Gather information from a variety of sources; analyze and evaluate its quality and relevance; and use it ethically to answer complex questions.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. Differentiate between questions and statements
 2. Identify problems and search for solutions by asking questions during collaborative explorations of the topic; begin to state facts about the topic.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Colorado Essential Skills:
 

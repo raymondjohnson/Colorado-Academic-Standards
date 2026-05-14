@@ -1,21 +1,21 @@
-# Preschool
+# Preschool | Dance
 
 ## Standard 1. Movement
 
 ### Preschool Learning and Development Expectation DA.P.1.1: Demonstrate simple phrases of movement safely.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices, fitness, and mind/body wellness.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. Move safely in personal and general space.
 2. Demonstrate focus and concentration while moving.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -37,11 +37,11 @@
 
 ### Preschool Learning and Development Expectation DA.P.2.1: Explore simple ideas and stories through movement.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Explore and demonstrate various concepts through improvisational movement to communicate purposeful intent.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -52,7 +52,7 @@
 5. Improvise movements that can start and stop on cue.
 6. Demonstrate contrasting ideas.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -77,18 +77,18 @@
 
 ### Preschool Learning and Development Expectation DA.P.3.1: Begin to recognize ways in which dance represents different eras and cultures.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed through the lens of the era or culture in which it originated.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. Explore how dance can be used to commemorate special occasions across various cultures.
 2. Experience dances from other time periods.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -109,18 +109,18 @@
 
 ### Preschool Learning and Development Expectation DA.P.4.1: Describe dance using basic movement vocabulary.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, and reflect upon dance.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. Identify different dance movements.
 2. Describe a movement or dance with emerging vocabulary (e.g., body parts, verbs, adjectives, metaphors, imagery).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 

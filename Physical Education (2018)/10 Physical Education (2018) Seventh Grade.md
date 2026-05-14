@@ -1,14 +1,14 @@
-# Seventh Grade
+# Seventh Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.7.1.1: Combine the critical elements of movement and skills concepts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -20,7 +20,7 @@
 6. Use principles from motor learning to establish, monitor, and meet goals for motor skill development.
 7. Compare and contrast the effectiveness of practicing skills as a whole and practicing skills in smaller parts.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -43,11 +43,11 @@
 
 ### Grade Level Expectation PE.7.1.2: Demonstrate beginning offensive and defensive strategies for individual and team physical activities and sports.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -61,7 +61,7 @@
 8. Create open space in net or wall games by varying force and directions and by moving opponent from side to side.
 9. Select an offensive shot based on an opponent’s location.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -86,11 +86,11 @@
 
 ### Grade Level Expectation PE.7.2.1: Understand and apply principles of physical fitness to create a personal fitness plan and set personal physical fitness goals.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -100,7 +100,7 @@
 4. Identify elements that comprise an age-appropriate fitness plan, according to an individual's age, level of fitness and goals.
 5. Identify and incorporate self-selected activities that are enjoyable into one’s personal fitness plan.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -119,11 +119,11 @@
 
 ### Grade Level Expectation PE.7.2.2: Demonstrates fitness knowledge and skills that maintain a health-enhancing lifestyle, while actively engaging in the participation of lifetime physical activities.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -134,7 +134,7 @@
 5. Develop and describe short-term and long-term fitness goals as they relate to improving health-related or skill-related components.
 6. Design a warm-up and cool-down regime for a self-selected physical activity.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -155,11 +155,11 @@
 
 ### Grade Level Expectation PE.7.3.1: Demonstrate inclusiveness in and out of classroom settings.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -168,7 +168,7 @@
 3. Make suggestions to the instructor on how to modify a game to allow all members with varying skill abilities to participate.
 4. Recognize the role of physical activity in getting to know and understand others of similar and different backgrounds.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -193,11 +193,11 @@
 
 ### Grade Level Expectation PE.7.4.1: Understand and utilize safe and appropriate warm-up, pacing, and cool-down techniques for injury prevention and safe participation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -207,7 +207,7 @@
 4. Identify safety rules for the activity and area being used.
 5. Independently use physical activity and exercise equipment appropriately and safely.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

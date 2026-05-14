@@ -1,14 +1,14 @@
-# High School - Professional Pathway
+# High School - Professional Pathway | Drama and Theatre Arts
 
 ## Standard 1. Create
 
 ### Grade Level Expectation DT.H3.1.1: Generate and conceptualize artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Theatre artists rely on intuition, curiosity, and critical inquiry.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Create a complete design for a drama/theatre work that incorporates all elements of technology.
 3. Integrate cultural and historical contexts with personal experiences to create a character that is believable and authentic in a drama/theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -34,18 +34,18 @@
 
 ### Grade Level Expectation DT.H3.1.2: Organize and develop artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Theatre artists work to discover different ways of communicating meaning.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop and synthesize original ideas in a drama/theatre work utilizing critical analysis, historical and cultural context, research, and Western or non-Western theatre traditions.
 2. Collaborate as a creative team to discover artistic solutions and make interpretive choices in a devised or scripted drama/theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -60,18 +60,18 @@
 
 ### Grade Level Expectation DT.H3.1.3: Connect artistic ideas to personal experience and varied perspectives.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Theatre artists seek awareness of interrelationships between self and others to influence and inform their work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Collaborate on a drama/theatre work that examines a critical global issue using multiple personal, community, and cultural perspectives.
 2. Justify the creative choices made in a devised or scripted drama/theatre work, based on a critical interpretation of specific data on ensemble, community.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -86,11 +86,11 @@
 
 ### Grade Level Expectation DT.H3.1.4: Refine towards completion of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Theatre artists refine their work and practice their craft through rehearsal.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -98,7 +98,7 @@
 2. Synthesize ideas from research, script analysis, and context to create a performance that is believable, authentic, and relevant in a drama/theatre work.
 3. Connect technical proficiencies to the rehearsal process to support the story and emotional impact of a devised or scripted drama/theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -116,18 +116,18 @@
 
 ### Grade Level Expectation DT.H3.2.1: Select, analyze, and interpret artistic work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Theatre artists make strong choices to effectively convey meaning.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Apply reliable research of directors’ styles to form unique choices for a directorial concept in a drama/theatre work.
 2. Formulate an approach to artistic choices in a drama/theatre work based on a variety of researched techniques.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -142,18 +142,18 @@
 
 ### Grade Level Expectation DT.H3.2.2: Develop and refine artistic techniques, choices, and work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Theatre artists develop personal processes and skills for a performance or design.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Perform and justify a collection of acting exercises from reliable resources to prepare a believable and sustainable performance.
 2. Explain and justify the selection of technical elements used to build a design that communicates the concept of a drama/theatre production.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -168,17 +168,17 @@
 
 ### Grade Level Expectation DT.H3.2.3: Connect artistic work with audience, community, and ensemble.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Theatre artists understand and can communicate their creative process as they analyze the way the world may be understood.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Effectively execute creative processes to tell stories in a devised or scripted drama/theatre work, to connect with audience, community, and ensemble.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -192,17 +192,17 @@
 
 ### Grade Level Expectation DT.H3.2.4: Convey meaning through the presentation of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Theatre artists share and present stories, ideas, and envisioned worlds to explore the human experience.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Present a drama/theatre production for a specific audience that employs research and analysis grounded in the creative perspectives of the playwright, director, designer, and dramaturg.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -220,17 +220,17 @@
 
 ### Grade Level Expectation DT.H3.3.1: Perceive and analyze artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Theatre artists reflect to understand the impact of drama processes and theatre experiences.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Respond to what is seen, felt, and heard in a drama/theatre work to analyze artistic choices and justify meaningful feedback based on historical, cultural, and personal context.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -246,11 +246,11 @@
 
 ### Grade Level Expectation DT.H3.3.2: Interpret intent and meaning in artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Theatre artists' interpretations of drama/theatre work are influenced by personal experiences and aesthetics.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -258,7 +258,7 @@
 2. Shape personal responses to drama/theatre work by utilizing new understandings of cultures and contexts.
 3. Support and explain aesthetics, preferences and beliefs to create a context for critical research that informs artistic decisions in a drama/theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -275,18 +275,18 @@
 
 ### Grade Level Expectation DT.H3.3.3: Connect artistic experiences to our world; past, present, and future.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Theatre artists critically inquire into the ways others have thought about and created drama processes and productions to inform their own work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Present and support an opinion about the social, cultural, and historical understandings of a drama/theatre work, based on critical research.
 2. Connect personal knowledge, skills, training, and self-discipline needed to pursue personal career goals in theatre.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -301,11 +301,11 @@
 
 ### Grade Level Expectation DT.H3.3.4: Apply criteria to evaluate artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 12. Theatre artists apply criteria to investigate, explore, and assess drama and theatre work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -313,7 +313,7 @@
 2. Analyze and evaluate varied aesthetic interpretations of production elements for the same drama/theatre work.
 3. Compare and debate the connection between a drama/theatre work and contemporary issues that may impact audiences.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

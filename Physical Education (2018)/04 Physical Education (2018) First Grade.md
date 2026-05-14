@@ -1,14 +1,14 @@
-# First Grade
+# First Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.1.1.1: Demonstrate basic locomotor and non-locomotor skills and rhythmic and cross-lateral movements.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -22,7 +22,7 @@
 8. Demonstrate both static and dynamic balances.
 9. Perform rhythmical movements using small musical aids.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -47,11 +47,11 @@
 
 ### Grade Level Expectation PE.1.1.2: Demonstrate fundamental manipulative skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -62,7 +62,7 @@
 5. Kick a stationary object using a simple kicking pattern.
 6. Use body parts and light implements to strike stationary and moving objects.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -89,11 +89,11 @@
 
 ### Grade Level Expectation PE.1.1.3: Establish a beginning movement vocabulary.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -102,7 +102,7 @@
 3. Recognize personal space, high and low levels, fast and slow speeds, straight, curved, and zigzag pathways, balance, and twist.
 4. Distinguish between personal space, general space, and boundaries.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -127,11 +127,11 @@
 
 ### Grade Level Expectation PE.1.2.1: Identify the body's normal reactions to moderate and vigorous physical activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -139,7 +139,7 @@
 2. Identify physical activities that require strong muscles.
 3. Identify heart beating faster, harder breathing, and sweating as reactions to exercise.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -164,11 +164,11 @@
 
 ### Grade Level Expectation PE.1.3.1: Work independently and with others to complete work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -177,7 +177,7 @@
 3. Identify and demonstrate the attributes of being an effective partner or group member in physical activity.
 4. Help another student share space effectively.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -200,11 +200,11 @@
 
 ### Grade Level Expectation PE.1.3.2: Follow the rules of an activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -213,7 +213,7 @@
 3. Follow the rules for simple games and activities.
 4. Accept responsibility for one's behavior in a game situation.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -235,18 +235,18 @@
 
 ### Grade Level Expectation PE.1.4.1: Develop movement control for safe participation in games and physical activities.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Recognize appropriate safety practices in general space (e.g., throwing objects when appropriate, only throwing objects when others are not in the direct line of the throw).
 2. Demonstrate the ability to follow verbal and nonverbal instruction.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

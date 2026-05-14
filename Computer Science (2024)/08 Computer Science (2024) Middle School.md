@@ -1,20 +1,20 @@
-# Middle School
+# Middle School | Computer Science
 
 ## Standard 1.  Computational Thinking
 
 ### Grade Level Expectation CS.MS.1.1:  Complex problems can be broken into smaller parts to facilitate program implementation and review processes.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Develop, utilize and evaluate algorithms to model and solve problems.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -26,18 +26,18 @@
 
 ### Grade Level Expectation CS.MS.1.2:  Data can be collected, transformed and analyzed to develop computational models.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2.  Systematically analyze a problem using decomposition and abstraction to formulate a solution.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Collect data using computational tools and transform the data to make it more useful and reliable.
 2. Illustrate translation of a structure such as a game board, road map, or mind map into a labeled graph and explain the contributions of the components.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -57,11 +57,11 @@
 
 ### Grade Level Expectation CS.MS.2.1:  Computer networks are composed of multiple, connected components and can be arranged logically in a variety of ways.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3.  Represent and analyze data in order to generate new knowledge and capability.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -70,7 +70,7 @@
 3. Systematically identify and fix problems with computing devices and their components.
 4. Compare and contrast network topologies.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -83,11 +83,11 @@
 
 ### Grade Level Expectation CS.MS.2.2: The way that users interact with devices can provide useful information for improving the design.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Use systems thinking to describe networks and common software and hardware components.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -95,7 +95,7 @@
 2. Identify the role of connected network components.
 3. Discuss issues of bias and accessibility in the design of existing technologies.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -108,11 +108,11 @@
 
 ### Grade Level Expectation CS.MS.2.3:  Cybersecurity threats can arise from a variety of sources.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5.  Develop systems solutions from a set of specifications to complete a design process.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -121,7 +121,7 @@
 3. Evaluate the risks and benefits of Internet of Things devices.
 4. Distinguish between responsible and malicious hacking.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -135,11 +135,11 @@
 
 ### Grade Level Expectation CS.MS.3.1:  Collaborative development of computational artifacts can be made more efficient by employing strategies for project management, crowdsourcing, and feedback.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7.  Design and create programs, individually and collaboratively, for a variety of disciplines.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -149,7 +149,7 @@
 4. Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.
 5. Collaborate with many contributors through strategies such as crowdsourcing or surveys when creating a computational artifact.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -163,17 +163,17 @@
 
 ### Grade Level Expectation CS.MS.3.2: Computational artifacts can be designed in ways that reduce the risk of data loss or tampering.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8.  Create computational artifacts that consider security from tampering, malicious or otherwise.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Explain the role and importance of backups.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -185,11 +185,11 @@
 
 ### Grade Level Expectation CS.MS.3.3:  Programs can combine control structures, including nested loops and compound conditionals to solve complex problems.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7.  Design and create programs, individually and collaboratively, for a variety of disciplines.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -197,7 +197,7 @@
 2. Use flowcharts and/or pseudocode to address complex problems as algorithms.
 3. Systematically test and refine programs using a range of test cases.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -211,11 +211,11 @@
 
 ### Grade Level Expectation CS.MS.4.1:  Sharing information creates potential risks that the information could be used inappropriately, but these risks can be partially mitigated.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9.  Create a security risk profile that recognizes and analyzes security concepts.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -226,7 +226,7 @@
 5. Explain techniques to detect, correct, and prevent disclosure of PII.
 6. Analyze specific federal, state, and local laws as they relate to cybersecurity and privacy.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -240,11 +240,11 @@
 
 ### Grade Level Expectation CS.MS.5.1:  AI tools can be combined and adapted to solve a vast variety of problems and have the capacity to drive major changes in society.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10.  Use AI tools to analyze and understand the world and to create and inspire ideas.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -255,7 +255,7 @@
 5. Research a societal problem and describe how AI technologies can be used to address that problem.
 6. Create a dataset for training a decision tree classifier or predictor and explore the impact that different feature encodings have on the decision tree.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -269,11 +269,11 @@
 
 ### Grade Level Expectation CS.MS.5.2:  The behavior of AI systems reflects both the goals of the designers and the data used to train the system.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11.  Evaluate the uses of AI.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -283,7 +283,7 @@
 4. Explain how the choice of training data shapes the behavior of the classifier, and how bias can be introduced if the training set is not properly balanced to represent the full range and distribution of items being classified.
 5. Define criteria for consciousness and evaluate AI systems or fictional AI characters according to those criteria.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -296,11 +296,11 @@
 
 ### Grade Level Expectation CS.MS.5.3:  AI systems combine intelligent agents, reasoning models, and machine learning to perform sophisticated functions such as solving physics problems or identifying human emotional states.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 12.  Explain how AI tools work and how they are built.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -323,7 +323,7 @@
 17. Explain the knowledge a computer would need to solve a naive physics reasoning problem.
 18. Describe how computers use different types of cues to recognize human emotional states.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -338,11 +338,11 @@
 
 ### Grade Level Expectation CS.MS.6.1:  Users can employ specific strategies to mitigate the risks associated with online interactions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 13.  Digital Citizenship: Practice responsible, ethical, and safe use of computing technology and the internet.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -355,7 +355,7 @@
 7. Think about how to develop healthy habits when using digital media.
 8. Explain why information about them and their behaviors is valuable to companies and consider potential strategies to limit access to information by third parties.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

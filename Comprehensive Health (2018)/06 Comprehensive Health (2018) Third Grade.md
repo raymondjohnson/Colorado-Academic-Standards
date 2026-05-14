@@ -1,14 +1,14 @@
-# Third Grade
+# Third Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.3.2.1: Demonstrate the ability to make and communicate appropriate food choices.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -18,7 +18,7 @@
 4. Demonstrate refusal skills in dealing with unhealthy eating situations.
 5. Identify how family, peers, and media influence healthy eating.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -42,11 +42,11 @@
 
 ### Grade Level Expectation CH.3.3.1: Utilize knowledge and skills to treat self and others with care and respect.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -56,7 +56,7 @@
 4. Discuss the importance of treating others the way you would like to be treated.
 5. Give examples of skills that develop and maintain healthy relationships as well as strong friendships.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -76,11 +76,11 @@
 
 ### Grade Level Expectation CH.3.3.2: Demonstrate interpersonal communication skills to support positive interactions with families, peers, and others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -90,7 +90,7 @@
 4. Demonstrate how to communicate about personal boundaries directly, respectfully, and assertively.
 5. Identify potential conflicts that arise within relationships and strategies to resolve those conflicts.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -115,11 +115,11 @@
 
 ### Grade Level Expectation CH.3.4.1: Examine the dangers of using tobacco and marijuana products and exposure to secondhand smoke.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -129,7 +129,7 @@
 4. Describe the benefits of abstaining from or discontinuing tobacco and non-prescribed marijuana use.
 5. Demonstrate the ability to assertively refuse an unwanted item.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -151,11 +151,11 @@
 
 ### Grade Level Expectation CH.3.4.2: Describe pro-social behaviors and skills that enhance healthy interactions with others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -164,7 +164,7 @@
 3. Describe how responding to anger can be positive and/or negative.
 4. Demonstrate strategies for self-control that can manage anger and other strong feelings in positive ways.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -187,11 +187,11 @@
 
 ### Grade Level Expectation CH.3.4.3: Identify ways to prevent injuries at home, in school, and in the community.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -199,7 +199,7 @@
 2. Create a personal safety plan and explain how it will be used at home, in school, and in the community (e.g., bike safety, pedestrian safety, emergency situations).
 3. Identify safety rules around modern technology, including the internet.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

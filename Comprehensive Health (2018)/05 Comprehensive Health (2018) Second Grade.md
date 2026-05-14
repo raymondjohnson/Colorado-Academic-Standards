@@ -1,14 +1,14 @@
-# Second Grade
+# Second Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.2.2.1: Identify eating and drinking behaviors that contribute to maintaining good health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -19,7 +19,7 @@
 5. Understand that the body exhibits signals that tell people when they are hungry and when they are full.
 6. Identify the recommended serving size and sugar content found on a nutritional label.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -42,11 +42,11 @@
 
 ### Grade Level Expectation CH.2.2.2: Recognize basic childhood chronic diseases.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -54,7 +54,7 @@
 2. Communicate concern to a parent or trusted adult when a person is having an allergic reaction or difficulty breathing.
 3. Identify the purpose of vaccinations.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -75,11 +75,11 @@
 
 ### Grade Level Expectation CH.2.3.1: Utilize knowledge and skills to develop a positive self-concept.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -88,7 +88,7 @@
 3. Describe the importance of being aware of one's own feelings and of being sensitive to the feelings of others.
 4. Express intentions to treat self with care and respect.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -108,11 +108,11 @@
 
 ### Grade Level Expectation CH.2.3.2: Utilize knowledge and skills to develop an awareness of others and maintain healthy relationships.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -122,7 +122,7 @@
 4. Describe the benefits of a friendship.
 5. Describe how to make and maintain friendships.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -145,11 +145,11 @@
 
 ### Grade Level Expectation CH.2.4.1: Identify the dangers of using tobacco and marijuana  products and exposure to secondhand smoke.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -157,7 +157,7 @@
 2. State reasons why and identify strategies to avoid secondhand smoke from tobacco and marijuana.
 3. Demonstrate the ability to assertively refuse an unwanted item or pressure from a peer.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -179,11 +179,11 @@
 
 ### Grade Level Expectation CH.2.4.2: Identify safe and proper use of household products.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -192,7 +192,7 @@
 3. Articulate the proper and safe use of products and substances found in the home that can be harmful if used inappropriately.
 4. Identify the dangers of edible marijuana or tobacco products.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -213,11 +213,11 @@
 
 ### Grade Level Expectation CH.2.4.3: Demonstrate how to respond appropriately to various types of bullying.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -227,7 +227,7 @@
 4. Identify why making fun of others is harmful to self and others.
 5. Explain how to advocate for yourself and someone else who is being bullied.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -247,11 +247,11 @@
 
 ### Grade Level Expectation CH.2.4.4: Demonstrate interpersonal communication skills to prevent injury or to ask for help in an emergency or unsafe situation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -261,7 +261,7 @@
 4. Identify ways to reduce or prevent the risk of injuries around water.
 5. Develop an awareness of how modern technology can create a distraction that leads to unsafe situations (e.g., looking down in a crowd, unaware of traffic, awareness of others).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

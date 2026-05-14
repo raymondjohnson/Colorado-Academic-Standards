@@ -1,14 +1,14 @@
-# Sixth Grade
+# Sixth Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.6.2.1: Evaluate the validity and reliability of information, products, and services to enhance healthy eating behaviors.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Evaluate the nutrition information on food labels to compare products.
 3. Identify reliable and unreliable resources and information regarding healthy eating.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -36,11 +36,11 @@
 
 ### Grade Level Expectation CH.6.2.2: Identify valid and reliable resources regarding qualities of healthy family and peer relationships.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -48,7 +48,7 @@
 2. Describe how peer and family relationships may change during adolescence.
 3. Determine valid and reliable resources that enhance healthy relationships.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -71,11 +71,11 @@
 
 ### Grade Level Expectation CH.6.2.3: Comprehend the relationship between feelings and actions during adolescence.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -83,7 +83,7 @@
 2. Discuss possible physical, social, and emotional impacts of adolescent sexual activity.
 3. Describe the need to have clear expectations, boundaries, and personal safety strategies.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -105,11 +105,11 @@
 
 ### Grade Level Expectation CH.6.2.4: Analyze how positive health behaviors can benefit people throughout their lifespan.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -118,7 +118,7 @@
 3. Summarize personal strategies for reducing environmental dangers to health (e.g., sun damage to skin, hearing loss, vision damage).
 4. Explain the benefits of good hygiene practices for promoting health and maintaining social relationships.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -140,11 +140,11 @@
 
 ### Grade Level Expectation CH.6.3.1: Understand how to be mentally and emotionally healthy.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -156,7 +156,7 @@
 6. Identify emotions and feelings associated with loss and grief.
 7. Explain how modern technology can have a positive and negative impact on mental and emotional health.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -179,11 +179,11 @@
 
 ### Grade Level Expectation CH.6.3.2: Apply effective verbal and nonverbal communication skills to enhance health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -192,7 +192,7 @@
 3. Demonstrate how to ask for assistance to enhance the health of self and others.
 4. Identify ways to advocate for self and others to enhance health and safety.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -213,11 +213,11 @@
 
 ### Grade Level Expectation CH.6.4.1: Analyze the factors that influence a person's decision to use or not use marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -227,7 +227,7 @@
 4. Identify common mixed messages about marijuana, illegal drugs, prescription drugs, alcohol, and tobacco use in the media.
 5. Analyze the perception versus the reality of drug use in adolescents (marijuana, illegal drugs, prescription drugs, alcohol, and tobacco).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -247,11 +247,11 @@
 
 ### Grade Level Expectation CH.6.4.2: Demonstrate the ability to refuse marijuana, illegal drugs, abuse of prescription drugs, alcohol, and tobacco.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -260,7 +260,7 @@
 3. Identify and summarize positive alternatives to drug and substance use.
 4. Demonstrate planning skills for avoiding marijuana, illegal drugs, abuse of prescription drugs, alcohol, and tobacco.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -280,11 +280,11 @@
 
 ### Grade Level Expectation CH.6.4.3: Demonstrate ways to advocate for a positive, respectful school and community environment that supports pro-social behavior.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -297,7 +297,7 @@
 7. Describe the dangers of and actions to be taken if weapons are seen or suspected in schools.
 8. Demonstrate appropriate communication skills to solve conflicts nonviolently.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -319,18 +319,18 @@
 
 ### Grade Level Expectation CH.6.4.4: Demonstrate ways to promote safety, and prevent unintentional injuries.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Demonstrate the ability to identify and correct safety hazards at home, in school, and in the community.
 2. Develop a safety plan for self and/or others in home, school, and community.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

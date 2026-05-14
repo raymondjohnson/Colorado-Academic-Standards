@@ -1,14 +1,14 @@
-# High School
+# High School | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.HS.1.1: Engage in a variety of lifelong physical activities at a competent level.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -18,7 +18,7 @@
 4. Explain and apply the skill-related components that enhance performance levels in activities such as; aquatic, rhythms/dance, combatives, outdoor adventure activities, and lifelong sports and games. (Level 2)
 5. Explain and demonstrate training practices that have the greatest impact on improvement of skill acquisition and performance in a variety of lifelong activities. (Level 2)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -39,11 +39,11 @@
 
 ### Grade Level Expectation PE.HS.1.2: Recognize how movement concepts affect brain development.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -51,7 +51,7 @@
 2. Describe how exercise enhances brain development and academic success. (Level 1)
 3. Identify and evaluate personal physiological responses to physical activity (e.g., anxiety, stress, etc.). (Level 2)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -72,11 +72,11 @@
 
 ### Grade Level Expectation PE.HS.1.3: Apply rules, principles, problem-solving skills and concepts to traditional and nontraditional movement settings.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -84,7 +84,7 @@
 2. Analyze principles, utilize problem-solving skills and provide feedback to support peers in activities. (Level 1)
 3. Create or modify practice and training plans based on evaluative feedback of skill acquisition and performance in a variety of lifelong activities. (Level 2)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -106,11 +106,11 @@
 
 ### Grade Level Expectation PE.HS.2.1: Develop, implement and monitor an individual health and fitness plan by establishing goals based on fitness assessment data.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -125,7 +125,7 @@
 9. Apply advanced fitness training knowledge to the planning of an extended personal physical fitness program. (Level 2)
 10. Create, analyze and monitor a fitness plan personalized for a peer. (Level 2)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -149,11 +149,11 @@
 
 ### Grade Level Expectation PE.HS.2.2: Examine resources to maintain lifelong health and wellness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -164,7 +164,7 @@
 5. Research and evaluate wise consumer choices about equipment and programs needed to successfully participate in a wide range of physical activities. (Level 2)
 6. Compare and contrast available fitness technologies and nutrition-based applications (apps) and the effectiveness of their use. (Level 2)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -193,11 +193,11 @@
 
 ### Grade Level Expectation PE.HS.3.1: Demonstrate collaboration, cooperation, and leadership skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -210,7 +210,7 @@
 7. Abide by the decisions of officials, accept the outcome of the game, and show appreciation toward participants.
 8. Compare and contrast different leadership skills required in a variety of physical activities such as, outdoor education, adventure activities, and weight training.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -234,11 +234,11 @@
 
 ### Grade Level Expectation PE.HS.3.2: Demonstrate responsible behavior in group settings.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -247,7 +247,7 @@
 3. Accept the diversity and individual differences of participants in physical activity.
 4. Accept the roles of group members within the structure of a game or activity.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -274,11 +274,11 @@
 
 ### Grade Level Expectation PE.HS.4.1: Understand the risks and safety factors that may affect participation in physical activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -288,7 +288,7 @@
 4. Inspect equipment and facilities for safety hazards prior to participation.
 5. Explain strategies for the prevention of injuries when engaging in physical activity.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -307,18 +307,18 @@
 
 ### Grade Level Expectation PE.HS.4.2: Demonstrate knowledge of safety and emergency response procedures.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Demonstrate knowledge in one or more of the following areas: basic first aid, CPR, lifeguard training, water safety instruction, basic water safety, and automated external defibrillators (AEDs).
 2. Describe emergency procedures for a physical education setting.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

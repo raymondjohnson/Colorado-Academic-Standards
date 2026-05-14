@@ -1,14 +1,14 @@
-# Fourth Grade
+# Fourth Grade | Computer Science
 
 ## Standard 1.  Computational Thinking
 
 ### Grade Level Expectation CS.4.1.1:  Data can be analyzed and presented in ways that reveal predictable patterns and relationships between features.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3.  Represent and analyze data in order to generate new knowledge and capability.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 3. Give examples of how data can be analyzed to demonstrate relationships between features.
 4. Explain how images are represented digitally in a computer.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -34,11 +34,11 @@
 
 ### Grade Level Expectation CS.4.2.1:  Hardware and software work together as a system to complete tasks and often communicate via networks to share information.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Use systems thinking to describe networks and common software and hardware components.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -48,7 +48,7 @@
 4. Describe network communications.
 5. Identify specific network components.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -63,11 +63,11 @@
 
 ### Grade Level Expectation CS.4.3.1:  Creators of computer programs and other digital artifacts must consider multiple factors when designing content, including accessibility and intellectual property rights.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8.  Create computational artifacts that consider security from tampering, malicious or otherwise.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -75,7 +75,7 @@
 2. Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.
 3. Brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -92,17 +92,17 @@
 
 ### Grade Level Expectation CS.4.5.1:  AI tools solve problems through the use of computing technologies.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10.  Use AI tools to analyze and understand the world and to create and inspire ideas.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Design a solution to a societal problem that makes use of AI technology.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -119,11 +119,11 @@
 
 ### Grade Level Expectation CS.4.6.1:  A digital footprint is a record of what we do online, including the websites and digital spaces we visit, platforms and apps we use, the things we post and the things that others post, like pictures and videos, or comments of us and about us.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 13.  Digital Citizenship: Practice responsible, ethical, and safe use of computing technology and the internet.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -131,7 +131,7 @@
 2. Identify ways users are and are not in control of their digital footprint.
 3. Understand what responsibilities they have for the digital footprints of themselves and others.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

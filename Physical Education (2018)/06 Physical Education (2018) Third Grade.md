@@ -1,14 +1,14 @@
-# Third Grade
+# Third Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.3.1.1: Demonstrate a variety of motor patterns in simple combinations while participating in activities, games, and sports.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 3. Demonstrate throwing, catching, striking or trapping in an activity.
 4. Demonstrate skills of chasing, fleeing, and dodging to avoid others.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -39,11 +39,11 @@
 
 ### Grade Level Expectation PE.3.1.2: Perform cross lateral and rhythmic exercises that make a brain-body connection.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -55,7 +55,7 @@
 6. Perform forward and backward rolls with variation.
 7. Combine two or more rotational skills.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -77,18 +77,18 @@
 
 ### Grade Level Expectation PE.3.1.3: Demonstrate understanding of how the use of self-assessment aids in skill development.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use self-feedback to identify strengths and weaknesses.
 2. Use instructor or self-feedback to make adjustments that will improve performance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -112,11 +112,11 @@
 
 ### Grade Level Expectation PE.3.2.1: Identify the benefits of sustained physical activity that causes increased heart rate and heavy breathing.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -128,7 +128,7 @@
 6. Demonstrate the ability to understand the concept of pacing during cardiovascular endurance activity.
 7. Explain how the intensity and duration of exercise affect fuel use during physical activity.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -152,11 +152,11 @@
 
 ### Grade Level Expectation PE.3.2.2: Understand that the body is composed of water, muscle, bones, organs, fat, and other tissues.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -166,7 +166,7 @@
 4. Compare heart rate before, during, and after exercise, and explain that increasing the heart rate during physical activity strengthens the heart muscles.
 5. Identify physical activities that cause the heart to beat faster.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -192,11 +192,11 @@
 
 ### Grade Level Expectation PE.3.3.1: Demonstrate positive social behaviors during physical activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -207,7 +207,7 @@
 5. Ask a partner to participate in a physical activity.
 6. Congratulate friends for performing a skill correctly.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -234,18 +234,18 @@
 
 ### Grade Level Expectation PE.3.4.1: Identify ways to prevent injuries during physical activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Recognize how injuries can occur during physical activity.
 2. Understand how activities can affect safety of self and others.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

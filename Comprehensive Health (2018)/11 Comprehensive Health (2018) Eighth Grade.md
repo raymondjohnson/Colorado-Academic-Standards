@@ -1,21 +1,21 @@
-# Eighth Grade
+# Eighth Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.8.2.1: Demonstrate the ability to make healthy food choices in a variety of settings.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop strategies for making healthier food and beverage choices in a variety of settings such as eating out, at home, with friends, or at school.
 2. Describe the influences that impact healthy food choices.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -36,11 +36,11 @@
 
 ### Grade Level Expectation CH.8.2.2: Describe the physical, emotional, mental, and social benefits of sexual abstinence, and develop strategies to resist pressures to become sexually active.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -50,7 +50,7 @@
 4. Seek support to be sexually abstinent.
 5. Develop personal standards for dating situations.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -73,11 +73,11 @@
 
 ### Grade Level Expectation CH.8.2.3: Analyze how certain behaviors place one at greater risk for HIV/AIDS, sexually transmitted diseases (STDs), and unintended pregnancy.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -87,7 +87,7 @@
 4. Demonstrate peer resistance skills and personal boundary behavior.
 5. Examine how healthy relationships can impact one's risk for avoiding STDs.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -109,11 +109,11 @@
 
 ### Grade Level Expectation CH.8.2.4: Describe the signs and symptoms of HIV/AIDS and other sexually transmitted diseases (STDs).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply knowledge and skills necessary to make personal decisions that promote healthy relationships and sexual and reproductive health.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -121,7 +121,7 @@
 2. Explain that some STDs are asymptomatic.
 3. Summarize which STDs can be cured, prevented by vaccine, and be treated.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -141,11 +141,11 @@
 
 ### Grade Level Expectation CH.8.2.5: Promote and enhance health through disease prevention.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -155,7 +155,7 @@
 4. Explain how the immune system functions to prevent and combat disease.
 5. Describe the potential health consequences of popular fads or trends.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -178,11 +178,11 @@
 
 ### Grade Level Expectation CH.8.3.1: Access valid and reliable school and community resources to help with mental and emotional health concerns.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -191,7 +191,7 @@
 3. Explain when it is necessary and how to seek help for mental and emotional health problems: such as depression, anxiety, self-harm and suicidal ideations, and mood, eating, and sleep disorders.
 4. Determine valid and reliable mental and emotional health resources.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -212,11 +212,11 @@
 
 ### Grade Level Expectation CH.8.3.2: Analyze internal and external factors that influence mental and emotional health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -228,7 +228,7 @@
 6. Identify internal and external influences on one's body image.
 7. Describe the signs, symptoms, and consequences of common eating disorders.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -250,11 +250,11 @@
 
 ### Grade Level Expectation CH.8.4.1: Analyze influences that impact individuals' use or non-use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -263,7 +263,7 @@
 3. Describe how mental and emotional health and life circumstances can affect the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 4. Determine current cultural and societal drug trends and how they could potentially influence adolescent use or non-use.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -285,18 +285,18 @@
 
 ### Grade Level Expectation CH.8.4.2: Access valid sources of information about use of  marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Analyze the validity of information, products, and services related to the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 2. Analyze the accuracy of images of use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco conveyed in the media, including advertisements.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -315,11 +315,11 @@
 
 ### Grade Level Expectation CH.8.4.3: Demonstrate decision-making skills to be drug free (marijuana, illegal drugs, abuse of prescription drugs, alcohol, and tobacco).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -327,7 +327,7 @@
 2. Analyze choices about using marijuana, illegal drugs, prescription drugs, alcohol, and tobacco and how these choices can affect friends and family.
 3. Develop personal plans to be and drug free.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -348,11 +348,11 @@
 
 ### Grade Level Expectation CH.8.4.4: Analyze the factors that influence violent and nonviolent behavior.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -365,7 +365,7 @@
 7. Formulate a plan to advocate for healthy, violence-free, respectful relationships for one’s self and community.
 8. Determine who (adults) to report potentially unsafe behaviors/situations to both inside and outside of school.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -386,11 +386,11 @@
 
 ### Grade Level Expectation CH.8.4.5: Demonstrate ways to advocate for a positive, respectful school and community environment that supports pro-social behavior.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -398,7 +398,7 @@
 2. Examine the consequences of unaddressed behaviors that do not respect others, the school, or the community environment.
 3. Advocate for a positive and respectful school environment that supports pro-social behavior.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

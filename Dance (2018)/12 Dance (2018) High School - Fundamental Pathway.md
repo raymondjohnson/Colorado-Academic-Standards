@@ -1,14 +1,14 @@
-# High School - Fundamental Pathway
+# High School - Fundamental Pathway | Dance
 
 ## Standard 1. Movement
 
 ### Grade Level Expectation DA.H1.1.1: Perform Intermediate/advanced dance movements/technique with artistic expression.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Apply Technical Dance Skills and Language of Movement to retain and execute choreography.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Develop total body awareness so that movement phrases demonstrate variances of energy and dynamics.
 3. Dance alone and with others while maintaining relationships through focus and intentionality.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -37,11 +37,11 @@
 
 ### Grade Level Expectation DA.H1.1.2: Identify and apply anatomical principles and healthful practices to a range of technical dance skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -49,7 +49,7 @@
 2. Apply core strength to achieve fluency of movement.
 3. Apply practices of injury prevention and methods for personal improvement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -71,11 +71,11 @@
 
 ### Grade Level Expectation DA.H1.1.3: Apply strategies for performance accuracy, clarity, and expressiveness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Participate in the dance production process in multiple roles.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -84,7 +84,7 @@
 3. Evaluate possible designs for the production elements of a performance and select and execute the ideas that would intensify and heighten the artistic intent of the dances.
 4. Demonstrate audience etiquette and discuss their role during a performance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -109,11 +109,11 @@
 
 ### Grade Level Expectation DA.H1.2.1: Experiment with the elements of movement to explore personal preferences and strengths through improvisation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Apply elements of dance in movement improvisation.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -121,7 +121,7 @@
 2. Apply intermediate/advanced improvisational skills and techniques.
 3. Evaluate personal preferences for movement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -143,11 +143,11 @@
 
 ### Grade Level Expectation DA.H1.2.2: Clarify the artistic intent of a dance by manipulating choreographic forms and structures.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5.  Compose a dance study applying the knowledge of the Elements of Dance and Principles of Choreography within the creative process.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -155,7 +155,7 @@
 2. Analyze the process and the relationship between the stimuli and the movement.
 3. Analyze and evaluate impact of choices made in the revision process.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -182,11 +182,11 @@
 
 ### Grade Level Expectation DA.H1.3.1: Research and differentiate cultural and historical dance forms and traditions through the lens of the society they represent.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed in terms of the culture or era in which it is experienced.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -194,7 +194,7 @@
 2. Compare and contrast the functions of dance in society.
 3. Analyze cultural traditions as represented through dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -219,11 +219,11 @@
 
 ### Grade Level Expectation DA.H1.3.2: Identify and interpret universal themes through the language of movement.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Research, perform, identify and differentiate the Language of Movement from various cultures and eras.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -231,7 +231,7 @@
 2. Compare and contrast the language of movement used to portray themes in dance with one’s personal perspective.
 3. Interpret personal connections with dance through the language of movement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -254,11 +254,11 @@
 
 ### Grade Level Expectation DA.H1.4.1: Respond, reflect and analyze new dance works, reconstructions or master-works.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, reflect upon, and understand new works, reconstructions and masterworks using the Language of Movement.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -266,7 +266,7 @@
 2. Reflect on personal connections to the work viewed.
 3. Analyze the structure, technique and choreographic intent of the work viewed.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -286,11 +286,11 @@
 
 ### Grade Level Expectation DA.H1.4.2: Connect other art forms, school subjects and the community to dance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Analyze connections between all content areas, mass media and careers.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -298,7 +298,7 @@
 2. Create connections to social activities, mass media and careers with dance.
 3. Connect communities to create an impact with dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

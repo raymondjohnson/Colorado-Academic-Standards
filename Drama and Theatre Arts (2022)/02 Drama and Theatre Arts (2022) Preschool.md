@@ -1,21 +1,21 @@
-# Preschool
+# Preschool | Drama and Theatre Arts
 
 ## Standard 1. Create
 
 ### Preschool Learning and Development Expectation DT.P.1.1: Generate and conceptualize artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Theatre artists rely on intuition, curiosity, and critical inquiry.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, create characters and environments using imagination and background knowledge through dramatic play or guided drama experience (story drama, creative drama, movement stories, pantomimes, puppetry, etc.).
 2. With prompting and support, creatively manipulate objects in a variety of dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -36,17 +36,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.1.2: Organize and develop artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Theatre artists work to discover different ways of communicating meaning.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, explore characters and environments using imagination in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -65,17 +65,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.1.3: Connect artistic ideas to personal experience and varied perspectives.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Theatre artists seek awareness of interrelationships between self and others to influence and inform their work.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, identify similarities between a story and personal experience in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -93,17 +93,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.1.4: Refine towards completion of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Theatre artists refine their work and practice their craft through rehearsal.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, expand characters and environments in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -123,17 +123,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.2.1: Select, analyze, and interpret artistic work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Theatre artists make strong choices to effectively convey meaning.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, select a story for guided dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -151,18 +151,18 @@
 
 ### Preschool Learning and Development Expectation DT.P.2.2: Develop and refine artistic techniques, choices, and work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Theatre artists develop personal processes and skills for a performance or design.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, create characters using body and voice for a story through dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 2. With prompting and support, interact with various items to create an environment for a story.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -182,17 +182,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.2.3: Connect artistic work with audience, community, and ensemble.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Theatre artists understand and can communicate their creative process as they analyze the way the world may be understood.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, identify skills and knowledge from other areas in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -210,17 +210,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.2.4: Convey meaning through the presentation of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Theatre artists share and present stories, ideas, and envisioned worlds to explore the human experience.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, perform character choices and emotions using voice and body in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -241,17 +241,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.3.1: Perceive and analyze artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Theatre artists reflect to understand the impact of drama processes and theatre experiences.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, recall an emotional response in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -267,18 +267,18 @@
 
 ### Preschool Learning and Development Expectation DT.P.3.2: Interpret intent and meaning in artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Theatre artists' interpretations of drama/theatre work are influenced by personal experiences and aesthetics.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, reflect on choices in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 2. With prompting and support, name and describe characters in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -295,17 +295,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.3.3: Connect artistic experiences to our world; past, present, and future.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Theatre artists critically inquire into the ways others have thought about and created drama processes and productions to inform their own work.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, identify and connect stories and cultural experiences that are similar to one another in dramatic play or a guided drama experience.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -323,17 +323,17 @@
 
 ### Preschool Learning and Development Expectation DT.P.3.4: Apply criteria to evaluate artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 12. Theatre artists apply criteria to investigate, explore, and assess drama and theatre work.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
 1. With prompting and support, recognize artistic choices by actively engaging in dramatic play or a guided drama experience (e.g., process drama, story drama, creative drama).
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 

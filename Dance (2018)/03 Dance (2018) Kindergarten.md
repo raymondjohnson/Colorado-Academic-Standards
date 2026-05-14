@@ -1,14 +1,14 @@
-# Kindergarten
+# Kindergarten | Dance
 
 ## Standard 1. Movement
 
 ### Grade Level Expectation DA.K.1.1: Perform simple movements safely.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Apply Technical Dance Skills and Language of Movement to retain and execute choreography.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Move safely in personal and general space.
 3. Perform simple movement sequences and dances.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -38,18 +38,18 @@
 
 ### Grade Level Expectation DA.K.1.2: Move safely while developing kinesthetic awareness in space and time.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Develop basic kinesthetic awareness.
 2. Respond to music in different ways.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -70,11 +70,11 @@
 
 ### Grade Level Expectation DA.K.2.1: Explore movement in response to an intent such as music or other sources.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Apply elements of dance in movement improvisation.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -82,7 +82,7 @@
 2. Explore movement while moving with objects such as scarves, feathers, and balls.
 3. Explore movement in response to shapes, colors and words.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -102,11 +102,11 @@
 
 ### Grade Level Expectation DA.K.2.2: Translate simple ideas and stories into movement using movement in different ways.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5.  Compose a dance study applying the knowledge of the Elements of Dance and Principles of Choreography within the creative process.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -114,7 +114,7 @@
 2. Create a movement sequence to convey simple concepts such as cooperation, feelings, or stories.
 3. Learn to transpose movement to different parts of the body.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -139,11 +139,11 @@
 
 ### Grade Level Expectation DA.K.3.1: Explore social dances.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Research, perform, identify and differentiate the Language of Movement from various cultures and eras.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -151,7 +151,7 @@
 2. Dance cooperatively with others when performing simple social dances.
 3. Recognize the floor patterns in social dances.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -173,11 +173,11 @@
 
 ### Grade Level Expectation DA.K.4.1: Compare and contrast different dance genres.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, reflect upon, and understand new works, reconstructions and masterworks using the Language of Movement.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -185,7 +185,7 @@
 2. Describe a movement using dance vocabulary.
 3. Create a symbol or drawing to describe movement(s) observed in a dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -205,11 +205,11 @@
 
 ### Grade Level Expectation DA.K.4.2: Understand the roles of an audience and performer during a performance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Analyze connections between all content areas, mass media and careers.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -217,7 +217,7 @@
 2. Respond to a performance appropriately.
 3. Discuss and respond to reactions about the performance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

@@ -1,14 +1,14 @@
-# Eighth Grade
+# Eighth Grade | Dance
 
 ## Standard 1. Movement
 
 ### Grade Level Expectation DA.8.1.1: Perform Intermediate dance movements/technique with artistic expression.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Apply Technical Dance Skills and Language of Movement to retain and execute choreography.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Apply energy and dynamics in such a way that movement is textured.
 3. Perform movements in relation to other dancers, objects and environment.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -38,11 +38,11 @@
 
 ### Grade Level Expectation DA.8.1.2: Embody alignment and control while moving.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -50,7 +50,7 @@
 2. Apply core strength to increase coordination, flexibility and placement.
 3. Identify practices of injury prevention and methods for personal improvement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -72,11 +72,11 @@
 
 ### Grade Level Expectation DA.8.1.3: Discover strategies for achieving performance accuracy, clarity and expressiveness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Participate in the dance production process in multiple roles.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -84,7 +84,7 @@
 2. Collaborate with peers to embody the elements of dance in choreography.
 3. Apply production terminology and collaborate to design and execute production elements that would intensify and heighten the artistic intent of a dance performance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -104,11 +104,11 @@
 
 ### Grade Level Expectation DA.8.2.1: Use contrasting stimuli to develop artistic expression through improvisational movement.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Apply elements of dance in movement improvisation.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -116,7 +116,7 @@
 2. Apply intermediate improvisational skills and techniques.
 3. Select and justify personal preferences for movement and structural choices.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -136,11 +136,11 @@
 
 ### Grade Level Expectation DA.8.2.2:  Identify and select personal preferences to create an original dance study using a variety of choreographic forms and elements of dance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5.  Compose a dance study applying the knowledge of the Elements of Dance and Principles of Choreography within the creative process.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -148,7 +148,7 @@
 2. Implement movement from a variety of stimuli to develop an original dance study.
 3. Articulate the process for making movement and structural choices.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -171,11 +171,11 @@
 
 ### Grade Level Expectation DA.8.3.1: Compare and contrast the Language of Movement used in dances from various cultures and eras.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Research, perform, identify and differentiate the Language of Movement from various cultures and eras.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -183,7 +183,7 @@
 2. Analyze and discuss how dances from a variety of cultures, societies, historical periods or communities reveal the ideas and perspectives of the people.
 3. Explain and demonstrate how the elements of dance are used in a variety of genres, styles or cultural movement practices to communicate intent.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -203,11 +203,11 @@
 
 ### Grade Level Expectation DA.8.3.2: Analyze connections and developments in dance from different cultures and eras.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed in terms of the culture or era in which it is experienced.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -215,7 +215,7 @@
 2. Relate connections found between different dances and discuss the relevance of the connections to the development of one’s personal perspectives.
 3. Formulate possible reasons why similarities and differences are developed in relation to the ideas and perspectives important to each social group.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -237,11 +237,11 @@
 
 ### Grade Level Expectation DA.8.4.1: Reflect upon and explain the intent and meaning in artistic works by self and others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, reflect upon, and understand new works, reconstructions and masterworks using the Language of Movement.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -249,7 +249,7 @@
 2. Cite evidence in the dance to support interpretations using genre-specific dance terminology.
 3. Use artistic criteria to determine what makes an effective performance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -269,11 +269,11 @@
 
 ### Grade Level Expectation DA.8.4.2:  Identify how other art forms, school subjects and communities are used in dance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Analyze connections between all content areas, mass media and careers.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -281,7 +281,7 @@
 2. Discover connections to social activities, mass media and careers.
 3. Predict how communities impact dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

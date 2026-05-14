@@ -1,27 +1,26 @@
-# Kindergarten
+# Kindergarten | Reading, Writing and Communicating
 
 ## Standard 1. Oral Expression and Listening
 
 ### Grade Level Expectation RW.K.1.1: Communicate using verbal and nonverbal language.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Collaborate effectively as group members or leaders who listen actively and respectfully; pose thoughtful questions, acknowledge the ideas of others; and contribute ideas to further the group’s attainment of an objective.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
-1. Participate in collaborative conversations with diverse partners about *kindergarten topics and texts* with peers and adults in small and larger groups. (CCSS: SL.K.1)\*
+1. Participate in collaborative conversations with diverse partners about *kindergarten topics and texts   - with peers and adults in small and larger groups. (CCSS: SL.K.1)\*
+   - Follow agreed-upon rules for discussions (for example: listening to others and taking turns speaking about the topics and texts under discussion). (CCSS: SL.K.1a)
+   - Continue a conversation through multiple exchanges. (CCSS: SL.K.1b)
+2. Confirm understanding of a text read aloud or information presented orally or through other media by asking and answering questions about key details and requesting clarification if something is not understood. (CCSS: SL.K.2)\*
+3. Ask and answer questions in order to seek help, get information, or clarify something that is not understood. (CCSS: SL.K.3)\*
+4. Listen with comprehension to follow two-step directions.\*
+5. Use words and phrases acquired through conversations, reading and being read to, and responding to texts. (CCSS: L.K.6)\*
 
-* Follow agreed-upon rules for discussions (for example: listening to others and taking turns speaking about the topics and texts under discussion). (CCSS: SL.K.1a)
-* Continue a conversation through multiple exchanges. (CCSS: SL.K.1b)
-2. Confirm understanding of a text read aloud or information presented orally or through other media by asking and answering questions about key details and requesting clarification if something is not understood. (CCSS: SL.K.2) \*
-3. Ask and answer questions in order to seek help, get information, or clarify something that is not understood. (CCSS: SL.K.3) \*
-4. Listen with comprehension to follow two-step directions. \*
-5. Use words and phrases acquired through conversations, reading and being read to, and responding to texts. (CCSS: L.K.6) \*
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -46,11 +45,11 @@
 
 ### Grade Level Expectation RW.K.1.2: Develop oral communication skills through a language-rich environment.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Deliver effective oral presentations for varied audiences and varied purposes.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -61,10 +60,10 @@
 5. Demonstrate understanding of frequently occurring verbs and adjectives by relating them to their opposites (antonyms). (CCSS: L.K.5b)
 6. Identify real-life connections between words and their use (for example: note places at school that are colorful). (CCSS: L.K.5c)
 7. Distinguish shades of meaning among verbs describing the same general action (for example: *walk*, *march*, *strut*, *prance*) by acting out the meanings. (CCSS: L.K.5d)
-8. Use new vocabulary that is directly taught through reading, speaking, and listening. \*
-9. Relate new vocabulary to prior knowledge. \*
+8. Use new vocabulary that is directly taught through reading, speaking, and listening.\*
+9. Relate new vocabulary to prior knowledge.\*
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -90,33 +89,29 @@
 
 ### Grade Level Expectation RW.K.2.1: Develop and apply the concepts of print and comprehension of literary texts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Read a wide range of literary texts to build knowledge and to better understand the human experience.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use Key Ideas and Details to:
-
-* With prompting and support, ask and answer questions about key details in a text. (CCSS: RL.K.1) \*
-* With prompting and support, retell familiar stories, including key details. (CCSS: RL.K.2)
-* With prompting and support, identify characters, settings, and major events in a story. (CCSS: RL.K.3) \*
+   - With prompting and support, ask and answer questions about key details in a text. (CCSS: RL.K.1)\*
+   - With prompting and support, retell familiar stories, including key details. (CCSS: RL.K.2)
+   - With prompting and support, identify characters, settings, and major events in a story. (CCSS: RL.K.3)\*
 2. Use Craft and Structure to:
-
-* Ask and answer questions about unknown words in a text. (CCSS: RL.K.4)
-* Recognize common types of texts (for example: storybooks, poems). (CCSS: RL.K.5) \*
-* With prompting and support, name the author and illustrator of a story and define the role of each in telling the story. (CCSS: RL.K.6)
+   - Ask and answer questions about unknown words in a text. (CCSS: RL.K.4)
+   - Recognize common types of texts (for example: storybooks, poems). (CCSS: RL.K.5)\*
+   - With prompting and support, name the author and illustrator of a story and define the role of each in telling the story. (CCSS: RL.K.6)
 3. Use Integration of Knowledge and Ideas to:
-
-* With prompting and support, describe the relationship between illustrations and the story in which they appear (for example: what moment in a story an illustration depicts). (CCSS: RL.K.7)
-* With prompting and support, compare and contrast the adventures and experiences of characters in familiar stories. (CCSS: RL.K.9)
+   - With prompting and support, describe the relationship between illustrations and the story in which they appear (for example: what moment in a story an illustration depicts). (CCSS: RL.K.7)
+   - With prompting and support, compare and contrast the adventures and experiences of characters in familiar stories. (CCSS: RL.K.9)
 4. Use Range of Reading and Level of Text Complexity to:
+   - Actively engage in group reading activities with purpose and understanding. (CCSS: RL.K.10)
 
-* Actively engage in group reading activities with purpose and understanding. (CCSS: RL.K.10)
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -140,34 +135,30 @@
 
 ### Grade Level Expectation RW.K.2.2: Develop and apply the concepts of print and comprehension of informational texts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Read a wide range of informational texts to build knowledge and to better understand the human experience.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use Key Ideas and Details to:
-
-* With prompting and support, ask and answer questions about key details in a text. (CCSS: RI.K.1) \*
-* With prompting and support, identify the main topic and retell key details of a text. (CCSS: RI.K.2)
-* With prompting and support, describe the connection between two individuals, events, ideas, or pieces of information in a text. (CCSS: RI.K.3)
+   - With prompting and support, ask and answer questions about key details in a text. (CCSS: RI.K.1)\*
+   - With prompting and support, identify the main topic and retell key details of a text. (CCSS: RI.K.2)
+   - With prompting and support, describe the connection between two individuals, events, ideas, or pieces of information in a text. (CCSS: RI.K.3)
 2. Use Craft and Structure to:
-
-* With prompting and support, ask and answer questions about unknown words in a text. (CCSS: RI.K.4)
-* Identify the front cover, back cover, and title page of a book. (CCSS: RI.K.5) \*
-* Name the author and illustrator of a text and define the role of each in presenting the ideas or information in a text. (CCSS: RI.K.6)
+   - With prompting and support, ask and answer questions about unknown words in a text. (CCSS: RI.K.4)
+   - Identify the front cover, back cover, and title page of a book. (CCSS: RI.K.5)\*
+   - Name the author and illustrator of a text and define the role of each in presenting the ideas or information in a text. (CCSS: RI.K.6)
 3. Use Integration of Knowledge and Ideas to:
-
-* With prompting and support, describe the relationship between illustrations and the text in which they appear (for example: what person, place, thing, or idea in the text an illustration depicts). (CCSS: RI.K.7)
-* With prompting and support, identify the reasons an author gives to support points in a text. (CCSS: RI.K.8)
-* With prompting and support, identify basic similarities in and differences between two texts on the same topic (for example: in illustrations, descriptions, or procedures). (CCSS: RI.K.9)
+   - With prompting and support, describe the relationship between illustrations and the text in which they appear (for example: what person, place, thing, or idea in the text an illustration depicts). (CCSS: RI.K.7)
+   - With prompting and support, identify the reasons an author gives to support points in a text. (CCSS: RI.K.8)
+   - With prompting and support, identify basic similarities in and differences between two texts on the same topic (for example: in illustrations, descriptions, or procedures). (CCSS: RI.K.9)
 4. Use Range of Reading and Level of Text Complexity to:
+   - Actively engage in group reading activities with purpose and understanding. (CCSS: RI.K.10)
 
-* Actively engage in group reading activities with purpose and understanding. (CCSS: RI.K.10)
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -190,45 +181,40 @@
 
 ### Grade Level Expectation RW.K.2.3: Develop basic reading skills through the use of foundational skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Understand how language functions in different contexts, command a variety of word-learning strategies to assist comprehension, and make effective choices for meaning or style when writing and speaking.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
-1. Demonstrate understanding of the organization and basic features of print. (CCSS: RF.K.1) \*
-
-* Follow words from left to right, top to bottom, and page by page. (CCSS: RF.K.1a)
-* Recognize that spoken words are represented in written language by specific sequences of letters. (CCSS: RF.K.1b) \*
-* Understand that words are separated by spaces in print (concept of word). (CCSS: RF.K.1c) \*
-* Recognize and name all upper- and lowercase letters of the alphabet. (CCSS: RF.K.1d)\*
+1. Demonstrate understanding of the organization and basic features of print. (CCSS: RF.K.1)\*
+   - Follow words from left to right, top to bottom, and page by page. (CCSS: RF.K.1a)
+   - Recognize that spoken words are represented in written language by specific sequences of letters. (CCSS: RF.K.1b)\*
+   - Understand that words are separated by spaces in print (concept of word). (CCSS: RF.K.1c)\*
+   - Recognize and name all upper- and lowercase letters of the alphabet. (CCSS: RF.K.1d)\*
 2. Demonstrate understanding of spoken words, syllables, and sounds (phonemes). (CCSS: RF.K.2)
-
-* Recognize and produce rhyming words. (CCSS: RF.K.2a) \*
-* Count, pronounce, blend, and segment syllables in spoken words. (CCSS: RF.K.2b) \*
-* Blend and segment the onset and rime of single-syllable spoken words. (adapted from CCSS: RF.K.2c) \*
-* Isolate and pronounce the initial, medial vowel, and final sounds (phonemes) in three-phoneme (consonant-vowel-consonant, or CVC) words. (adapted from CCSS: RF.K.2d) \*
-* Add or substitute individual sounds (phonemes) in simple, one-syllable words to make new words. (CCSS: RF.K.2e) \*
-* Read text consisting of short sentences comprised of learned sight words and consonant-vowel-consonant (CVC) words. \** Identify phonemes for letters. \*
+   - Recognize and produce rhyming words. (CCSS: RF.K.2a)\*
+   - Count, pronounce, blend, and segment syllables in spoken words. (CCSS: RF.K.2b)\*
+   - Blend and segment the onset and rime of single-syllable spoken words. (adapted from CCSS: RF.K.2c)\*
+   - Isolate and pronounce the initial, medial vowel, and final sounds (phonemes) in three-phoneme (consonant-vowel-consonant, or CVC) words. (adapted from CCSS: RF.K.2d)\*
+   - Add or substitute individual sounds (phonemes) in simple, one-syllable words to make new words. (CCSS: RF.K.2e)\*
+   - Read text consisting of short sentences comprised of learned sight words and consonant-vowel-consonant (CVC) words.\*   - Identify phonemes for letters.\*
 3. Know and apply grade-level phonics and word analysis skills in decoding words. (CCSS: RF.K3)
-
-* Demonstrate basic knowledge of letter-sound correspondences by producing the primary or most frequent sound for each consonant. (adapted from CCSS: RF.K.3a) \*
-* Associate the long and short sounds with the common spellings (graphemes) for the five major vowels. (CCSS: RF.K.3b) \*
-* Read common high-frequency words by sight (for example: *the*, *of*, *to*, *you*, *she*, *my*, *is*, *are*, *do*, *does*). (CCSS: RF.K.3c)
-* Distinguish between similarly spelled words by identifying the sounds of the letters that differ. (CCSS: RF.K.3d) \*
+   - Demonstrate basic knowledge of letter-sound correspondences by producing the primary or most frequent sound for each consonant. (adapted from CCSS: RF.K.3a)\*
+   - Associate the long and short sounds with the common spellings (graphemes) for the five major vowels. (CCSS: RF.K.3b)\*
+   - Read common high-frequency words by sight (for example: *the*, *of*, *to*, *you*, *she*, *my*, *is*, *are*, *do*, *does*). (CCSS: RF.K.3c)
+   - Distinguish between similarly spelled words by identifying the sounds of the letters that differ. (CCSS: RF.K.3d)\*
 4. Read emergent-reader texts with purpose and understanding. (CCSS: RF.K.4)
 5. Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content. (CCSS: L.K.4)
-
-* Identify new meanings for familiar words and apply them accurately (for example: knowing *duck* is a bird and learning the verb *to duck*). (CCSS: L.K.4a) \*
-* Use the most frequently occurring inflections and affixes (for example: *-ed*,*-s*, *re-*, *un-*, *pre-*, *-ful*, *-less*) as a clue to the meaning of an unknown word. (CCSS: L.K.4b) \*
+   - Identify new meanings for familiar words and apply them accurately (for example: knowing *duck   - is a bird and learning the verb *to duck*). (CCSS: L.K.4a)\*
+   - Use the most frequently occurring inflections and affixes (for example: *-ed*,*-s*, *re-*, *un-*, *pre-*, *-ful*, *-less*) as a clue to the meaning of an unknown word. (CCSS: L.K.4b)\*
 6. Identify and manipulate sounds.
+   - Identify and produce groups of words that begin with the same sound (alliteration).\*
+   - Identify the initial, medial, and final phoneme (speech sound) of spoken words.\*
 
-* Identify and produce groups of words that begin with the same sound (alliteration). \*
-* Identify the initial, medial, and final phoneme (speech sound) of spoken words. \*
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -255,11 +241,11 @@
 
 ### Grade Level Expectation RW.K.3.1: Write opinions using labels, dictation, and drawing.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Craft arguments using techniques specific to the genre.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -267,7 +253,7 @@
 2. With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen writing as needed. (CCSS: W.K.5)
 3. With guidance and support from adults, explore a variety of digital tools to produce and publish writing, including in collaboration with peers. (CCSS: W.K.6)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -286,11 +272,11 @@
 
 ### Grade Level Expectation RW.K.3.2: Write informative/explanatory texts on a topic using labels, dictation, and drawing.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Craft informational/explanatory texts using techniques specific to the genre.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -298,7 +284,7 @@
 2. With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen writing as needed. (CCSS: W.K.5)
 3. With guidance and support from adults, explore a variety of digital tools to produce and publish writing, including in collaboration with peers. (CCSS: W.K.6)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -319,11 +305,11 @@
 
 ### Grade Level Expectation RW.K.3.3: Write real or imagined narratives using labels, dictation, and drawing.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Craft narratives using techniques specific to the genre.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -331,7 +317,7 @@
 2. With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen writing as needed. (CCSS: W.K.5)
 3. With guidance and support from adults, explore a variety of digital tools to produce and publish writing, including in collaboration with peers. (CCSS: W.K.6)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -351,30 +337,28 @@
 
 ### Grade Level Expectation RW.K.3.4:  Use appropriate mechanics and conventions when creating simple texts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Demonstrate mastery of their own writing process with clear, coherent, and error-free polished products.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Demonstrate command of the conventions of Standard English grammar and usage when writing or speaking. (CCSS: L.K.1)
-
-* Print many upper- and lowercase letters. (CCSS: L.K.1a)
-* Use frequently occurring nouns and verbs. (CCSS: L.K.1b)
-* Form regular plural nouns orally by adding /s/ or /es/ (for example: *dog, dogs*; *wish, wishes*). (CCSS: L.K.1c)
-* Understand and use question words (interrogatives) (for example: *who*, *what*, *where*, *when*, *why*, *how*). (CCSS: L.K.1d)
-* Use the most frequently occurring prepositions (for example: *to*, *from*, *in*, *out*, *on*, *off*, *for*, *of*, *by*, *with*). (CCSS: L.K.1e)
-* Produce and expand complete sentences in shared language activities. (CCSS: L.K.1f)
+   - Print many upper- and lowercase letters. (CCSS: L.K.1a)
+   - Use frequently occurring nouns and verbs. (CCSS: L.K.1b)
+   - Form regular plural nouns orally by adding /s/ or /es/ (for example: *dog, dogs*; *wish, wishes*). (CCSS: L.K.1c)
+   - Understand and use question words (interrogatives) (for example: *who*, *what*, *where*, *when*, *why*, *how*). (CCSS: L.K.1d)
+   - Use the most frequently occurring prepositions (for example: *to*, *from*, *in*, *out*, *on*, *off*, *for*, *of*, *by*, *with*). (CCSS: L.K.1e)
+   - Produce and expand complete sentences in shared language activities. (CCSS: L.K.1f)
 2. Demonstrate command of the conventions of Standard English capitalization, punctuation, and spelling when writing. (CCSS: L.K.2)
+   - Capitalize the first word in a sentence and the pronoun I. (CCSS: L.K.2a)
+   - Recognize and name end punctuation. (CCSS: L.K.2b)
+   - Write a letter or letters for most consonant and short-vowel sounds (phonemes). (CCSS: L.K.2c)
+   - Spell simple words phonetically, drawing on knowledge of sound-letter relationships. (CCSS: L.K.2d)
 
-* Capitalize the first word in a sentence and the pronoun I. (CCSS: L.K.2a)
-* Recognize and name end punctuation. (CCSS: L.K.2b)
-* Write a letter or letters for most consonant and short-vowel sounds (phonemes). (CCSS: L.K.2c)
-* Spell simple words phonetically, drawing on knowledge of sound-letter relationships. (CCSS: L.K.2d)
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -395,11 +379,11 @@
 
 ### Grade Level Expectation RW.K.4.1: Explore the purposes for research and inquiry by accessing resources in collaborative settings.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Gather information from a variety of sources; analyze and evaluate its quality and relevance; and use it ethically to answer complex questions.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -411,7 +395,7 @@
 6. Gather relevant information and check various information sources for accuracy (for example: In a class discussion focused on butterflies, students ask questions related to a butterfly and the life cycle.).
 7. With guidance and support from adults, recall information from experience or gather information from provided sources to answer a question. (CCSS:W.K.8)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

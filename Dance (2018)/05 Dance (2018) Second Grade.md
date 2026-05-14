@@ -1,15 +1,15 @@
-# Second Grade
+# Second Grade | Dance
 
 ## Standard 1. Movement
 
 ### Grade Level Expectation DA.2.1.1: Perform simple dances with technical competency and movement skill.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Apply Technical Dance Skills and Language of Movement to retain and execute choreography.
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 2. Demonstrate knowledge of time, space and energy/quality in a variety of ways.
 3. Perform simple dances from memory for an audience.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -38,12 +38,12 @@
 
 ### Grade Level Expectation DA.2.1.2: Develop awareness of personal alignment and  interpersonal space.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Apply Technical Dance Skills and Language of Movement to retain and execute choreography.
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -51,7 +51,7 @@
 2. Demonstrate control, coordination, and balance while performing movement sequences.
 3. Perform simple dances in response to a variety of rhythms and move in ways that encourage a healthy body.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -73,11 +73,11 @@
 
 ### Grade Level Expectation DA.2.2.1:  Explore movement based on a variety of inspirations alone and with others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Apply elements of dance in movement improvisation.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -85,7 +85,7 @@
 2. Explore movement based on visual art, words, mathematical concepts, etc.
 3. Choose stimuli such as auditory, visual, tactile or kinesthetic and create movements and movement sequences with a partner(s).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -110,11 +110,11 @@
 
 ### Grade Level Expectation DA.2.2.2: Organize expressive movements into simple dances alone and with a partner(s).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5.  Compose a dance study applying the knowledge of the Elements of Dance and Principles of Choreography within the creative process.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -122,7 +122,7 @@
 2. Vary the movement created that has meaning or relevance to the idea.
 3. Develop a "two-part" (AB) dance with a partner and use contrast to display variation and differences in movement quality.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -146,11 +146,11 @@
 
 ### Grade Level Expectation DA.2.3.1: Identify unique ways social and folk dances express the culture of origin.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Research, perform, identify and differentiate the Language of Movement from various cultures and eras.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -158,7 +158,7 @@
 2. Describe the mood or feeling of the accompaniment of different cultural and social dances.
 3. Describe the significance or meaning of costumes, masks and accessories in different cultural and social dances.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -179,18 +179,18 @@
 
 ### Grade Level Expectation DA.2.3.2: Describe how dance contributes to a community in present day or a time in history.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed in terms of the culture or era in which it is experienced.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Understand that different historical periods have unique styles of dance based on their cultural influences.
 2. Compare and contrast the difference between dances of the past and dances of the present, using movement vocabulary.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -212,11 +212,11 @@
 
 ### Grade Level Expectation DA.2.4.1: Respond to dance using movement vocabulary and relate it to other aspects of life.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, reflect upon, and understand new works, reconstructions and masterworks using the Language of Movement.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -224,7 +224,7 @@
 2. Identify and describe how a movement is similar to or different from a movement in everyday life.
 3. Identify movements in a dance that could be used to communicate or relate to other academic topics such as science, math or language arts.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -243,18 +243,18 @@
 
 ### Grade Level Expectation DA.2.4.2: Discuss the roles of an audience and performer during a performance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Analyze connections between all content areas, mass media and careers.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Discuss a performance using dance and theatrical vocabulary.
 2. Describe the audience’s reaction to a dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

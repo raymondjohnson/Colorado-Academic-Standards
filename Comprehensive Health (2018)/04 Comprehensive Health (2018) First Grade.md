@@ -1,14 +1,14 @@
-# First Grade
+# First Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.1.2.1: Identify a variety of foods from the different food groups that are vital to promote good health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Identify a variety of foods in each of the food groups that are healthy choices.
 3. Identify foods and beverages that are high in added sugar, and generate examples of healthy alternatives.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -35,11 +35,11 @@
 
 ### Grade Level Expectation CH.1.2.2: Demonstrate health-enhancing behaviors to prevent  injury or illness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -48,7 +48,7 @@
 3. Demonstrate ways to prevent the spread of germs that cause common, infectious diseases.
 4. Describe steps to treat a wound, insect bite or sting to reduce chances of infection.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -72,11 +72,11 @@
 
 ### Grade Level Expectation CH.1.3.1: Demonstrate how to express emotions in healthy ways.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -86,7 +86,7 @@
 4. Describe and practice situations that require polite and empathetic responses such as please, thank you, and I'm sorry.
 5. Demonstrate strategies to resolve conflicts, such as sharing, collaboration, and appropriately advocating for personal needs.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -107,11 +107,11 @@
 
 ### Grade Level Expectation CH.1.3.2: Identify parents, guardians, and other trusted adults as resources for information about health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -120,7 +120,7 @@
 3. Demonstrate the ability to talk about feelings with parents and other trusted adults.
 4. Demonstrate the ability to ask for help from a parent and/or trusted adults.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -142,11 +142,11 @@
 
 ### Grade Level Expectation CH.1.4.1: Explain why bullying is harmful and how to respond appropriately.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -157,7 +157,7 @@
 5. Describe the difference between telling and tattling.
 6. Describe how you would advocate for yourself and others in a bullying situation.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -178,11 +178,11 @@
 
 ### Grade Level Expectation CH.1.4.2: Demonstrate strategies to avoid hazards in the home and community.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -195,7 +195,7 @@
 7. Identify safety rules and strategies to avoid hazards in the home and community, such as, fire, severe weather, power lines, and pool use.
 8. Identify safety rules around modern technology, including the internet.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

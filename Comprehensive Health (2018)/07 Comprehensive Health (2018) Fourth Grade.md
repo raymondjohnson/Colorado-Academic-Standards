@@ -1,14 +1,14 @@
-# Fourth Grade
+# Fourth Grade | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.4.2.1: Demonstrate the ability to set a goal in order to enhance personal nutrition.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Explain the importance of eating a variety of foods from all the food groups.
 3. Identify healthy foods (including snacks) in appropriate portion sizes based on your personal lifestyle.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -37,18 +37,18 @@
 
 ### Grade Level Expectation CH.4.2.2: Describe the connection between food intake and physical health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Explain that both eating habits and level of physical activity affect a person's overall well-being and ability to learn.
 2. Explain body signals that tell people when they are hungry and when they are full.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -69,11 +69,11 @@
 
 ### Grade Level Expectation CH.4.2.3: Explain how the dimensions of wellness are interrelated and impact personal health.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -81,7 +81,7 @@
 2. Define wellness.
 3. Assess how modern technology can impact your social, emotional, and physical health and wellness.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -104,11 +104,11 @@
 
 ### Grade Level Expectation CH.4.3.1: Identify positive behaviors that support healthy relationships.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -119,7 +119,7 @@
 5. Identify problem solving strategies to support healthy relationships.
 6. Describe the importance of having and identifying a parent or trusted adult as a support.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -141,11 +141,11 @@
 
 ### Grade Level Expectation CH.4.3.2: Comprehend concepts related to stress and stress management.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -154,7 +154,7 @@
 3. Identify positive and negative ways of dealing with stress.
 4. Identify when you should seek help from a trusted adult in dealing with stress.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -176,11 +176,11 @@
 
 ### Grade Level Expectation CH.4.4.1: Identify positive and negative uses for medicines.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -189,7 +189,7 @@
 3. Summarize the risks associated with the inappropriate use of over-the-counter medicines, prescriptions, and vitamins.
 4. Describe the steps to take if over-the-counter or prescription drugs are used incorrectly.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -212,11 +212,11 @@
 
 ### Grade Level Expectation CH.4.4.2: Demonstrate the ability to use interpersonal communication skills to refuse or avoid using drugs (marijuana, illegal drugs, prescription drugs, alcohol, and tobacco).
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Apply knowledge and skills to make health-enhancing decisions regarding the use of marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -224,7 +224,7 @@
 2. Describe strategies on how to avoid the use of marijuana, illegal drugs, abuse of prescription drugs, alcohol, and tobacco.
 3. Examine the factors that influence a person’s decision to use or not to use marijuana, illegal drugs, prescription drugs, alcohol, and tobacco.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -246,11 +246,11 @@
 
 ### Grade Level Expectation CH.4.4.3: Demonstrate skills necessary to prevent a conflict from escalating to violence.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -259,7 +259,7 @@
 3. Explain a more positive alternative than using violence to resolve a conflict.
 4. Explain the potential dangers of having weapons at home, in school, and in the community.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

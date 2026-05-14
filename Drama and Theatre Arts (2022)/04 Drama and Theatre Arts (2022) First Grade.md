@@ -1,14 +1,14 @@
-# First Grade
+# First Grade | Drama and Theatre Arts
 
 ## Standard 1. Create
 
 ### Grade Level Expectation DT.1.1.1: Generate and conceptualize artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Theatre artists rely on intuition, curiosity, and critical inquiry.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Collaborate with peers to conceptualize costumes and props in a dramatic play or guided drama experience (e.g., story drama, creative drama, movement stories, pantomime, puppetry, etc.).
 3. Identify ways in which gesture and movement may be used to create stories in dramatic play or guided drama experiences.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -32,18 +32,18 @@
 
 ### Grade Level Expectation DT.1.1.2: Organize and develop artistic ideas and work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Theatre artists work to discover different ways of communicating meaning.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Contribute to the development of a sequential plot in a dramatic play or guided drama experience (e.g., story drama, creative drama, movement stories, pantomime, puppetry, etc.).
 2. With prompting and support, participate in group decision making (collaboration) in the creation of dramatic play or a guided drama experience (e.g., process drama or story drama).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -59,18 +59,18 @@
 
 ### Grade Level Expectation DT.1.1.3: Connect artistic ideas to personal experience and varied perspectives.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Theatre artists seek awareness of interrelationships between self and others to influence and inform their work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. With prompting and support, identify similarities between characters and oneself in dramatic play or a guided drama experience (e.g., process drama or story drama).
 2. Explore how stories are adapted from literature to a creative drama or theatre work.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -85,11 +85,11 @@
 
 ### Grade Level Expectation DT.1.1.4: Refine towards completion of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Theatre artists refine their work and practice their craft through rehearsal.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -97,7 +97,7 @@
 2. Identify similarities and differences in voice and movements to improve dramatic play or guided drama experience.
 3. Create multiple representations of objects and environments in a dramatic play or guided drama experience (e.g., story drama, creative drama, movement stories, pantomime, puppetry, etc.).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -117,18 +117,18 @@
 
 ### Grade Level Expectation DT.1.2.1: Select, analyze, and interpret artistic work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Theatre artists make strong choices to effectively convey meaning.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. With prompting and support, describe character actions and dialogue from a story.
 2. With prompting and support, explore character traits and emotions, and demonstrate them through body and voice choices.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -142,18 +142,18 @@
 
 ### Grade Level Expectation DT.1.2.2: Develop and refine artistic techniques, choices, and work for presentation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Theatre artists develop personal processes and skills for a performance or design.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. With prompting and support, develop facial expression, body, and voice choices.
 2. With prompting and support, explore and experiment with various costumes, props, etc. that can be used in guided dramatic play.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -169,17 +169,17 @@
 
 ### Grade Level Expectation DT.1.2.3: Connect artistic work with audience, community, and ensemble.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Theatre artists understand and can communicate their creative process as they analyze the way the world may be understood.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. With prompting and support, apply skills and knowledge from different art forms and content areas in a guided drama experience (e.g., process drama or story drama).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -193,18 +193,18 @@
 
 ### Grade Level Expectation DT.1.2.4: Convey meaning through the presentation of artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Theatre artists share and present stories, ideas, and envisioned worlds to explore the human experience.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. With prompting and support, select and demonstrate appropriate face, body, and voice choices for dramatic play.
 2. With prompting and support, choose costumes, props, etc., and use them in guided dramatic play.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -222,17 +222,17 @@
 
 ### Grade Level Expectation DT.1.3.1: Perceive and analyze artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Theatre artists reflect to understand the impact of drama processes and theatre experiences.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Recall choices made in a guided drama experience (e.g., process drama or story drama).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -246,11 +246,11 @@
 
 ### Grade Level Expectation DT.1.3.2: Interpret intent and meaning in artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Theatre artists' interpretations of drama/theatre work are influenced by personal experiences and aesthetics.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -258,7 +258,7 @@
 2. Identify causes of character actions in a guided drama experience (e.g., process drama or story drama).
 3. Compare personal emotions and choices to the emotions and choices of characters in a guided drama experience (e.g., process drama or story drama).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -274,17 +274,17 @@
 
 ### Grade Level Expectation DT.1.3.3: Connect artistic experiences to our world; past, present, and future.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11. Theatre artists critically inquire into the ways others have thought about and created drama processes and productions to inform their own work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Identify similarities and differences in stories from one’s own community in a guided drama experience (e.g., process drama or story drama).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -298,11 +298,11 @@
 
 ### Grade Level Expectation DT.1.3.4: Apply criteria to evaluate artistic work.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 12. Theatre artists apply criteria to investigate, explore, and assess drama and theatre work.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -310,7 +310,7 @@
 2. Identify props and costumes that might be used in a guided drama experience (e.g., process drama or story drama).
 3. Compare and contrast the experiences of characters in a guided drama experience (e.g., process drama or story drama).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

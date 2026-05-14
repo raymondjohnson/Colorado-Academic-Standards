@@ -1,14 +1,14 @@
-# Eighth Grade
+# Eighth Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.8.1.1: Demonstrate competency in a variety of motor skills and movement patterns.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -19,7 +19,7 @@
 5. Identify the characteristics of a highly skilled performance for the purpose of improving one's own performance.
 6. Analyze motor skills and movement patterns through a variety of skill assessments.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -41,11 +41,11 @@
 
 ### Grade Level Expectation PE.8.1.2: Understand and apply game strategies to physical activities and sports.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -54,7 +54,7 @@
 3. Diagram, explain, and justify offensive and defensive strategies in net/wall, target, invasion, and fielding/run scoring games.
 4. Develop and teach a game that incorporates designated offensive and defensive space, a penalty system, and a scoring system.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -78,11 +78,11 @@
 
 ### Grade Level Expectation PE.8.2.1: Identify areas for growth and design personal goals utilizing assessment and program planning concepts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -91,7 +91,7 @@
 3. Design and implement a program to improve levels of health-related fitness.
 4. Maintain a physical activity for at least two weeks and reflect on activity levels as documented in the log.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -111,18 +111,18 @@
 
 ### Grade Level Expectation PE.8.2.2: Identify preferences for lifetime physical activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Participate in a variety of recreational activities appropriate to a geographical area.
 2. Match personal preferences in physical activities with each of the five components of health-related physical fitness (body composition, cardiovascular endurance, flexibility, muscular endurance, and muscular strength).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -144,11 +144,11 @@
 
 ### Grade Level Expectation PE.8.3.1: Recognize diverse skill performance in self and in others and how diversity affects activities, games, and sport participation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -157,7 +157,7 @@
 3. Practice conflict management and listening skills in a competitive atmosphere.
 4. Respond appropriately to participants’ ethical and unethical behavior during physical activity by using rules and guidelines for resolving conflicts.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -181,11 +181,11 @@
 
 ### Grade Level Expectation PE.8.4.1: Apply rules, procedures, and safe practices to create a safe school environment with no reinforcement.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -196,7 +196,7 @@
 5. Identify specific safety issues associated with all physical activities.
 6. Identify and demonstrate best practices for safe participation in all physical activities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

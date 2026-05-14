@@ -1,27 +1,26 @@
-# Eleventh–Twelfth Grade Band
+# Eleventh / Twelfth Grade Band | Reading, Writing and Communicating
 
 ## Standard 1. Oral Expression and Listening
 
 ### Grade Level Expectation RW.H2.1.1: Follow collaborative guidelines to ensure a hearing of a full range of positions on a topic or issue, and evaluate responses.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Collaborate effectively as group members or leaders who listen actively and respectfully; pose thoughtful questions, acknowledge the ideas of others; and contribute ideas to further the group’s attainment of an objective.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11–12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively. (CCSS: SL.11-12.1)
-
-* Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas. (CCSS: SL.11-12.1a)
-* Work with peers to promote civil, democratic discussions and decision-making, set clear goals and deadlines, and establish individual roles as needed. (CCSS: SL.11-12.1b)
-* Propel conversations by posing and responding to questions that probe reasoning and evidence; ensure a hearing for a full range of positions on a topic or issue; clarify, verify, or challenge ideas and conclusions; and promote divergent and creative perspectives. (CCSS: SL.11-12.1c)
-* Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task. (CCSS: SL.11-12.1d)
+   - Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas. (CCSS: SL.11-12.1a)
+   - Work with peers to promote civil, democratic discussions and decision-making, set clear goals and deadlines, and establish individual roles as needed. (CCSS: SL.11-12.1b)
+   - Propel conversations by posing and responding to questions that probe reasoning and evidence; ensure a hearing for a full range of positions on a topic or issue; clarify, verify, or challenge ideas and conclusions; and promote divergent and creative perspectives. (CCSS: SL.11-12.1c)
+   - Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task. (CCSS: SL.11-12.1d)
 2. Integrate multiple sources of information presented in diverse formats and media (for example: visually, quantitatively, orally) in order to make informed decisions and solve problems, evaluating the credibility and accuracy of each source and noting any discrepancies among the data. (CCSS: SL.11-12.2)
 3. Evaluate a speaker’s point of view, reasoning, and use of evidence and rhetoric, assessing the stance, premises, links among ideas, word choice, points of emphasis, and tone used. (CCSS: SL.11-12.3)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -45,11 +44,11 @@
 
 ### Grade Level Expectation RW.H2.1.2: Integrate credible, accurate information into appropriate media and formats to meet an audience’s needs.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Deliver effective oral presentations for varied audiences and varied purposes.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -57,7 +56,7 @@
 2. Make strategic use of digital media (for example: textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest. (CCSS: SL.11-12.5)
 3. Adapt speech to a variety of contexts and tasks, demonstrating a command of formal English when indicated or appropriate. (CCSS: SL.11-12.6)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -84,34 +83,30 @@
 
 ### Grade Level Expectation RW.H2.2.1: Interpret and evaluate complex literature using various critical reading strategies.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Read a wide range of literary texts to build knowledge and to better understand the human experience.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use Key Ideas and Details to:
-
-* Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain. (CCSS: RL.11-12.1)
-* Determine two or more themes or central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to produce a complex account; provide an objective summary of the text. (CCSS: RL.11-12.2)
-* Analyze the impact of the author’s choices regarding how to develop and relate elements of a story or drama (for example: where a story is set, how the action is ordered, how the characters are introduced and developed). (CCSS: RL.11-12.3)
+   - Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain. (CCSS: RL.11-12.1)
+   - Determine two or more themes or central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to produce a complex account; provide an objective summary of the text. (CCSS: RL.11-12.2)
+   - Analyze the impact of the author’s choices regarding how to develop and relate elements of a story or drama (for example: where a story is set, how the action is ordered, how the characters are introduced and developed). (CCSS: RL.11-12.3)
 2. Use Craft and Structure to:
-
-* Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including words with multiple meanings or language that is particularly fresh, engaging, or beautiful. (Include Shakespeare as well as other authors.) (CCSS: RL.11-12.4)
-* Analyze how an author’s choices concerning how to structure specific parts of a text (for example: the choice of where to begin or end a story, the choice to provide a comedic or tragic resolution) contribute to its overall structure and meaning as well as its aesthetic impact. (CCSS: RL.11-12.5)
-* Analyze a case in which grasping a point of view requires distinguishing what is directly stated in a text from what is really meant (for example: satire, sarcasm, irony, or understatement). (CCSS: RL.11-12.6)
+   - Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including words with multiple meanings or language that is particularly fresh, engaging, or beautiful. (Include Shakespeare as well as other authors.) (CCSS: RL.11-12.4)
+   - Analyze how an author’s choices concerning how to structure specific parts of a text (for example: the choice of where to begin or end a story, the choice to provide a comedic or tragic resolution) contribute to its overall structure and meaning as well as its aesthetic impact. (CCSS: RL.11-12.5)
+   - Analyze a case in which grasping a point of view requires distinguishing what is directly stated in a text from what is really meant (for example: satire, sarcasm, irony, or understatement). (CCSS: RL.11-12.6)
 3. Use Integration of Knowledge and Ideas to:
-
-* By the end of 12th grade, analyze multiple interpretations of a story, drama, or poem (for example: recorded or live production of a play or recorded novel or poetry), evaluating how each version interprets the source text. (for example: a play by Shakespeare and/or a play by an American dramatist.) (adapted from CCSS: RL.11-12.7)
-* By the end of 12th grade, demonstrate knowledge of foundational works of American literature, including how two or more texts from the same period treat similar themes or topics. (adapted from CCSS: RL.11-12.9)
+   - By the end of 12th grade, analyze multiple interpretations of a story, drama, or poem (for example: recorded or live production of a play or recorded novel or poetry), evaluating how each version interprets the source text. (for example: a play by Shakespeare and/or a play by an American dramatist.) (adapted from CCSS: RL.11-12.7)
+   - By the end of 12th grade, demonstrate knowledge of foundational works of American literature, including how two or more texts from the same period treat similar themes or topics. (adapted from CCSS: RL.11-12.9)
 4. Use Range of Reading and Complexity of Text to:
+   - By the end of grade 11, read and comprehend literature, including stories, dramas, and poems, in the grades 11–CCR text complexity band proficiently, with scaffolding as needed at the high end of the range. (CCSS: RL.11-12.10)
+   - By the end of grade 12, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 11-CCR text complexity band independently and proficiently. (CCSS RL.11-12.10)
 
-* By the end of grade 11, read and comprehend literature, including stories, dramas, and poems, in the grades 11–CCR text complexity band proficiently, with scaffolding as needed at the high end of the range. (CCSS: RL.11-12.10)
-* By the end of grade 12, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 11-CCR text complexity band independently and proficiently. (CCSS RL.11-12.10)
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -133,37 +128,33 @@
 
 ### Grade Level Expectation RW.H2.2.2: Interpret and evaluate complex informational texts using various critical reading strategies.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Read a wide range of informational texts to build knowledge and to better understand the human experience.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use Key Ideas and Details to:
-
-* Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain. (CCSS: RI.11-12.1)
-* Determine two or more central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to provide a complex analysis; provide an objective summary of the text. (CCSS: RI.11-12.2)
-* Analyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text. (CCSS: RI.11-12.3)
-* Designate a purpose for reading expository texts and use new learning to complete a specific task (such as convince an audience, shape a personal opinion or decision, or perform an activity).
-* Predict the impact an informational text will have on an audience and justify the prediction.
+   - Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain. (CCSS: RI.11-12.1)
+   - Determine two or more central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to provide a complex analysis; provide an objective summary of the text. (CCSS: RI.11-12.2)
+   - Analyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text. (CCSS: RI.11-12.3)
+   - Designate a purpose for reading expository texts and use new learning to complete a specific task (such as convince an audience, shape a personal opinion or decision, or perform an activity).
+   - Predict the impact an informational text will have on an audience and justify the prediction.
 2. Use Craft and Structure to:
-
-* Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze how an author uses and refines the meaning of a key term or terms over the course of a text (for example: how Madison defines "faction" in Federalist No. 10). (CCSS: RI.11-12.4)
-* Analyze and evaluate the effectiveness of the structure an author uses in his or her exposition or argument, including whether the structure makes points clear, convincing, and engaging. (CCSS: RI.11-12.5)
-* Determine an author’s point of view or purpose in a text in which the rhetoric is particularly effective, analyzing how style and content contribute to the power, persuasiveness or beauty of the text. (CCSS: RI.11-12.6)
+   - Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze how an author uses and refines the meaning of a key term or terms over the course of a text (for example: how Madison defines "faction" in Federalist No. 10). (CCSS: RI.11-12.4)
+   - Analyze and evaluate the effectiveness of the structure an author uses in his or her exposition or argument, including whether the structure makes points clear, convincing, and engaging. (CCSS: RI.11-12.5)
+   - Determine an author’s point of view or purpose in a text in which the rhetoric is particularly effective, analyzing how style and content contribute to the power, persuasiveness or beauty of the text. (CCSS: RI.11-12.6)
 3. Use Integration of Knowledge and Ideas to:
-
-* Integrate and evaluate multiple sources of information presented in different media or formats (for example: visually, quantitatively) as well as in words in order to address a question or solve a problem. (CCSS: RI.11-12.7)
-* Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning (for example: in U.S. Supreme Court majority opinions and dissents) and the premises, purposes, and arguments in works of public advocacy (for example: The Federalist Papers, presidential addresses) by the end of 12th grade. (adapted from CCSS: RI.11-12.8)
-* Analyze 17th-, 18th-, and 19th-century foundational U.S. documents of historical and literary significance (for example: The Declaration of Independence, the Preamble to the Constitution, the Bill of Rights, Lincoln’s Second Inaugural Address) for their themes, purposes, and rhetorical features by the end of 12th grade. (adapted from CCSS: RI.11-12.9)
+   - Integrate and evaluate multiple sources of information presented in different media or formats (for example: visually, quantitatively) as well as in words in order to address a question or solve a problem. (CCSS: RI.11-12.7)
+   - Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning (for example: in U.S. Supreme Court majority opinions and dissents) and the premises, purposes, and arguments in works of public advocacy (for example: The Federalist Papers, presidential addresses) by the end of 12th grade. (adapted from CCSS: RI.11-12.8)
+   - Analyze 17th-, 18th-, and 19th-century foundational U.S. documents of historical and literary significance (for example: The Declaration of Independence, the Preamble to the Constitution, the Bill of Rights, Lincoln’s Second Inaugural Address) for their themes, purposes, and rhetorical features by the end of 12th grade. (adapted from CCSS: RI.11-12.9)
 4. Use Range of Reading and Complexity of Text to:
+   - By the end of grade 11, read and comprehend literary nonfiction in the grades 11-CCR text complexity band proficiently, with scaffolding as needed at the high end of the range. (CCSS: RI.11-12.10)
+   - By the end of grade 12, read and comprehend literary nonfiction at the high end of the grades 11-CCR text complexity band independently and proficiently.
 
-* By the end of grade 11, read and comprehend literary nonfiction in the grades 11-CCR text complexity band proficiently, with scaffolding as needed at the high end of the range. (CCSS: RI.11-12.10)
-* By the end of grade 12, read and comprehend literary nonfiction at the high end of the grades 11-CCR text complexity band independently and proficiently.
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -186,27 +177,25 @@
 
 ### Grade Level Expectation RW.H2.2.3: Understand how language influences the comprehension of narrative, argumentative, and informational texts.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Understand how language functions in different contexts, command a variety of word-learning strategies to assist comprehension, and make effective choices for meaning or style when writing and speaking.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on *grades 11–12 reading and content*, choosing flexibly from a range of strategies. (CCSS: L.11-12.4)
-
-* Use context (for example: the overall meaning of a sentence, paragraph, or text; a word’s position or function in a sentence) as a clue to the meaning of a word or phrase. (CCSS: L.11-12.4a)
-* Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (for example: conceive, conception, conceivable). (CCSS: L.11-12.4b)
-* Consult general and specialized reference materials (for example: dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, its etymology, or its standard usage. (CCSS: L.11-12.4c)
-* Verify the preliminary determination of the meaning of a word or phrase (for example: by checking the inferred meaning in context or in a dictionary). (CCSS: L.11-12.4d)
+   - Use context (for example: the overall meaning of a sentence, paragraph, or text; a word’s position or function in a sentence) as a clue to the meaning of a word or phrase. (CCSS: L.11-12.4a)
+   - Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (for example: conceive, conception, conceivable). (CCSS: L.11-12.4b)
+   - Consult general and specialized reference materials (for example: dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, its etymology, or its standard usage. (CCSS: L.11-12.4c)
+   - Verify the preliminary determination of the meaning of a word or phrase (for example: by checking the inferred meaning in context or in a dictionary). (CCSS: L.11-12.4d)
 2. Demonstrate understanding of figurative language, word relationships, and nuances in word meanings. (CCSS: L.11-12.5)
-
-* Interpret figures of speech (for example: hyperbole, paradox) in context and analyze their role in the text. (CCSS: L.11-12.5a)
-* Analyze nuances in the meaning of words with similar denotations. (CCSS: L.11-12.5b)
+   - Interpret figures of speech (for example: hyperbole, paradox) in context and analyze their role in the text. (CCSS: L.11-12.5a)
+   - Analyze nuances in the meaning of words with similar denotations. (CCSS: L.11-12.5b)
 3. Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression. (CCSS: L.11-12.6)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -230,23 +219,22 @@
 
 ### Grade Level Expectation RW.H2.3.1: Write thoughtful, well-developed arguments that support knowledgeable and significant claims, anticipating and addressing the audience’s values and biases.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Craft arguments using techniques specific to the genre.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence. (CCSS W.11-12.1)
+   - Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences claim(s), counterclaims, reasons, and evidence. (CCSS W.11-12.1a)
+   - Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level, concerns, values, and possible biases. (CCSS W.11-12.1b)
+   - Use words, phrases, clauses, as well as varied syntax to link the major sections of the text, to create cohesion, and to clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims. (adapted from CCSS W.11-12.1c)
+   - Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing. (CCSS W.11-12.1d)
+   - Provide a concluding statement or section that follows from and supports the argument presented. (CCSS W.11-12.1e)
 
-* Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences claim(s), counterclaims, reasons, and evidence. (CCSS W.11-12.1a)
-* Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level, concerns, values, and possible biases. (CCSS W.11-12.1b)
-* Use words, phrases, clauses, as well as varied syntax to link the major sections of the text, to create cohesion, and to clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims. (adapted from CCSS W.11-12.1c)
-* Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing. (CCSS W.11-12.1d)
-* Provide a concluding statement or section that follows from and supports the argument presented. (CCSS W.11-12.1e)
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -269,24 +257,23 @@
 
 ### Grade Level Expectation RW.H2.3.2: Write informative/explanatory texts to examine and convey complex ideas through the effective selection, organization, and analysis of content.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Craft informational/explanatory texts using techniques specific to the genre.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content. (CCSS W.11-12.2)
+   - Introduce a topic; organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (for example: headings), graphics (for example: figures, tables), and multimedia when useful to aiding comprehension. (CCSS W.11-12.2a)
+   - Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic. (CCSS W.11-12.2b)
+   - Use appropriate and varied transitions and syntax to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts. (CCSS W.11-12.2c)
+   - Use precise language, domain-specific vocabulary, and techniques such as metaphor, simile, and analogy to manage the complexity of the topic. (CCSS W.11-12.2d)
+   - Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing. (CCSS W.11-12.2e)
+   - Provide a concluding statement or section that follows from and supports the information or explanation presented (for example: articulating implications or the significance of the topic). (CCSS W.11-12.2f)
 
-* Introduce a topic; organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (for example: headings), graphics (for example: figures, tables), and multimedia when useful to aiding comprehension. (CCSS W.11-12.2a)
-* Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic. (CCSS W.11-12.2b)
-* Use appropriate and varied transitions and syntax to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts. (CCSS W.11-12.2c)
-* Use precise language, domain-specific vocabulary, and techniques such as metaphor, simile, and analogy to manage the complexity of the topic. (CCSS W.11-12.2d)
-* Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing. (CCSS W.11-12.2e)
-* Provide a concluding statement or section that follows from and supports the information or explanation presented (for example: articulating implications or the significance of the topic). (CCSS W.11-12.2f)
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -310,24 +297,23 @@
 
 ### Grade Level Expectation RW.H2.3.3: Write engaging and significant real or imagined narratives that build toward a particular tone or outcome.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Craft narratives using techniques specific to the genre.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences. (CCSS W.11-12.3)
+   - Engage and orient the reader by setting out a problem, situation, or observation and its significance, establishing one or multiple point(s) of view, and introducing a narrator and/or characters; create a smooth progression of experiences or events. (CCSS W.11-12.3a)
+   - Use narrative techniques, such as dialogue, pacing, description, reflection, and multiple plot lines, to develop experiences, events, and/or characters. (CCSS W.11-12.3b)
+   - Use a variety of techniques to sequence events so that they build on one another to create a coherent whole and build toward a particular tone and outcome (for example, a sense of mystery, suspense, growth, or resolution). (CCSS W.11-12.3c)
+   - Use precise words and phrases, telling details, and sensory language to convey a vivid picture of the experiences, events, setting, and/or characters. (CCSS W.11-12.3d)
+   - Provide a conclusion that follows from and reflects on what is experienced, observed, or resolved over the course of the narrative. (CCSS W.11-12.3e)
+   - Select and use stylistic devices to craft engaging and effective text.
 
-* Engage and orient the reader by setting out a problem, situation, or observation and its significance, establishing one or multiple point(s) of view, and introducing a narrator and/or characters; create a smooth progression of experiences or events. (CCSS W.11-12.3a)
-* Use narrative techniques, such as dialogue, pacing, description, reflection, and multiple plot lines, to develop experiences, events, and/or characters. (CCSS W.11-12.3b)
-* Use a variety of techniques to sequence events so that they build on one another to create a coherent whole and build toward a particular tone and outcome (for example, a sense of mystery, suspense, growth, or resolution). (CCSS W.11-12.3c)
-* Use precise words and phrases, telling details, and sensory language to convey a vivid picture of the experiences, events, setting, and/or characters. (CCSS W.11-12.3d)
-* Provide a conclusion that follows from and reflects on what is experienced, observed, or resolved over the course of the narrative. (CCSS W.11-12.3e)
-* Select and use stylistic devices to craft engaging and effective text.
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -348,31 +334,28 @@
 
 ### Grade Level Expectation RW.H2.3.4: Use a recursive writing process to produce, publish, and update individual or shared writing projects in response to ongoing feedback.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Demonstrate mastery of their own writing process with clear, coherent, and error-free polished products.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Demonstrate command of the conventions of Standard English grammar and usage when writing or speaking. (CCSS: L.11-12.1)
-
-* Apply the understanding that usage is a matter of convention, can change over time, and is sometimes contested. (CCSS: L.11-12.1a)
-* Resolve issues of complex or contested usage, consulting references (for example: *Merriam-Webster's Dictionary of English Usage*, *Garner's Modern American Usage*) as needed. (CCSS: L.11-12.1b)
+   - Apply the understanding that usage is a matter of convention, can change over time, and is sometimes contested. (CCSS: L.11-12.1a)
+   - Resolve issues of complex or contested usage, consulting references (for example: *Merriam-Webster's Dictionary of English Usage*, *Garner's Modern American Usage*) as needed. (CCSS: L.11-12.1b)
 2. Demonstrate command of the conventions of Standard English capitalization, punctuation, and spelling when writing. (CCSS: L.11-12.2)
-
-* Observe hyphenation conventions. (CCSS: L.11-12.2a)
-* Correctly spell frequently used words and consult reference materials (for example: dictionaries, both print and digital, spell check, and/or trusted peers and/or adults) to determine the spelling of less frequent vocabulary. (adapted from CCSS: L.11-12.2b)
+   - Observe hyphenation conventions. (CCSS: L.11-12.2a)
+   - Correctly spell frequently used words and consult reference materials (for example: dictionaries, both print and digital, spell check, and/or trusted peers and/or adults) to determine the spelling of less frequent vocabulary. (adapted from CCSS: L.11-12.2b)
 3. Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening. (CCSS.ELA-Literacy.L.11-12.3)
-
-* Vary syntax for effect, consulting references for guidance as needed; apply an understanding of syntax to the study of complex texts when reading. (adapted from CCSS: L.11-12.3a)
+   - Vary syntax for effect, consulting references for guidance as needed; apply an understanding of syntax to the study of complex texts when reading. (adapted from CCSS: L.11-12.3a)
 4. Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. (Grade-specific expectations for writing types are defined in expectations 1-2 above.) (CCSS: W.11-12.4)
 5. Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience. (CCSS: W.11-12.5)
 6. Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information. (CCSS: W.11-12.6)
 7. Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences. (CCSS W.11-12.10)
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -397,11 +380,11 @@
 
 ### Grade Level Expectation RW.H2.4.1: Synthesize multiple, authoritative literary and/or informational sources to answer questions or solve problems, producing well-organized and developed research projects that defend information, conclusions, and solutions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 10. Gather information from a variety of sources; analyze and evaluate its quality and relevance; and use it ethically to answer complex questions.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -410,11 +393,10 @@
 3. Evaluate quality, accuracy, and completeness of information and the bias, credibility and reliability of the sources.
 4. Document sources of quotations, paraphrases, and other information, using a style sheet, such as that of the Modern Language Association (MLA) or the American Psychological Association (APA).
 5. Draw evidence from literary or informational texts to support analysis, reflection, and research. (CCSS: W.11-12.9)
+   - Apply *grades 11-12 Reading standards   - to literature (for example: "Demonstrate knowledge of 18th-, 19th- and early 20th-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics"). (CCSS: W.11-12.9a)
+   - Apply *grades 11-12 Reading standards   - to literary nonfiction (for example: "Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning [for example: in U.S. Supreme Court Case majority opinions and dissents] and the premises, purposes, and arguments in works of public advocacy [for example: The Federalist, presidential addresses]"). (CCSS: W.11-12.9b)
 
-* Apply *grades 11-12 Reading standards* to literature (for example: "Demonstrate knowledge of 18th-, 19th- and early 20th-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics"). (CCSS: W.11-12.9a)
-* Apply *grades 11-12 Reading standards* to literary nonfiction (for example: "Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning [for example: in U.S. Supreme Court Case majority opinions and dissents] and the premises, purposes, and arguments in works of public advocacy [for example: The Federalist, presidential addresses]"). (CCSS: W.11-12.9b)
-
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

@@ -1,14 +1,14 @@
-# Kindergarten
+# Kindergarten | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Grade Level Expectation CH.K.2.1: Identify the major food groups and the benefits of eating a variety of foods.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -17,7 +17,7 @@
 3. Explain how food is fuel and that different activities need different fuel.
 4. Explain the health benefits of choosing healthy foods and beverages.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -37,11 +37,11 @@
 
 ### Grade Level Expectation CH.K.2.2: Explain how personal hygiene and cleanliness affect wellness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -51,7 +51,7 @@
 4. Demonstrate steps for proper hand washing, brushing, and flossing of teeth.
 5. Explain why sleep and rest are important for proper growth and good health.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -74,11 +74,11 @@
 
 ### Grade Level Expectation CH.K.3.1: Recognize the relationship between emotions and actions.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -87,7 +87,7 @@
 3. Recognize that feelings influence actions.
 4. Identify and demonstrate appropriate ways to express emotions and cope with strong feelings.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -107,11 +107,11 @@
 
 ### Grade Level Expectation CH.K.3.2: Demonstrate how to effectively communicate and cooperate with others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -120,7 +120,7 @@
 3. Demonstrate sharing with peers.
 4. Demonstrate strategies to cooperate with others.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -134,11 +134,11 @@
 
 ### Grade Level Expectation CH.K.4.1: Explain the importance of respecting the personal space and boundaries of self and others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -147,7 +147,7 @@
 3. Demonstrate how to tell a parent or trusted adult if inappropriate touching occurs to self or others.
 4. Explain the importance of personal space in the classroom and around others.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -171,11 +171,11 @@
 
 ### Grade Level Expectation CH.K.4.2: Explain safe behavior as a pedestrian and with motor vehicles.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -185,7 +185,7 @@
 4. Describe how rules at school can help to prevent injuries.
 5. Demonstrate safe pedestrian behaviors.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -204,11 +204,11 @@
 
 ### Grade Level Expectation CH.K.4.3: Demonstrate effective communication skills in unsafe situations.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -217,7 +217,7 @@
 3. Define and explain the dangerous use of weapons and how to tell a trusted adult if you see or hear about someone having a weapon.
 4. Identify unsafe or risky situations around the home, school, and community.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

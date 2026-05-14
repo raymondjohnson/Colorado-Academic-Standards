@@ -1,14 +1,14 @@
-# Seventh Grade
+# Seventh Grade | Dance
 
 ## Standard 1. Movement
 
 ### Grade Level Expectation DA.7.1.1: Perform Intermediate dance movements/technique with beginning artistic expression.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Apply Technical Dance Skills and Language of Movement to retain and execute choreography.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Apply the qualities required for dynamic expression in movement.
 3. Perform movement sequences with clarity of movement, attention to detail and artistic expression.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -37,11 +37,11 @@
 
 ### Grade Level Expectation DA.7.1.2: Demonstrate alignment and control while moving.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -49,7 +49,7 @@
 2. Develop core strength to increase coordination, flexibility and placement.
 3. Demonstrate how a well-planned kinesthetic warm-up maintains dance technique and endurance in performance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -73,11 +73,11 @@
 
 ### Grade Level Expectation DA.7.1.3: Perform dances with artistic interpretation from specific, given intents.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Participate in the dance production process in multiple roles.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -86,7 +86,7 @@
 3. Adapt movements to varying performance areas.
 4. Recall appropriate production terminology and explain how the production elements would be handled in different situations.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -106,11 +106,11 @@
 
 ### Grade Level Expectation DA.7.2.1: Compare a variety of stimuli to expand movement vocabulary and artistic expression through improvisational movement.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Apply elements of dance in movement improvisation.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -118,7 +118,7 @@
 2. Apply basic improvisational skills and techniques.
 3. Identify reasons for movement and structural choices.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -137,11 +137,11 @@
 
 ### Grade Level Expectation DA.7.2.2: Use a variety of choreographic forms and elements of dance to develop a dance study with a clear artistic intent.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5.  Compose a dance study applying the knowledge of the Elements of Dance and Principles of Choreography within the creative process.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -149,7 +149,7 @@
 2. Utilize multiple movement sequences with a variety of choreographic forms and elements of dance.
 3. Compare and articulate the creative choices made in choreography.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -170,11 +170,11 @@
 
 ### Grade Level Expectation DA.7.3.1: Compare the Language of Movement used in dances from various cultures and eras.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Research, perform, identify and differentiate the Language of Movement from various cultures and eras.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -182,7 +182,7 @@
 2. Compare movement between cultures and eras using existing knowledge.
 3. Perform movements specific to multiple cultures and eras.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -203,11 +203,11 @@
 
 ### Grade Level Expectation DA.7.3.2: Analyze similarities and differences in dance from different cultures and eras.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed in terms of the culture or era in which it is experienced.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -215,7 +215,7 @@
 2. Discuss movement characteristics or qualities in a specific era or culture and how different perspectives are communicated.
 3. Compare and discuss dances performed by people in various localities or communities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -237,11 +237,11 @@
 
 ### Grade Level Expectation DA.7.4.1: Analyze intent and meaning in artistic work by self and others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, reflect upon, and understand new works, reconstructions and masterworks using the Language of Movement.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -249,7 +249,7 @@
 2. Compare and contrast the use of the Elements of Movement and Principles of Choreography to convey intent and meaning.
 3. Describe specific aesthetic differences and similarities among styles and artists using the language of dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -270,11 +270,11 @@
 
 ### Grade Level Expectation DA.7.4.2: Compare and contrast dance to other art forms, school subjects and the community.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Analyze connections between all content areas, mass media and careers.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -282,7 +282,7 @@
 2. Analyze the similarities and differences between music, visual art, video, other school subjects and dance.
 3. Analyze the impact of dance within individual communities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

@@ -1,14 +1,14 @@
-# First Grade
+# First Grade | Dance
 
 ## Standard 1. Movement
 
 ### Grade Level Expectation DA.1.1.1: Accurately demonstrate simple movement sequences.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1.  Demonstrate dance technique, vocabulary, and skill appropriate to stylistic expectations.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -16,7 +16,7 @@
 2. Demonstrate different timing and rhythm in movement.
 3. Demonstrate various qualities in movement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -30,17 +30,17 @@
 
 ### Grade Level Expectation DA.1.1.2: Develop safe movement practices.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply kinesthetic awareness to develop lifelong and safe movement practices, fitness, and mind/body wellness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Demonstrate focus and concentration while moving.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -58,11 +58,11 @@
 
 ### Grade Level Expectation DA.1.2.1: Explore movement based on a variety of inspirations.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4.  Explore and demonstrate various concepts through improvisational movement to communicate purposeful intent.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -71,7 +71,7 @@
 3. Recognize and demonstrate contrasting ideas.
 4. Solve simple movement problems.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -88,11 +88,11 @@
 
 ### Grade Level Expectation DA.1.2.2: Create and demonstrate simple movements based on play and improvisation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Use a creative process to construct a dance composition.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -100,7 +100,7 @@
 2. Select movements they like and dislike and replicate them.
 3. Change movements based on feedback and conversation.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -120,17 +120,17 @@
 
 ### Grade Level Expectation DA.1.3.1: Perform movements that represent different eras and cultures.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Research, articulate, and embody dance from various eras and cultures.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Perform movements found in dances from various eras and cultures.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -146,18 +146,18 @@
 
 ### Grade Level Expectation DA.1.3.2: Recognize and describe ways in which dance represents different eras and cultures.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Investigate and synthesize how dance developed through the lens of the era or culture in which it originated.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Name the differences in dances of different eras.
 2. Describe cultural aspects from videos and pictures.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -176,11 +176,11 @@
 
 ### Grade Level Expectation DA.1.4.1: Describe dance using basic movement vocabulary and make connections to other aspects of life.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 8. Critique, analyze, and reflect upon dance.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -188,7 +188,7 @@
 2. Use words, pictures, or various mediums to compare different dances.
 3. Find similarities or comparisons in a dance that relates to a student’s own life.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -206,18 +206,18 @@
 
 ### Grade Level Expectation DA.1.4.2: Connect dance to the world around the student.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9. Analyze and demonstrate the various roles and contributions of dance within a community.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Discover that dance relates to other things.
 2. Identify where dance happens.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

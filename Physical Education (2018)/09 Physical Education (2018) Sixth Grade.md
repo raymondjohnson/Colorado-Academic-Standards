@@ -1,14 +1,14 @@
-# Sixth Grade
+# Sixth Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.6.1.1: Demonstrate beginning skills for a variety of activities, games, and sports.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -20,7 +20,7 @@
 6. Combine relationships, levels, speed, direction, and pathways in complex individual and group physical activities.
 7. Combine motor skills to play a lead-up or modified game.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -43,18 +43,18 @@
 
 ### Grade Level Expectation PE.6.1.2: Participate in activities that require problem-solving, cooperation, and team-building.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Participate in initiative and cooperative activities.
 2. Cooperate with a small group of classmates during activities, game play or team-building activities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -76,11 +76,11 @@
 
 ### Grade Level Expectation PE.6.1.3: Demonstrate beginning strategies for a variety of activities, games, or sports.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -88,7 +88,7 @@
 2. Analyze and correct errors in movement patterns, and provide and use feedback from a peer or instruction technology.
 3. Develop a cooperative movement game that uses locomotor skills, object manipulation, and an offensive strategy, and teach the game to another person.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -112,11 +112,11 @@
 
 ### Grade Level Expectation PE.6.2.1: Understand and apply basic principles of training to improving physical fitness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -130,7 +130,7 @@
 8. Accurately identify activities that are aerobic and anaerobic.
 9. Determine the intensity of personal physical activity using the concept of perceived exertion.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -155,11 +155,11 @@
 
 ### Grade Level Expectation PE.6.2.2: Recognize how health-related and skill-related fitness components contribute to a health-enhancing lifestyle that embraces physical fitness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -170,7 +170,7 @@
 5. Identify activities that utilize enhanced skill-related components of fitness.
 6. Compare results of fitness testing with research-based standards for self-improvement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -195,11 +195,11 @@
 
 ### Grade Level Expectation PE.6.2.3: Identify opportunities in school and in the community for regular participation in physical activity to enhance physical fitness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -207,7 +207,7 @@
 2. Strive to attain fitness goals through participation in physical activity of individual choosing.
 3. Identify where individuals can engage in regular physical activity to meet their personal fitness goals.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -233,11 +233,11 @@
 
 ### Grade Level Expectation PE.6.3.1: Recognize diverse skill performance in self and in others and how diversity affects activities, games, and sport participation.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -247,7 +247,7 @@
 4. Exhibit responsible social behavior by cooperating with classmates, demonstrating inclusive behaviors.
 5. Acknowledge and accommodate individual differences in others' physical abilities in small-group activities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -269,11 +269,11 @@
 
 ### Grade Level Expectation PE.6.3.2: Choose to participate cooperatively and productively in group and individual physical activities.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -284,7 +284,7 @@
 5. Demonstrate cooperation skills by establishing rules and guidelines for resolving conflicts.
 6. Problem-solve with a small group of classmates during adventure activities, game play or team-building activities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -307,11 +307,11 @@
 
 ### Grade Level Expectation PE.6.4.1: Apply personal safety knowledge and skills to prevent and treat intentional or unintentional injury.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -322,7 +322,7 @@
 5. List the benefits and risks of following and not following safety rules associated with physical activity.
 6. Use physical activity and fitness equipment appropriately and safely, with the teacher’s guidance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

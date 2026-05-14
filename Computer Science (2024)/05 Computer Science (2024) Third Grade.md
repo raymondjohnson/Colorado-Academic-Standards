@@ -1,20 +1,20 @@
-# Third Grade
+# Third Grade | Computer Science
 
 ## Standard 1.  Computational Thinking
 
 ### Grade Level Expectation CS.3.1.1:  Algorithms can be improved.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Develop, utilize and evaluate algorithms to model and solve problems.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Refine multiple algorithms (step by step instructions) for the same task.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Computer Science Practices:
 
@@ -24,11 +24,11 @@
 
 ### Grade Level Expectation CS.3.2.1:  Steps can be taken to protect private information when connecting devices or engaging in cloud computing.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6.  Recognize and analyze security concepts.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -36,7 +36,7 @@
 2. Demonstrate safe cloud computing practices.
 3. Explain the vulnerabilities of connecting devices.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -51,17 +51,17 @@
 
 ### Grade Level Expectation CS.3.4.1:  Personally identifiable information (PII) is any information that allows the identity of the person to whom that information belongs to be inferred.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 9.  Create a security risk profile that recognizes and analyzes security concepts.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Define personally identifiable information (PII).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -76,11 +76,11 @@
 
 ### Grade Level Expectation CS.3.5.1:  AI tools have the potential to affect society in a number of ways, and their design should take into account the varying needs of users to ensure usability across populations.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 11.  Evaluate the uses of AI.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -88,7 +88,7 @@
 2. Identify changes in how sectors of society operate due to the introduction of AI.
 3. Describe how a job will change due to the introduction of AI or robotic technologies.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 
@@ -105,11 +105,11 @@
 
 ### Grade Level Expectation CS.3.6.1:  Using digital technologies comes with responsibilities and can have consequences the user needs to consider.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 13.  Digital Citizenship: Practice responsible, ethical, and safe use of computing technology and the internet.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -118,7 +118,7 @@
 3. Recognize the different motivations that influence appropriate and inappropriate online behaviors.
 4. Discuss examples of cyber-attacks.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills:
 

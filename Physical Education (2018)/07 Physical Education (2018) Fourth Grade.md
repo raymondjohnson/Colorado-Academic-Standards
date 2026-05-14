@@ -1,14 +1,14 @@
-# Fourth Grade
+# Fourth Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.4.1.1: Identify the major characteristics of mature locomotor, non-locomotor, manipulative, and rhythmic skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -22,7 +22,7 @@
 8. Distinguish and describe the similarities and differences of manipulative skills such as basketball and soccer dribbling or overhand and underhand.
 9. Demonstrate efficient patterns of striking with and without an implement.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -46,18 +46,18 @@
 
 ### Grade Level Expectation PE.4.1.2: Provide and receive feedback to and from peers using the major characteristics of mature locomotor and manipulative skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Use peer assessment tools to recognize and evaluate the critical elements of movement in a variety of physical activities.
 2. Identify critical elements of movement skills when watching a video for self or peer assessment.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -83,11 +83,11 @@
 
 ### Grade Level Expectation PE.4.2.1: Explain how the health-related fitness components are used to improve physical fitness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -98,7 +98,7 @@
 5. Explain the benefits of having good cardiovascular endurance.
 6. Recognize healthy and balanced meals and snacks designed to enhance the performance of physical activities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -127,18 +127,18 @@
 
 ### Grade Level Expectation PE.4.2.2: Analyze opportunities for participating in physical activity and actively engage in teacher-directed and independent activities.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
 1. Understand the importance of participation in fitness-enhancing physical activities such as gymnastic clubs, community-sponsored youth sports, or activity clubs.
 2. Demonstrate appropriate warm-up procedures before participation in vigorous physical activity.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -159,11 +159,11 @@
 
 ### Grade Level Expectation PE.4.3.1: Assess and take responsibility for personal behavior and stress management.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -173,7 +173,7 @@
 4. Demonstrate respect for the person who is officiating.
 5. Recognize that physical activity can be used as a stress management technique.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -198,11 +198,11 @@
 
 ### Grade Level Expectation PE.4.4.1: Demonstrate knowledge of safe practices in a physical activity setting.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -212,7 +212,7 @@
 4. Display safe and responsible behavior while engaging in fitness activities.
 5. Develop with an instructor’s help the safety rules for physical education.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

@@ -1,14 +1,14 @@
-# Preschool
+# Preschool | Comprehensive Health
 
 ## Standard 2. Physical and Personal Wellness
 
 ### Preschool Learning and Development Expectation CH.P.2.1: Distinguish between healthy and unhealthy foods.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Apply knowledge and skills to engage in lifelong healthy eating.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -16,7 +16,7 @@
 2. Demonstrate the ability to identify and choose a healthy food choice.
 3. Recognize the benefits of choosing a healthy food.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -39,11 +39,11 @@
 
 ### Preschool Learning and Development Expectation CH.P.2.2: Develop self-management skills and personal hygiene skills to promote healthy habit.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Apply knowledge and skills related to health promotion, disease prevention, and health maintenance.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -51,7 +51,7 @@
 2. Prevent or reduce the spreading of germs such as covering the mouth for coughing and sneezing, not putting toys in the mouth, and not sharing drinks and food.
 3. Understand that personal hygiene is an important step in the prevention of disease and illness.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -76,11 +76,11 @@
 
 ### Preschool Learning and Development Expectation CH.P.3.1: Children develop healthy relationships and interactions with adults and peers.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -94,7 +94,7 @@
 8. Express empathy and sympathy to peers.
 9. Recognize how actions affect others and accept consequences of one’s action.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -114,11 +114,11 @@
 
 ### Preschool Learning and Development Expectation CH.P.3.2: Children develop self-concept and self-efficacy skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -127,7 +127,7 @@
 3. Show confidence in a range of abilities and in the capacity to accomplish tasks and take on new tasks.
 4. Demonstrate age appropriate independence in decision-making regarding activities and materials.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -149,11 +149,11 @@
 
 ### Preschool Learning and Development Expectation CH.P.3.3: Children develop self-regulation skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -163,7 +163,7 @@
 4. Shift attention between tasks and move through transitions with minimal direction from adults.
 5. Attend to free play activities for longer periods of time.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -184,11 +184,11 @@
 
 ### Preschool Learning and Development Expectation CH.P.3.4: Children develop a healthy range of emotional expressions and learn positive alternatives to aggressive or isolating behaviors.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Utilize knowledge and skills to enhance mental, emotional, and social well-being.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -196,7 +196,7 @@
 2. Refrain from disruptive behavior, aggressive, angry, or defiant behaviors.
 3. Adapt to new environments with appropriate emotions and behaviors.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -216,11 +216,11 @@
 
 ### Preschool Learning and Development Expectation CH.P.4.1: Identify ways to be safe while at play.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 7. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -229,7 +229,7 @@
 3. Communicate to a parent or trusted adult if something is not safe.
 4. Communicate and understanding the importance of health and safety routines and rules.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -251,11 +251,11 @@
 
 ### Preschool Learning and Development Expectation CH.P.4.2: Identify the importance of respecting the personal space and boundaries of self and others.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply knowledge and skills that promote healthy, violence-free relationships.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -266,7 +266,7 @@
 5. Identify characteristics of a trusted adult.
 6. Seek out a parent or trusted adult for support in resolving an unwanted action or feeling they have experienced.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 

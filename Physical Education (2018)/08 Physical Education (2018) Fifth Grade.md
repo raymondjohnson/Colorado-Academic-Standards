@@ -1,14 +1,14 @@
-# Fifth Grade
+# Fifth Grade | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Grade Level Expectation PE.5.1.1: Demonstrate mature form for all basic locomotor, non-locomotor, manipulative, and rhythmic skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -21,7 +21,7 @@
 7. Perform a short or long rope jump routine with a partner or small group.
 8. Develop and refine a gymnastics or creative dance sequence, and demonstrate smooth transitions.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -47,11 +47,11 @@
 
 ### Grade Level Expectation PE.5.1.2: Demonstrate understanding of how to combine and apply movement concepts and principles to learn and develop motor skills.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -59,7 +59,7 @@
 2. Analyze and correct errors in movement patterns, and provide and use feedback from a peer or instruction technology.
 3. Develop a cooperative movement game that uses locomotor skills, object manipulation, and an offensive strategy, and teach the game to another person.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -78,11 +78,11 @@
 
 ### Grade Level Expectation PE.5.1.3: Understand why feedback can improve performance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 2. Apply movement concepts, principles, strategies, and tactics to learning and performing physical activities.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -91,7 +91,7 @@
 3. Analyze and use basic offensive and defensive strategies, and apply rules in modified games and activities.
 4. Analyze and demonstrate a variety of social, folk, square, modern, jazz, or creative dance.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -114,11 +114,11 @@
 
 ### Grade Level Expectation PE.5.2.1: Demonstrate understanding of skill-related components of fitness and how they affect physical performance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 3. Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -126,7 +126,7 @@
 2. Create a plan using the six skill-related components to improve performance in a chosen activity.
 3. Differentiate between health related components and skill related components.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -147,11 +147,11 @@
 
 ### Grade Level Expectation PE.5.2.2: Set personal goals for improving health-related fitness.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -163,7 +163,7 @@
 6. Accurately take a pulse at rest and during exercise.
 7. Identify the components of the FITT principle (frequency, intensity, time, type).
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -191,11 +191,11 @@
 
 ### Grade Level Expectation PE.5.3.1: Identify personal activity interests and abilities and take responsibility for individual and team performance.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -204,7 +204,7 @@
 3. Develop confidence in self and others in a physical activity setting.
 4. Try new activities and connect hard work and practice to success.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -228,11 +228,11 @@
 
 ### Grade Level Expectation PE.5.3.2: Work cooperatively and productively in a group.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -241,7 +241,7 @@
 3. Analyze possible solutions to a problem in a group physical activity, and come to a consensus on the best solution.
 4. Demonstrate the ability to resolve conflicts with peers.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 
@@ -266,11 +266,11 @@
 
 ### Grade Level Expectation PE.5.4.1: Implement safety procedures in the utilization of space and equipment.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Evidence Outcomes:
+#### Evidence Outcomes
 
 ##### Students Can:
 
@@ -279,7 +279,7 @@
 3. Follow the rules of activities to maintain safe playing conditions.
 4. Describe safe and unsafe practices for a variety of physical activities.
 
-#### Academic Contexts and Connections:
+#### Academic Contexts and Connections
 
 ##### Colorado Essential Skills and Real-World Application:
 

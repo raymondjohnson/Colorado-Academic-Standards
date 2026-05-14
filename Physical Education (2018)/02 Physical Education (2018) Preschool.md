@@ -1,14 +1,14 @@
-# Preschool
+# Preschool | Physical Education
 
 ## Standard 1. Movement Competence and Understanding
 
 ### Preschool Learning and Development Expectation PE.P.1.1: Travel in a variety of directions using basic locomotor skills and demonstrate understanding of personal and general space.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 1. Demonstrate competency in motor skills and movement patterns needed to perform a variety of physical activities.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -20,7 +20,7 @@
 6. Demonstrate the relationship of under, over, behind, next to, through, right, left, up, down, forward, backward, and in front of by using the body and an object.
 7. Understand movement concepts, such as control of the body, how the body moves (such as awareness of space and directionality), and that the body can move independently or in coordination with other objects.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -53,11 +53,11 @@
 
 ### Preschool Learning and Development Expectation PE.P.2.1: Recognize the positive feelings experienced during and after physical activity.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 4. Participate in and understand the benefits of regular physical activity.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -66,7 +66,7 @@
 3. Begin to understand how daily activity and healthy behavior promote overall personal health and safety.
 4. Identify physical activity opportunities inside and outside of school.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -92,11 +92,11 @@
 
 ### Preschool Learning and Development Expectation PE.P.3.1: Demonstrate understanding of positive social interaction with teachers and peers.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 5. Exhibit responsible personal and social behavior that respects self and others in physical activity settings.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -106,7 +106,7 @@
 4. Recognize basic class rules and protocols.
 5. Individuals recognize that rules make situations and activities safe and run more smoothly.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
@@ -124,11 +124,11 @@
 
 ### Preschool Learning and Development Expectation PE.P.4.1: Understand basic safety rules and principles.
 
-#### Prepared Graduates:
+#### Prepared Graduates
 
 6. Apply personal safety knowledge and skills to prevent and treat injury.
 
-#### Indicators of Progress:
+#### Indicators of Progress
 
 ##### By the end of the preschool experience (approximately 60 months/5 years old) students may:
 
@@ -136,7 +136,7 @@
 2. Follow basic health and safety rules and respond appropriately to harmful or unsafe situations.
 3. Communicate an understanding of the importance of health and safety routines and rules.
 
-#### Examples of High-Quality Teaching and Learning Experiences:
+#### Examples of High-Quality Teaching and Learning Experiences
 
 ##### Supportive Teaching Practices/Adults May:
 
