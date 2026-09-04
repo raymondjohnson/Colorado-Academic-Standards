@@ -1,100 +1,12 @@
 # Front Matter
 
-## Mathematics Standards Review and Revision Committee
-
-### Chairperson
-
-Joanie Funderburk, President, Colorado Council of Teachers of Mathematics
-
-### Members
-
-Lisa Bejarano, Teacher, Aspen Valley High School, Academy District 20
-
-Michael Brom, Assessment and Accountability Teacher on Special Assignment, Lewis-Palmer School District 38
-
-Ann Conaway, Teacher, Palisade High School, Mesa County Valley School District 51
-
-Dennis DeBay, Mathematics Education Faculty, University of Colorado Denver
-
-Greg George, K-12 Mathematics Coordinator, St. Vrain Valley School District
-
-Cassie Harrelson, Director of Professional Practice, Colorado Education Association
-
-Lanny Hass, Principal, Thompson Valley High School, Thompson School District
-
-Ken Jensen, Mathematics Instructional Coach, Aurora Public Schools
-
-Lisa Rogers, Student Achievement Coordinator, Fountain-Fort Carson School District 8
-
-David Sawtelle, K-12 Mathematics Specialist, Colorado Springs School District 11
-
-T. Vail Shoultz-McCole, Early Childhood Program Director, Colorado Mesa University
-
-Ann Summers, K-12 Mathematics and Intervention Specialist, Littleton Public Schools
-
-## State Board of Education and Colorado Department of Education
-
-### Colorado State Board of Education
-
-Angelika Schroeder (D, Chair), 2nd Congressional District, Boulder
-
-Joyce Rankin (R, Vice Chair), 3rd Congressional District, Carbondale
-
-Steve Durham (R), 5th Congressional District, Colorado Springs
-
-Valentina (Val) Flores (D), 1st Congressional District, Denver
-
-Jane Goff (D), 7th Congressional District, Arvada
-
-Rebecca McClellan (D), 6th Congressional District, Centennial
-
-Debora Scheffel (R), 4th Congressional District, Parker
-
-### Colorado Department of Education
-
-Katy Anthes, Ph.D., Commissioner of Education, Secretary to the Board of Education
-
-Melissa Colsman, Ph.D., Associate Commissioner of Education, Student Learning Division
-
-Floyd Cobb, Ph.D., Executive Director, Teaching and Learning Unit
-
-### CDE Standards and Instructional Support Office
-
-Karol Gates, Director
-
-Carla Aguilar, Ph.D., Music Content Specialist
-
-Ariana Antonio, Standards Project Manager
-
-Joanna Bruno, Ph.D., Science Content Specialist
-
-Lourdes (Lulu) Buck, World Languages Content Specialist
-
-Donna Goodwin, Ph.D., Visual Arts Content Specialist
-
-Stephanie Hartman, Ph.D., Social Studies Content Specialist
-
-Judi Hofmeister, Dance Content Specialist, Drama and Theatre Arts Content Specialist
-
-Jamie Hurley, Ph.D., Comprehensive Health Content Specialist, Physical Education Content Specialist
-
-Raymond Johnson, Mathematics Content Specialist
-
-Christine Liebe, Computer Science Content Specialist
-
-Vince Puzick, Reading, Writing, and Communicating Content Specialist
-
 ## Purpose of Mathematics
 
-*“Pure mathematics is, in its way, the poetry of logical ideas.”*
+> “Pure mathematics is, in its way, the poetry of logical ideas.” ~Albert Einstein, Obituary for Emmy Noether (1935)
 
-~Albert Einstein, Obituary for Emmy Noether (1935)
+> “Systematization is a great virtue of mathematics, and if possible, the student has to learn this virtue, too. But then I mean the activity of systematizing, not its result. Its result is a system, a beautiful closed system, closed with no entrance and no exit. In its highest perfection it can even be handled by a machine. But for what can be performed by machines, we need no humans. What humans have to learn is not mathematics as a closed system, but rather as an activity, the process of mathematizing reality and if possible even that of mathematizing mathematics.”* ~Hans Freudenthal, Why to Teach Mathematics So as to Be Useful (1968)
 
-*“Systematization is a great virtue of mathematics, and if possible, the student has to learn this virtue, too. But then I mean the activity of systematizing, not its result. Its result is a system, a beautiful closed system, closed with no entrance and no exit. In its highest perfection it can even be handled by a machine. But for what can be performed by machines, we need no humans. What humans have to learn is not mathematics as a closed system, but rather as an activity, the process of mathematizing reality and if possible even that of mathematizing mathematics.”*
-
-~Hans Freudenthal, Why to Teach Mathematics So as to Be Useful (1968)
-
-Mathematics is the human activity of reasoning with number and shape, in concert with the logical and symbolic artifacts that people develop and apply in their mathematical activity. The National Council of Teachers of Mathematics (2018) outlines three primary purposes for learning mathematics:
+Mathematics is the human activity of reasoning with number and shape and their representations. The National Council of Teachers of Mathematics (2018) outlines three primary purposes for learning mathematics:
 
 1. To Expand Professional Opportunity. Just as the ability to read and write was critical for workers when the early 20th-century economy shifted from agriculture to manufacturing, the ability to do mathematics is critical for workers in the 21st century as the economy has shifted from manufacturing to information technology. Workers with a robust understanding of mathematics are in demand by employers, and job growth in STEM (science, technology, engineering, and mathematics) fields is forecast to accelerate over the next decade.
 2. Understand and Critique the World. A consequence of living in a technological society is the need to interpret and understand the mathematics behind our social, scientific, commercial, and political systems. Much of this mathematics appears in the way of statistics, tables, and graphs, but this need to understand and critique the world extends to the application of mathematical models, attention given to precision, bias in data collection, and the soundness of mathematical claims and arguments. Learners of mathematics should feel empowered to make sense of the world around them and to better participate as an informed member of a democratic society.
@@ -179,3 +91,96 @@ Students’ study of geometry allows them to comprehend space and shape. Student
 A star symbol (★) in the high school standards represents grade level expectations and evidence outcomes that make up a mathematical modeling standards category.
 
 Modeling links classroom mathematics and statistics to everyday life, work, and decision making. Modeling is the process of choosing and using appropriate mathematics and statistics to analyze empirical situations, to understand them better, and to improve decisions. When making mathematical models, technology is valuable for varying assumptions, exploring consequences, and comparing predictions with data. Modeling is best interpreted not as a collection of isolated topics but rather in relation to other standards. (For more on modeling, see Appendix: Modeling Cycle in the [PDF download of the standards document](https://www.cde.state.co.us/comath/cas-ma-standards-p12-2018).)
+
+## 2026 Mathematics Standards Revision
+
+### Revision Committee
+
+#### Committee Chairperson
+
+Joanie Funderburk, Past President, Colorado Council of Teachers of Mathematics
+
+#### Committee Members
+
+Sidney Cerise, Mathematics Teacher, Greeley-Evans School District 6
+
+Justin Cole, Mathematics Specialist, Denver Public Schools
+
+Amber Gardner, Mathematics Specialist, Cherry Creek School District
+
+Kara Ingram, Mathematics Teacher, Littleton Public Schools
+
+Paul Nameth, School Administrator, Fremont School District RE-2
+
+Megan Noonan, Mathematics Teacher, Aspen School District
+
+Nathaniel Owen, Mathematics Teacher, Manitou Springs School District 14
+
+Lindsay Reiten, Associate Professor, University of Northern Colorado
+
+Lisa Rogers, Mathematics Specialist, Fountain-Fort Carson School District 8
+
+Patricia Scriffiny, Mathematics Teacher, Montrose County School District RE-1J
+
+David Webb, Associate Professor, University of Colorado Boulder
+
+### State Board of Education and Colorado Department of Education
+
+#### Colorado State Board of Education
+
+Rebecca McClellan (D, Chair), 6th Congressional District, Centennial
+
+Yazmin Navarro (R, Vice Chair), 8th Congressional District, Johnstown
+
+Lisa Escárcega (D), 1st Congressional District, Denver
+
+Kathy Gebhardt (D), 2nd Congressional District, Boulder
+
+Sherri Wright (R), 3rd Congressional District, Cortez
+
+Kristi ("KBB") Burton Brown (R), 4th Congressional District, Lone Tree
+
+Steve Durham (R), 5th Congressional District, Colorado Springs
+
+Karla Esser (D), 7th Congressional District, Lakewood
+
+Kathy Plomer (D), At-Large, Broomfield
+
+#### Colorado Department of Education
+
+Susana Córdova, Ed.D., Commissioner of Education, Secretary to the Board of Education
+
+Rhonda Haniford, Ph.D., Deputy Commissioner of Student Excellence
+
+Joanna Bruno, Ph.D., Chief Academic Officer
+
+Jenn Zinn, Ed.D., Executive Director of Teaching and Learning Unit
+
+**CDE Standards and Instructional Support Office**
+
+Shelly Ramos, Director
+
+Samantha Agoos, Science Content Specialist
+
+Carla Aguilar, Ph.D., Music Content Specialist
+
+Joseph Brenkert, Mathematics Content Specialist
+
+Jason Cushner, Mathematics Content Specialist
+
+Stephanie Hartman, Ph.D., Social Studies Content Specialist
+
+Jamie Hurley, Ph.D., Comprehensive Health Content Specialist, Physical Education Content Specialist
+
+Raymond Johnson, Ph.D., Mathematics Content Specialist
+
+Mykel Knight, Reading, Writing, and Communicating Content Specialist
+
+Lindsay Latva, Visual Arts Content Specialist
+
+Tami LoSasso, Dance Content Specialist, Drama and Theatre Arts Content Specialist
+
+Anthony Martin, Support Coordinator
+
+Tabitha Nickerson, Mathematics Content Specialist
+
