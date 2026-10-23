@@ -141,7 +141,7 @@ In some cases, the value of using technology lies not only in the ways it enhanc
 
 ------------------------------------------------------------------------
 
-## Draft High School Mathematics Standards
+## High School Mathematics Standards
 
 Filter by Label:
 
